@@ -1,0 +1,560 @@
+Query       	qlen	Templa    	alnlen	preTMS	preTMS2	Z-score	SID	Description
+WP_010940055.1	183	PF01184.20	183	0.9523	0.8459	8.144	33.3%	| Gpr1_Fun34_YaaH ; GPR1/FUN34/yaaH family
+WP_010940198.1	390	PF01837.17	358	0.9066	0.9867	19.936	55.3%	| HcyBio ; Homocysteine biosynthesis enzyme, sulfur-incorporation
+WP_011791395.1	375	PF00310.22	363	0.8987	0.8017	15.027	14.0%	| GATase_2 ; Glutamine amidotransferases class-II
+WP_011792312.1	226	PF03609.15	217	0.8937	0.8755	10.217	15.2%	| EII-Sor ; PTS system sorbose-specific iic component
+WP_010940349.1	401	PF03349.17	385	0.8911	0.8586	19.105	21.8%	| Toluene_X ; Outer membrane protein transport protein (OMPP1/FadL/TodX)
+WP_010937534.1	131	PF15919.6	121	0.8635	0.8889	6.481	27.3%	| HicB_lk_antitox ; HicB_like antitoxin of bacterial toxin-antitoxin system
+WP_010937517.1	108	PF05354.12	106	0.8526	0.7948	6.132	15.1%	| Phage_attach ; Phage Head-Tail Attachment
+WP_010937762.1	255	PF06134.12	255	0.8484	0.5436	11.767	11.8%	| RhaA ; L-rhamnose isomerase (RhaA)
+WP_010939009.1	550	PF12236.9	481	0.8440	0.9480	16.219	28.9%	| Head-tail_con ; Bacteriophage head to tail connecting protein
+WP_010940480.1	447	PF00342.20	425	0.8431	0.7649	15.805	21.2%	| PGI ; Phosphoglucose isomerase
+WP_010939987.1	124	PF10618.10	114	0.8412	0.9011	5.902	18.4%	| Tail_tube ; Phage tail tube protein
+WP_010937898.1	115	PF02635.16	110	0.8406	0.7538	5.270	20.9%	| DrsE ; DsrE/DsrF-like family
+WP_014524683.1	169	PF03433.14	164	0.8356	0.7931	6.049	15.9%	| EspA ; EspA-like secreted protein
+WP_010939945.1	88	PF06892.12	87	0.8347	0.4874	6.596	14.9%	| Phage_CP76 ; Phage regulatory protein CII (CP76)
+WP_010939349.1	318	PF01654.18	308	0.8333	0.6233	10.015	8.8%	| Cyt_bd_oxida_I ; Cytochrome bd terminal oxidase subunit I
+WP_010938106.1	98	PF06892.12	97	0.8289	0.5396	6.761	16.5%	| Phage_CP76 ; Phage regulatory protein CII (CP76)
+WP_010939873.1	569	PF16510.6	544	0.8242	0.7034	15.754	7.9%	| P22_portal ; Phage P22-like portal protein
+WP_010938423.1	80	PF01920.21	80	0.8212	0.6736	3.022	10.0%	| Prefoldin_2 ; Prefoldin subunit
+WP_010938088.1	156	PF04093.13	148	0.8184	0.7832	7.663	12.8%	| MreD ; rod shape-determining protein MreD
+WP_010937807.1	273	PF12997.8	252	0.8140	0.7903	10.191	13.5%	| DUF3881 ; Domain of unknown function, E. rectale Gene description (DUF3881)
+WP_010938782.1	116	PF09343.11	111	0.8131	0.4930	5.603	9.0%	| DUF2460 ; Conserved hypothetical protein 2217 (DUF2460)
+WP_010939868.1	184	PF17212.4	161	0.8095	0.8812	8.245	13.0%	| Tube ; Tail tubular protein
+WP_010939487.1	120	PF02391.18	108	0.8084	0.8272	5.270	23.1%	| MoaE ; MoaE protein
+WP_041722685.1	70	PF08809.12	63	0.8059	0.7008	3.849	22.2%	| DUF1799 ; Phage related hypothetical protein (DUF1799)
+WP_010937516.1	197	PF06763.12	175	0.8055	0.8672	7.381	15.4%	| Minor_tail_Z ; Prophage minor tail protein Z (GPZ)
+WP_010937447.1	72	PF18037.2	72	0.8026	0.6308	4.701	11.1%	| Ubiquitin_5 ; Ubiquitin-like domain
+WP_010939781.1	95	PF04999.14	91	0.7999	0.7999	5.302	9.9%	| FtsL ; Cell division protein FtsL
+WP_010939755.1	354	PF01654.18	334	0.7969	0.6586	9.994	11.1%	| Cyt_bd_oxida_I ; Cytochrome bd terminal oxidase subunit I
+WP_010937683.1	88	PF02966.17	88	0.7951	0.5623	5.217	8.0%	| DIM1 ; Mitosis protein DIM1
+WP_010938409.1	148	PF09393.11	137	0.7935	0.8386	6.599	12.4%	| DUF2001 ; Phage tail tube protein
+WP_010939433.1	121	PF05939.14	106	0.7922	0.8845	6.562	19.8%	| Phage_min_tail ; Phage minor tail protein
+WP_010938898.1	248	PF10111.10	234	0.7909	0.6941	10.161	11.1%	| Glyco_tranf_2_2 ; Glycosyltransferase like family 2
+WP_010938416.1	115	PF02924.15	106	0.7903	0.7844	6.608	16.0%	| HDPD ; Bacteriophage lambda head decoration protein D
+WP_011176692.1	69	PF08988.11	63	0.7878	0.8283	2.934	14.3%	| T3SS_needle_E ; Type III secretion system, cytoplasmic E component of needle
+WP_010940344.1	81	PF05005.16	78	0.7878	0.6350	5.225	11.5%	| Ocnus ; Janus/Ocnus family (Ocnus)
+WP_010937746.1	96	PF02426.17	85	0.7800	0.8255	5.148	21.2%	| MIase ; Muconolactone delta-isomerase
+WP_164561408.1	157	PF06892.12	145	0.7764	0.7678	5.666	7.6%	| Phage_CP76 ; Phage regulatory protein CII (CP76)
+WP_010938421.1	494	PF03354.16	413	0.7756	0.8180	16.881	9.7%	| Terminase_1 ; Phage Terminase
+WP_014524471.1	116	PF00072.25	107	0.7752	0.7866	5.593	11.2%	| Response_reg ; Response regulator receiver domain
+WP_010937972.1	256	PF18404.2	231	0.7734	0.7424	10.350	11.7%	| Glyco_transf_24 ; Glucosyltransferase 24
+WP_010938404.1	266	PF14594.7	239	0.7711	0.6154	9.172	8.8%	| Sipho_Gp37 ; Siphovirus ReqiPepy6 Gp37-like protein
+WP_010939510.1	69	PF02635.16	67	0.7707	0.4531	4.390	10.4%	| DrsE ; DsrE/DsrF-like family
+WP_010939003.1	195	PF17212.4	160	0.7686	0.8844	8.183	10.0%	| Tube ; Tail tubular protein
+WP_010940553.1	175	PF10027.10	146	0.7665	0.8837	6.241	13.7%	| DUF2269 ; Predicted integral membrane protein (DUF2269)
+WP_010940657.1	96	PF12925.8	94	0.7658	0.4228	2.471	8.5%	| APP_E2 ; E2 domain of amyloid precursor protein
+WP_010940655.1	315	PF00815.21	313	0.7634	0.6063	12.476	12.1%	| Histidinol_dh ; Histidinol dehydrogenase
+WP_150103623.1	299	PF07042.12	266	0.7596	0.8050	11.552	12.4%	| TrfA ; TrfA protein
+WP_011792418.1	100	PF01521.21	96	0.7571	0.6828	5.297	9.4%	| Fe-S_biosyn ; Iron-sulphur cluster biosynthesis
+WP_010940012.1	314	PF05544.12	276	0.7554	0.7206	11.464	11.2%	| Pro_racemase ; Proline racemase
+WP_010937610.1	105	PF10952.9	99	0.7546	0.5941	4.318	12.1%	| DUF2753 ; Protein of unknown function (DUF2753)
+WP_010939932.1	158	PF08235.14	151	0.7542	0.5527	8.004	12.6%	| LNS2 ; LNS2 (Lipin/Ned1/Smp2)
+WP_010938012.1	213	PF01068.22	185	0.7497	0.7724	9.289	9.2%	| DNA_ligase_A_M ; ATP dependent DNA ligase domain
+WP_010939654.1	222	PF12679.8	220	0.7496	0.6478	7.884	9.5%	| ABC2_membrane_2 ; ABC-2 family transporter protein
+WP_010938143.1	76	PF02996.18	76	0.7470	0.5312	2.867	11.8%	| Prefoldin ; Prefoldin subunit
+WP_010939152.1	233	PF13277.7	214	0.7468	0.6993	10.733	11.7%	| YmdB ; YmdB-like protein
+WP_010937917.1	93	PF10451.10	91	0.7467	0.3568	4.253	11.0%	| Stn1 ; Telomere regulation protein Stn1
+WP_010939320.1	95	PF06342.13	95	0.7456	0.2828	5.685	5.3%	| DUF1057 ; Alpha/beta hydrolase of unknown function (DUF1057)
+WP_010940259.1	396	PF04007.13	333	0.7448	0.8595	13.879	12.9%	| DUF354 ; Protein of unknown function (DUF354)
+WP_010940220.1	115	PF09582.11	111	0.7427	0.4722	5.420	9.0%	| AnfO_nitrog ; Iron only nitrogenase protein AnfO (AnfO_nitrog)
+WP_010938780.1	142	PF05382.14	134	0.7415	0.7286	7.978	9.7%	| Amidase_5 ; Bacteriophage peptidoglycan hydrolase
+WP_010938446.1	348	PF14286.7	281	0.7386	0.6766	14.505	18.9%	| DHHW ; DHHW protein
+WP_010939692.1	109	PF02426.17	88	0.7382	0.8779	4.839	14.8%	| MIase ; Muconolactone delta-isomerase
+WP_014524635.1	64	PF01312.20	53	0.7369	0.1516	3.746	13.2%	| Bac_export_2 ; FlhB HrpN YscU SpaS Family
+WP_010940110.1	287	PF03786.14	263	0.7338	0.6123	9.974	8.7%	| UxuA ; D-mannonate dehydratase (UxuA)
+WP_010937920.1	96	PF10451.10	94	0.7307	0.3592	4.477	10.6%	| Stn1 ; Telomere regulation protein Stn1
+WP_010939011.1	184	PF11124.9	169	0.7291	0.5088	7.012	5.9%	| Pho86 ; Inorganic phosphate transporter Pho86
+WP_010939436.1	314	PF18906.1	252	0.7286	0.7578	10.237	13.1%	| Phage_tube_2 ; Phage tail tube protein
+WP_010937574.1	219	PF02665.15	185	0.7278	0.7189	7.739	16.8%	| Nitrate_red_gam ; Nitrate reductase gamma subunit
+WP_011792465.1	183	PF04612.13	146	0.7241	0.8528	6.657	8.9%	| T2SSM ; Type II secretion system (T2SS), protein M
+WP_010939290.1	51	PF17806.2	49	0.7226	0.4709	4.524	14.3%	| SO_alpha_A3 ; Sarcosine oxidase A3 domain
+WP_010940168.1	250	PF02361.17	202	0.7213	0.8174	7.788	13.4%	| CbiQ ; Cobalt transport protein
+WP_010937838.1	226	PF02665.15	185	0.7199	0.7318	7.818	20.5%	| Nitrate_red_gam ; Nitrate reductase gamma subunit
+WP_010939385.1	119	PF09582.11	115	0.7197	0.4747	5.392	6.1%	| AnfO_nitrog ; Iron only nitrogenase protein AnfO (AnfO_nitrog)
+WP_010939044.1	87	PF12964.8	81	0.7196	0.6654	5.232	7.4%	| DUF3853 ; Protein of unknown function (DUF3853)
+WP_011176606.1	136	PF16823.6	133	0.7179	0.6803	5.221	8.3%	| PilZ_2 ; Atypical PilZ domain, cyclic di-GMP receptor
+WP_010937583.1	123	PF09002.12	121	0.7104	0.2696	5.215	11.6%	| DUF1887 ; Domain of unknown function (DUF1887)
+WP_010939994.1	118	PF10934.9	95	0.7102	0.7613	5.051	11.6%	| DUF2634 ; Protein of unknown function (DUF2634)
+WP_010939880.1	519	PF05876.13	421	0.7100	0.6835	15.221	9.7%	| Terminase_GpA ; Phage terminase large subunit (GpA)
+WP_010938691.1	85	PF14893.7	85	0.7095	0.2247	4.211	7.1%	| PNMA ; PNMA
+WP_010939495.1	89	PF08765.12	76	0.7088	0.5987	4.577	21.1%	| Mor ; Mor transcription activator family
+WP_010940032.1	55	PF17797.2	55	0.7084	0.5858	3.565	9.1%	| RL ; RL domain
+WP_010938847.1	150	PF09719.11	116	0.7067	0.8178	4.666	20.7%	| C_GCAxxG_C_C ; Putative redox-active protein (C_GCAxxG_C_C)
+WP_011792671.1	111	PF06746.12	111	0.7051	0.6415	3.792	9.9%	| DUF1216 ; Protein of unknown function (DUF1216)
+WP_010939449.1	73	PF02831.16	62	0.7027	0.7513	3.366	14.5%	| gpW ; gpW
+WP_014524594.1	290	PF10111.10	258	0.7018	0.7082	11.061	13.2%	| Glyco_tranf_2_2 ; Glycosyltransferase like family 2
+WP_010939025.1	72	PF09035.11	67	0.7018	0.7265	5.409	13.4%	| Tn916-Xis ; Excisionase from transposon Tn916
+WP_010939012.1	534	PF05876.13	421	0.6981	0.6898	14.633	9.5%	| Terminase_GpA ; Phage terminase large subunit (GpA)
+WP_010939131.1	90	PF03623.14	87	0.6980	0.5143	2.851	10.3%	| Focal_AT ; Focal adhesion targeting region
+WP_010937464.1	127	PF15585.7	120	0.6928	0.6726	5.252	5.8%	| Imm7 ; Immunity protein 7
+WP_010939865.1	191	PF02474.16	173	0.6925	0.6806	8.290	14.5%	| NodA ; Nodulation protein A (NodA)
+WP_010938670.1	76	PF07303.14	76	0.6924	0.5627	2.863	14.5%	| Occludin_ELL ; Occludin homology domain
+WP_010937551.1	125	PF09582.11	123	0.6923	0.4779	5.633	11.4%	| AnfO_nitrog ; Iron only nitrogenase protein AnfO (AnfO_nitrog)
+WP_010938798.1	82	PF07439.12	82	0.6912	0.5462	3.053	13.4%	| DUF1515 ; Protein of unknown function (DUF1515)
+WP_010938437.1	210	PF05158.13	204	0.6912	0.4488	6.499	10.3%	| RNA_pol_Rpc34 ; RNA polymerase Rpc34 subunit
+WP_010938518.1	175	PF03976.15	164	0.6903	0.5580	6.923	5.5%	| PPK2 ; Polyphosphate kinase 2 (PPK2)
+WP_014524550.1	152	PF06892.12	120	0.6895	0.6620	4.255	12.5%	| Phage_CP76 ; Phage regulatory protein CII (CP76)
+WP_010939428.1	119	PF09636.11	106	0.6877	0.7536	5.312	20.8%	| XkdW ; XkdW protein
+WP_010940672.1	356	PF08735.11	250	0.6833	0.9278	12.230	38.0%	| DUF1786 ; Putative pyruvate format-lyase activating enzyme (DUF1786)
+WP_010938873.1	279	PF14125.7	204	0.6829	0.8652	9.037	7.8%	| DUF4292 ; Domain of unknown function (DUF4292)
+WP_010940650.1	80	PF12441.9	73	0.6799	0.7060	5.209	17.8%	| CopG_antitoxin ; CopG antitoxin of type II toxin-antitoxin system
+WP_010937347.1	151	PF13801.7	125	0.6799	0.7923	4.734	8.0%	| Metal_resist ; Heavy-metal resistance
+WP_010938417.1	316	PF10123.10	288	0.6795	0.6600	11.434	15.6%	| Mu-like_Pro ; Mu-like prophage I protein
+WP_010937351.1	204	PF04928.18	191	0.6795	0.4380	7.056	9.9%	| PAP_central ; Poly(A) polymerase central domain
+WP_014524242.1	49	PF04282.14	48	0.6776	0.5354	2.865	4.2%	| DUF438 ; Family of unknown function (DUF438)
+WP_010938436.1	62	PF10944.9	62	0.6759	0.5551	2.617	11.3%	| DUF2630 ; Protein of unknown function (DUF2630)
+WP_010939718.1	191	PF11814.9	167	0.6742	0.6324	7.963	13.2%	| DUF3335 ; Peptidase_C39 like family
+WP_010939241.1	277	PF16918.6	271	0.6742	0.5605	10.166	5.9%	| PknG_TPR ; Protein kinase G tetratricopeptide repeat
+WP_010939440.1	54	PF00505.20	54	0.6720	0.5616	3.346	3.7%	| HMG_box ; HMG (high mobility group) box
+WP_010938748.1	247	PF00529.21	240	0.6682	0.4901	7.615	10.0%	| HlyD ; HlyD membrane-fusion protein of T1SS
+WP_010938442.1	141	PF06892.12	111	0.6681	0.6005	4.424	14.4%	| Phage_CP76 ; Phage regulatory protein CII (CP76)
+WP_010938771.1	298	PF08003.12	263	0.6680	0.6353	9.201	8.4%	| Methyltransf_9 ; Protein of unknown function (DUF1698)
+WP_010939971.1	93	PF07028.12	89	0.6679	0.5919	3.468	10.1%	| DUF1319 ; Protein of unknown function (DUF1319)
+WP_014524598.1	623	PF07220.12	474	0.6646	0.6219	15.012	7.2%	| DUF1420 ; Protein of unknown function (DUF1420)
+WP_010940095.1	80	PF11112.9	69	0.6639	0.7124	5.395	17.4%	| PyocinActivator ; Pyocin activator protein PrtN
+WP_010938751.1	248	PF04344.14	181	0.6616	0.7996	5.694	21.0%	| CheZ ; Chemotaxis phosphatase, CheZ
+WP_010939473.1	65	PF07282.12	58	0.6609	0.6189	3.944	19.0%	| OrfB_Zn_ribbon ; Putative transposase DNA-binding domain
+WP_014524431.1	135	PF06992.12	111	0.6597	0.5628	4.109	18.9%	| Phage_lambda_P ; Replication protein P
+WP_010940125.1	185	PF06141.12	129	0.6569	0.9141	5.408	21.7%	| Phage_tail_U ; Phage minor tail protein U
+WP_010938657.1	322	PF02447.17	315	0.6565	0.5119	7.909	9.5%	| GntP_permease ; GntP family permease
+WP_010937518.1	185	PF06141.12	129	0.6548	0.9102	5.393	20.9%	| Phage_tail_U ; Phage minor tail protein U
+WP_011791439.1	72	PF01608.18	72	0.6543	0.3855	2.342	9.7%	| I_LWEQ ; I/LWEQ domain
+WP_010939023.1	47	PF04365.14	39	0.6539	0.4205	2.685	43.6%	| BrnT_toxin ; Ribonuclease toxin, BrnT, of type II toxin-antitoxin system
+WP_010940044.1	90	PF14968.7	90	0.6521	0.2321	3.107	8.9%	| CCDC84 ; Coiled coil protein 84
+WP_010937559.1	195	PF01956.17	151	0.6508	0.6255	6.176	11.3%	| EMC3_TMCO1 ; Integral membrane protein EMC3/TMCO1-like
+WP_010939972.1	71	PF10779.10	65	0.6500	0.6886	3.170	12.3%	| XhlA ; Haemolysin XhlA
+WP_010940218.1	138	PF07843.12	107	0.6499	0.8000	5.205	17.8%	| DUF1634 ; Protein of unknown function (DUF1634)
+WP_010939988.1	109	PF16459.6	93	0.6499	0.6273	5.642	7.5%	| Phage_TAC_13 ; Phage tail assembly chaperone, TAC
+WP_010939013.1	202	PF07141.12	170	0.6487	0.7370	7.697	18.8%	| Phage_term_sma ; Putative bacteriophage terminase small subunit
+WP_010938964.1	54	PF11520.9	50	0.6481	0.6173	4.190	10.0%	| Cren7 ; Chromatin protein Cren7
+WP_010937716.1	116	PF05400.14	81	0.6463	0.8943	2.947	16.0%	| FliT ; Flagellar protein FliT
+WP_010938400.1	218	PF10076.10	155	0.6427	0.7933	6.767	9.0%	| DUF2313 ; Uncharacterised protein conserved in bacteria (DUF2313)
+WP_014524585.1	280	PF18588.2	190	0.6419	0.8667	9.925	22.1%	| WcbI ; Polysaccharide biosynthesis enzyme WcbI
+WP_010940431.1	58	PF02268.17	45	0.6413	0.7643	2.333	11.1%	| TFIIA_gamma_N ; Transcription initiation factor IIA, gamma subunit, helical domain
+WP_010938331.1	169	PF10768.10	137	0.6381	0.7570	4.421	13.9%	| FliX ; Class II flagellar assembly regulator
+WP_011791831.1	176	PF04381.13	138	0.6379	0.3953	6.403	10.9%	| RdgC ; Putative exonuclease, RdgC
+WP_010939276.1	215	PF11644.9	166	0.6364	0.7049	8.532	13.3%	| DUF3256 ; Protein of unknown function (DUF3256)
+WP_014524554.1	160	PF05565.12	145	0.6316	0.6379	6.792	12.4%	| Sipho_Gp157 ; Siphovirus Gp157
+WP_010937727.1	58	PF03710.16	58	0.6310	0.1982	5.458	19.0%	| GlnE ; Glutamate-ammonia ligase adenylyltransferase
+WP_011792721.1	105	PF15585.7	102	0.6308	0.5375	4.608	6.9%	| Imm7 ; Immunity protein 7
+WP_010937991.1	166	PF17174.5	118	0.6303	0.7540	5.483	12.7%	| DUF5130 ; Domain of unknown function (DUF5130)
+WP_010938407.1	110	PF08748.12	101	0.6296	0.6605	6.558	11.9%	| Phage_TAC_4 ; Phage tail assembly chaperone
+WP_014524537.1	410	PF03403.14	297	0.6288	0.6958	11.079	17.8%	| PAF-AH_p_II ; Platelet-activating factor acetylhydrolase, isoform II
+WP_010940670.1	304	PF17236.3	233	0.6286	0.6596	8.114	10.7%	| DUF5309 ; Family of unknown function (DUF5309)
+WP_010939481.1	223	PF04708.13	193	0.6285	0.6519	6.773	4.7%	| Pox_F16 ; Poxvirus F16 protein
+WP_010939014.1	82	PF07439.12	82	0.6283	0.5036	2.959	13.4%	| DUF1515 ; Protein of unknown function (DUF1515)
+WP_010938785.1	127	PF08890.12	123	0.6282	0.6114	6.212	4.9%	| Phage_TAC_5 ; Phage XkdN-like tail assembly chaperone protein, TAC
+WP_164928115.1	81	PF17017.6	80	0.6281	0.3533	3.326	13.8%	| zf-C2H2_aberr ; Aberrant zinc-finger
+WP_010940351.1	215	PF13468.7	169	0.6273	0.7303	7.470	13.6%	| Glyoxalase_3 ; Glyoxalase-like domain
+WP_164928125.1	59	PF09607.11	52	0.6261	0.6750	3.224	15.4%	| BrkDBD ; Brinker DNA-binding domain
+WP_014524429.1	118	PF04612.13	116	0.6260	0.5167	3.975	16.4%	| T2SSM ; Type II secretion system (T2SS), protein M
+WP_010938264.1	58	PF01667.18	47	0.6259	0.6545	3.365	19.1%	| Ribosomal_S27e ; Ribosomal protein S27
+WP_010938412.1	178	PF16724.6	173	0.6254	0.5081	6.284	6.4%	| T4-gp15_tss ; T4-like virus Myoviridae tail sheath stabiliser
+WP_010939963.1	144	PF15057.7	112	0.6253	0.6945	4.716	12.5%	| DUF4537 ; Domain of unknown function (DUF4537)
+WP_010938181.1	154	PF12693.8	132	0.6253	0.6348	5.463	5.3%	| GspL_C ; GspL periplasmic domain
+WP_014524228.1	252	PF07152.13	167	0.6251	0.8936	8.174	16.8%	| YaeQ ; YaeQ protein
+WP_010938950.1	64	PF03292.15	63	0.6233	0.0889	3.646	7.9%	| Pox_P4B ; Poxvirus P4B major core protein
+WP_011792466.1	164	PF11356.9	135	0.6212	0.7026	8.728	13.3%	| T2SSC ; Type II secretion system protein C
+WP_010940586.1	91	PF07371.13	84	0.6188	0.6345	3.807	17.9%	| DUF1490 ; Protein of unknown function (DUF1490)
+WP_010939234.1	96	PF08416.14	95	0.6186	0.4949	3.978	7.4%	| PTB ; Phosphotyrosine-binding domain
+WP_010937376.1	265	PF10082.10	255	0.6185	0.4758	8.036	12.2%	| BBP2_2 ; Putative beta-barrel porin 2
+WP_010937959.1	69	PF06044.13	69	0.6128	0.2969	4.131	8.7%	| DpnI ; Dam-replacing family
+WP_164928112.1	142	PF15057.7	113	0.6123	0.6695	4.604	12.4%	| DUF4537 ; Domain of unknown function (DUF4537)
+WP_164928140.1	91	PF01920.21	90	0.6122	0.5682	3.936	13.3%	| Prefoldin_2 ; Prefoldin subunit
+WP_010940676.1	178	PF18737.2	139	0.6110	0.5124	3.924	5.8%	| HEPN_MAE_28990 ; MAE_28990/MAE_18760-like HEPN
+WP_011176730.1	307	PF06578.13	207	0.6109	0.8775	8.597	15.0%	| YscK ; YOP proteins translocation protein K (YscK)
+WP_150103632.1	401	PF04392.13	284	0.6108	0.8077	10.445	18.0%	| ABC_sub_bind ; ABC transporter substrate binding protein
+WP_010940279.1	122	PF16358.6	100	0.6108	0.6677	5.203	16.0%	| RcsF ; RcsF lipoprotein
+WP_010938799.1	116	PF11351.9	108	0.6107	0.6292	4.698	11.1%	| GTA_holin_3TM ; Holin of 3TMs, for gene-transfer release
+WP_011791841.1	184	PF02481.16	138	0.6098	0.5459	5.774	14.5%	| DNA_processg_A ; DNA recombination-mediator protein A
+WP_014524576.1	70	PF11221.9	70	0.6095	0.3824	3.511	12.9%	| Med21 ; Subunit 21 of Mediator complex
+WP_010939313.1	423	PF10926.9	308	0.6095	0.6874	10.440	7.8%	| DUF2800 ; Protein of unknown function (DUF2800)
+WP_010938122.1	199	PF13036.7	139	0.6091	0.8017	5.695	10.8%	| LpoB ; Peptidoglycan-synthase activator LpoB
+WP_014524458.1	225	PF03483.18	150	0.6085	0.7703	7.610	16.7%	| B3_4 ; B3/4 domain
+WP_010938633.1	194	PF17680.2	132	0.6075	0.8468	5.386	28.8%	| FlgO ; FlgO protein
+WP_010939437.1	155	PF06141.12	125	0.6050	0.6923	4.962	11.2%	| Phage_tail_U ; Phage minor tail protein U
+WP_010939498.1	114	PF05757.12	110	0.6045	0.3958	3.513	10.9%	| PsbQ ; Oxygen evolving enhancer protein 3 (PsbQ)
+WP_011792449.1	95	PF07304.12	93	0.6030	0.4366	3.772	10.8%	| SRA1 ; Steroid receptor RNA activator (SRA1)
+WP_010939006.1	310	PF17236.3	240	0.6028	0.6427	8.087	10.8%	| DUF5309 ; Family of unknown function (DUF5309)
+WP_010937575.1	418	PF04762.13	404	0.6025	0.3156	16.875	7.4%	| IKI3 ; IKI3 family
+WP_010940302.1	343	PF18404.2	253	0.6022	0.7462	12.000	9.5%	| Glyco_transf_24 ; Glucosyltransferase 24
+WP_010940134.1	142	PF15057.7	113	0.6021	0.6575	4.580	9.7%	| DUF4537 ; Domain of unknown function (DUF4537)
+WP_010937954.1	362	PF02652.15	359	0.6007	0.4753	7.783	7.0%	| Lactate_perm ; L-lactate permease
+WP_010937906.1	88	PF11023.9	87	0.5984	0.5105	5.725	16.1%	| DUF2614 ; Zinc-ribbon containing domain
+WP_010939015.1	116	PF11351.9	109	0.5976	0.6151	4.888	10.1%	| GTA_holin_3TM ; Holin of 3TMs, for gene-transfer release
+WP_010939467.1	51	PF08227.12	45	0.5951	0.6324	2.732	11.1%	| DASH_Hsk3 ; DASH complex subunit Hsk3 like
+WP_011176733.1	100	PF12998.8	94	0.5949	0.5869	3.371	8.5%	| ING ; Inhibitor of growth proteins N-terminal histone-binding
+WP_010937919.1	130	PF10451.10	129	0.5942	0.3961	5.625	8.5%	| Stn1 ; Telomere regulation protein Stn1
+WP_010938432.1	152	PF15057.7	118	0.5938	0.6876	4.656	14.4%	| DUF4537 ; Domain of unknown function (DUF4537)
+WP_011792315.1	196	PF06835.14	147	0.5927	0.6710	6.559	8.8%	| LptC ; Lipopolysaccharide-assembly, LptC-related
+WP_014524452.1	100	PF04645.13	98	0.5913	0.3838	5.970	6.1%	| DUF603 ; Protein of unknown function, DUF603
+WP_010938471.1	125	PF11950.9	86	0.5912	0.8107	4.230	9.3%	| DUF3467 ; Protein of unknown function (DUF3467)
+WP_010938093.1	110	PF01653.19	110	0.5895	0.2666	2.980	5.5%	| DNA_ligase_aden ; NAD-dependent DNA ligase adenylation domain
+WP_010940332.1	303	PF14314.7	292	0.5892	0.2994	9.082	10.3%	| Methyltrans_Mon ; Virus-capping methyltransferase
+WP_010938786.1	387	PF18906.1	257	0.5887	0.7402	9.733	9.3%	| Phage_tube_2 ; Phage tail tube protein
+WP_010937937.1	188	PF11307.9	162	0.5879	0.6053	9.474	12.3%	| DUF3109 ; Protein of unknown function (DUF3109)
+WP_010939895.1	68	PF07282.12	51	0.5878	0.5674	4.257	15.7%	| OrfB_Zn_ribbon ; Putative transposase DNA-binding domain
+WP_014524678.1	92	PF11537.9	86	0.5876	0.5956	4.299	10.5%	| NitrOD5 ; Nitrosopumilus output domain 5
+WP_010940133.1	91	PF02831.16	62	0.5876	0.7546	2.802	22.6%	| gpW ; gpW
+WP_010938872.1	116	PF02403.23	107	0.5854	0.6131	3.473	11.2%	| Seryl_tRNA_N ; Seryl-tRNA synthetase N-terminal domain
+WP_010938434.1	79	PF03278.14	76	0.5852	0.3766	2.966	3.9%	| IpaB_EvcA ; IpaB/EvcA family
+WP_010938430.1	121	PF06892.12	121	0.5844	0.4785	5.188	9.1%	| Phage_CP76 ; Phage regulatory protein CII (CP76)
+WP_010937707.1	183	PF15516.7	146	0.5830	0.6751	5.782	11.0%	| BpuSI_N ; BpuSI N-terminal domain
+WP_010938912.1	140	PF18899.1	107	0.5807	0.7188	4.134	14.0%	| DUF5655 ; Domain of unknown function (DUF5655)
+WP_010939475.1	126	PF15731.6	114	0.5800	0.5630	4.998	9.6%	| MqsA_antitoxin ; Antitoxin component of bacterial toxin-antitoxin system, MqsA
+WP_011792814.1	102	PF01709.21	100	0.5791	0.3072	3.564	10.0%	| Transcrip_reg ; Transcriptional regulator
+WP_011176646.1	660	PF09586.11	615	0.5791	0.4836	11.738	8.9%	| YfhO ; Bacterial membrane protein YfhO
+WP_014524535.1	252	PF02474.16	174	0.5769	0.7214	8.033	9.8%	| NodA ; Nodulation protein A (NodA)
+WP_010938753.1	111	PF05643.12	110	0.5769	0.4080	3.967	9.1%	| DUF799 ; Putative bacterial lipoprotein (DUF799)
+WP_010937375.1	302	PF10082.10	282	0.5766	0.4914	8.945	10.6%	| BBP2_2 ; Putative beta-barrel porin 2
+WP_164561964.1	230	PF04958.13	214	0.5751	0.4294	8.347	12.1%	| AstA ; Arginine N-succinyltransferase beta subunit
+WP_010939042.1	135	PF06892.12	135	0.5751	0.5094	5.835	12.6%	| Phage_CP76 ; Phage regulatory protein CII (CP76)
+WP_010939266.1	130	PF00489.18	129	0.5749	0.4435	3.440	4.7%	| IL6 ; Interleukin-6/G-CSF/MGF family
+WP_010939507.1	122	PF04011.13	113	0.5740	0.5067	3.750	11.5%	| LemA ; LemA family
+WP_011791730.1	98	PF12964.8	84	0.5739	0.5833	5.447	15.5%	| DUF3853 ; Protein of unknown function (DUF3853)
+WP_010938858.1	70	PF05129.14	68	0.5731	0.5306	5.189	11.8%	| Elf1 ; Transcription elongation factor Elf1 like
+WP_010940415.1	480	PF05576.12	398	0.5726	0.6057	11.719	9.8%	| Peptidase_S37 ; PS-10 peptidase S37
+WP_014524625.1	42	PF06952.12	42	0.5723	0.1581	3.883	11.9%	| PsiA ; PsiA protein
+WP_010938420.1	206	PF12869.8	169	0.5717	0.6316	6.956	20.7%	| tRNA_anti-like ; tRNA_anti-like
+WP_011791684.1	295	PF00211.21	182	0.5716	0.8882	7.047	17.0%	| Guanylate_cyc ; Adenylate and Guanylate cyclase catalytic domain
+WP_164928130.1	29	PF12197.9	29	0.5700	0.4698	6.033	37.9%	| lci ; Bacillus cereus group antimicrobial protein
+WP_011176625.1	438	PF14397.7	266	0.5683	0.8798	12.671	19.2%	| ATPgrasp_ST ; Sugar-transfer associated ATP-grasp
+WP_010939438.1	236	PF05069.14	146	0.5682	0.8702	6.468	18.5%	| Phage_tail_S ; Phage virion morphogenesis family
+WP_010939028.1	133	PF06992.12	122	0.5680	0.4860	4.301	13.9%	| Phage_lambda_P ; Replication protein P
+WP_010938802.1	187	PF17139.5	157	0.5665	0.4348	4.877	8.3%	| DUF5112 ; Domain of unknown function (DUF5112)
+WP_010940668.1	112	PF02656.16	71	0.5660	0.8187	3.361	14.1%	| DUF202 ; Domain of unknown function (DUF202)
+WP_010938727.1	121	PF16243.6	74	0.5659	0.7796	4.349	12.2%	| Sm_like ; Sm_like domain
+WP_010939108.1	251	PF01493.20	173	0.5647	0.7136	8.075	28.3%	| GXGXG ; GXGXG motif
+WP_014524440.1	82	PF12480.9	69	0.5601	0.6220	3.924	15.9%	| DUF3699 ; Protein of unknown function (DUF3699)
+WP_010939870.1	133	PF09342.12	112	0.5600	0.6266	4.314	11.6%	| DUF1986 ; Domain of unknown function (DUF1986)
+WP_014524657.1	187	PF16823.6	140	0.5595	0.6899	4.538	11.4%	| PilZ_2 ; Atypical PilZ domain, cyclic di-GMP receptor
+WP_010939062.1	293	PF17659.2	272	0.5595	0.2353	5.535	6.6%	| DUF5521 ; Family of unknown function (DUF5521)
+WP_010938805.1	164	PF06356.12	105	0.5590	0.7545	5.820	21.9%	| DUF1064 ; Protein of unknown function (DUF1064)
+WP_010937544.1	107	PF02996.18	96	0.5581	0.5242	3.906	15.6%	| Prefoldin ; Prefoldin subunit
+WP_010939896.1	125	PF06186.12	112	0.5578	0.5107	4.623	8.0%	| DUF992 ; Protein of unknown function (DUF992)
+WP_010940423.1	286	PF07514.12	260	0.5574	0.4945	6.901	15.4%	| TraI_2 ; Putative helicase
+WP_010938521.1	150	PF04368.14	143	0.5573	0.4848	4.148	7.7%	| DUF507 ; Protein of unknown function (DUF507)
+WP_150100223.1	66	PF17820.2	52	0.5559	0.6409	3.264	13.5%	| PDZ_6 ; PDZ domain
+WP_010940558.1	180	PF00582.27	119	0.5554	0.7339	5.153	15.1%	| Usp ; Universal stress protein family
+WP_010939444.1	69	PF16922.6	46	0.5541	0.6358	4.316	10.9%	| SLD5_C ; DNA replication complex GINS protein SLD5 C-terminus
+WP_011793178.1	134	PF04720.13	132	0.5539	0.3865	6.540	5.3%	| PDDEXK_6 ; PDDEXK-like family of unknown function
+WP_010939961.1	78	PF00505.20	68	0.5526	0.6012	3.198	7.4%	| HMG_box ; HMG (high mobility group) box
+WP_010938119.1	582	PF14314.7	557	0.5518	0.4852	10.310	8.8%	| Methyltrans_Mon ; Virus-capping methyltransferase
+WP_010938911.1	80	PF08996.11	71	0.5504	0.2821	4.545	15.5%	| zf-DNA_Pol ; DNA Polymerase alpha zinc finger
+WP_010940137.1	240	PF07471.13	148	0.5503	0.7893	4.951	12.2%	| Phage_Nu1 ; Phage DNA packaging protein Nu1
+WP_010937554.1	285	PF08269.12	214	0.5502	0.5378	7.119	9.3%	| dCache_2 ; Cache domain
+WP_010939005.1	133	PF01404.20	132	0.5501	0.4572	4.077	6.1%	| Ephrin_lbd ; Ephrin receptor ligand binding domain
+WP_010940105.1	174	PF04337.13	136	0.5491	0.6302	4.436	7.4%	| DUF480 ; Protein of unknown function, DUF480
+WP_010939180.1	72	PF05129.14	71	0.5485	0.5149	4.800	15.5%	| Elf1 ; Transcription elongation factor Elf1 like
+WP_164928139.1	45	PF01803.17	45	0.5483	0.1533	2.582	13.3%	| LIM_bind ; LIM-domain binding protein
+WP_014524392.1	106	PF01865.17	103	0.5480	0.3548	3.086	7.8%	| PhoU_div ; Protein of unknown function DUF47
+WP_011792616.1	157	PF10794.10	122	0.5479	0.6337	5.227	13.1%	| DUF2606 ; Protein of unknown function (DUF2606)
+WP_150103613.1	98	PF01371.20	86	0.5478	0.5982	3.398	15.1%	| Trp_repressor ; Trp repressor protein
+WP_010938515.1	731	PF14872.7	513	0.5477	0.5103	17.715	8.8%	| GHL5 ; Hypothetical glycoside hydrolase 5
+WP_014524340.1	622	PF07520.12	553	0.5471	0.3621	9.921	9.4%	| SrfB ; Virulence factor SrfB
+WP_010937503.1	243	PF07471.13	148	0.5462	0.7928	4.936	11.5%	| Phage_Nu1 ; Phage DNA packaging protein Nu1
+WP_010940128.1	182	PF01374.19	165	0.5459	0.4928	6.090	11.5%	| Glyco_hydro_46 ; Glycosyl hydrolase family 46
+WP_010939911.1	147	PF19020.1	137	0.5452	0.3439	3.706	9.5%	| Ta1207 ; Ta1207 family
+WP_010939002.1	697	PF11134.9	442	0.5447	0.7738	16.623	9.5%	| Phage_stabilise ; Phage stabilisation protein
+WP_010938042.1	158	PF17405.3	146	0.5442	0.4343	4.398	6.8%	| Nrap_D4 ; Nrap protein nucleotidyltransferase domain 4
+WP_164928129.1	83	PF00679.25	81	0.5439	0.5315	5.355	11.1%	| EFG_C ; Elongation factor G C-terminus
+WP_010939559.1	170	PF04279.16	157	0.5430	0.5308	4.534	12.7%	| IspA ; Intracellular septation protein A
+WP_010940660.1	698	PF01044.20	683	0.5423	0.4723	8.927	10.5%	| Vinculin ; Vinculin family
+WP_010937613.1	205	PF13429.7	196	0.5418	0.4337	6.386	12.8%	| TPR_15 ; Tetratricopeptide repeat
+WP_014524426.1	98	PF01920.21	98	0.5417	0.5330	5.533	9.2%	| Prefoldin_2 ; Prefoldin subunit
+WP_010940224.1	99	PF12921.8	93	0.5415	0.5169	5.021	8.6%	| ATP13 ; Mitochondrial ATPase expression
+WP_010939843.1	51	PF12669.8	41	0.5414	0.5798	4.422	31.7%	| FeoB_associated ; FeoB-associated Cys-rich membrane protein
+WP_081448125.1	118	PF16872.6	73	0.5413	0.7653	3.861	27.4%	| putAbiC ; Putative phage abortive infection protein
+WP_010938273.1	112	PF14633.7	111	0.5393	0.3438	4.211	9.0%	| SH2_2 ; SH2 domain
+WP_010939819.1	91	PF17680.2	91	0.5381	0.4114	3.871	9.9%	| FlgO ; FlgO protein
+WP_010939900.1	123	PF15489.7	106	0.5378	0.0767	3.732	11.3%	| CTC1 ; CST, telomere maintenance, complex subunit CTC1
+WP_010939040.1	79	PF01627.24	79	0.5375	0.4498	3.281	10.1%	| Hpt ; Hpt domain
+WP_011792655.1	94	PF02318.17	88	0.5363	0.4495	4.199	13.6%	| FYVE_2 ; FYVE-type zinc finger
+WP_010940508.1	233	PF07894.13	172	0.5360	0.4730	5.186	10.5%	| FAM83 ; FAM83 A-H
+WP_014524317.1	198	PF11985.9	144	0.5357	0.5821	3.526	9.0%	| DUF3486 ; Protein of unknown function (DUF3486)
+WP_049775581.1	238	PF17826.2	186	0.5356	0.3804	8.407	7.5%	| DUF5588 ; Family of unknown function (DUF5588)
+WP_014524219.1	563	PF16993.6	439	0.5353	0.5701	10.138	8.0%	| Asp1 ; Accessory Sec system protein Asp1
+WP_010940661.1	110	PF11871.9	110	0.5343	0.4673	4.694	12.7%	| DUF3391 ; Domain of unknown function (DUF3391)
+WP_010938074.1	79	PF00536.31	67	0.5338	0.5871	4.538	7.5%	| SAM_1 ; SAM domain (Sterile alpha motif)
+WP_010938405.1	183	PF06995.12	113	0.5330	0.7765	5.134	12.4%	| Phage_P2_GpU ; Phage P2 GpU
+WP_010938473.1	185	PF02965.18	168	0.5327	0.4003	5.130	13.7%	| Met_synt_B12 ; Vitamin B12 dependent methionine synthase, activation domain
+WP_164562126.1	140	PF02090.16	133	0.5326	0.5350	4.202	6.8%	| SPAM ; Salmonella surface presentation of antigen gene type M protein
+WP_010938596.1	60	PF18947.1	56	0.5326	0.4956	3.148	8.9%	| HAMP_2 ; HAMP domain
+WP_010938308.1	204	PF11124.9	147	0.5319	0.4091	5.844	6.8%	| Pho86 ; Inorganic phosphate transporter Pho86
+WP_010940589.1	152	PF00873.20	152	0.5298	0.1174	2.806	10.5%	| ACR_tran ; AcrB/AcrD/AcrF family
+WP_010940206.1	80	PF15146.7	80	0.5298	0.1460	3.187	15.0%	| FANCAA ; Fanconi anemia-associated
+WP_010939903.1	83	PF03531.15	80	0.5281	0.5099	5.519	5.0%	| SSrecog ; Structure-specific recognition protein (SSRP1)
+WP_150103619.1	67	PF06676.12	66	0.5249	0.2864	4.153	18.2%	| DUF1178 ; Protein of unknown function (DUF1178)
+WP_014524596.1	456	PF14314.7	418	0.5233	0.3802	9.573	9.8%	| Methyltrans_Mon ; Virus-capping methyltransferase
+WP_011792639.1	148	PF07900.12	142	0.5220	0.4038	4.018	10.6%	| DUF1670 ; Protein of unknown function (DUF1670)
+WP_010939536.1	604	PF05693.14	456	0.5220	0.4775	12.444	7.7%	| Glycogen_syn ; Glycogen synthase
+WP_014524641.1	59	PF18641.2	59	0.5215	0.2163	3.406	6.8%	| LidA_Long_CC ; LidA long coiled-coil domain
+WP_010939849.1	209	PF15015.7	196	0.5205	0.2387	6.139	9.7%	| NYD-SP12_N ; Spermatogenesis-associated, N-terminal
+WP_010939314.1	121	PF15600.7	120	0.5197	0.3778	4.138	8.3%	| Imm64 ; Immunity protein 64
+WP_010939319.1	91	PF12112.9	79	0.5194	0.5343	4.045	11.4%	| DUF3579 ; Protein of unknown function (DUF3579)
+WP_014524530.1	197	PF14765.7	140	0.5190	0.3717	5.091	10.0%	| PS-DH ; Polyketide synthase dehydratase
+WP_010937457.1	269	PF14725.7	236	0.5184	0.4655	5.714	5.5%	| DUF4466 ; Domain of unknown function (DUF4466)
+WP_164928132.1	152	PF15165.7	150	0.5177	0.3783	5.016	5.3%	| REC114-like ; Meiotic recombination protein REC114-like
+WP_164928113.1	189	PF01374.19	172	0.5157	0.4788	5.582	10.5%	| Glyco_hydro_46 ; Glycosyl hydrolase family 46
+WP_010938702.1	154	PF06720.12	115	0.5142	0.5788	3.605	10.4%	| Phi-29_GP16_7 ; Bacteriophage phi-29 early protein GP16.7
+WP_010939499.1	216	PF16576.6	162	0.5128	0.5053	5.154	14.2%	| HlyD_D23 ; Barrel-sandwich domain of CusB or HlyD membrane-fusion
+WP_010939792.1	200	PF11307.9	161	0.5127	0.5519	6.030	13.7%	| DUF3109 ; Protein of unknown function (DUF3109)
+WP_010938981.1	131	PF10896.9	125	0.5122	0.4872	4.075	12.0%	| DUF2714 ; Protein of unknown function (DUF2714)
+WP_010939892.1	115	PF01519.17	107	0.5112	0.5336	4.147	7.5%	| DUF16 ; Protein of unknown function DUF16
+WP_010940642.1	337	PF01374.19	191	0.5110	0.7858	6.966	16.2%	| Glyco_hydro_46 ; Glycosyl hydrolase family 46
+WP_010937690.1	129	PF09098.11	126	0.5103	0.4240	4.449	16.7%	| Dehyd-heme_bind ; Quinohemoprotein amine dehydrogenase A, alpha subunit, haem binding
+WP_010938032.1	453	PF03345.15	411	0.5083	0.5260	8.324	7.3%	| DDOST_48kD ; Oligosaccharyltransferase 48 kDa subunit beta
+WP_010938118.1	155	PF04085.15	130	0.5061	0.5436	4.392	8.5%	| MreC ; rod shape-determining protein MreC
+WP_010937830.1	138	PF04340.13	138	0.5047	0.3726	3.637	8.0%	| DUF484 ; Protein of unknown function, DUF484
+WP_010938371.1	220	PF01105.25	170	0.5046	0.5563	5.905	8.2%	| EMP24_GP25L ; emp24/gp25L/p24 family/GOLD
+WP_011176726.1	594	PF10079.10	443	0.5044	0.5581	11.337	8.4%	| BshC ; Bacillithiol biosynthesis BshC
+WP_010940540.1	77	PF07104.12	77	0.5031	0.3985	3.924	10.4%	| DUF1366 ; Protein of unknown function (DUF1366)
+WP_014524400.1	470	PF01044.20	465	0.5029	0.3358	6.653	9.7%	| Vinculin ; Vinculin family
+WP_014524348.1	161	PF06152.12	161	0.5013	0.2739	5.932	8.7%	| Phage_min_cap2 ; Phage minor capsid protein 2
+WP_011176670.1	159	PF07328.12	124	0.5010	0.5457	3.600	8.9%	| VirD1 ; T-DNA border endonuclease VirD1
+WP_014524207.1	77	PF18879.1	71	0.5009	0.4695	4.154	8.5%	| EspA_EspE ; EspA/EspE family
+WP_010940483.1	140	PF07183.12	138	0.5008	0.2799	2.822	10.1%	| DUF1403 ; Protein of unknown function (DUF1403)
+WP_014524456.1	45	PF02402.17	40	0.5007	0.4842	3.123	7.5%	| Lysis_col ; Lysis protein
+WP_010939323.1	533	PF11443.9	459	0.5003	0.4225	7.923	10.2%	| DUF2828 ; Domain of unknown function (DUF2828)
+WP_010939921.1	193	PF02331.16	182	0.4993	0.3747	5.800	9.9%	| P35 ; Apoptosis preventing protein
+WP_011791839.1	169	PF09038.11	96	0.4982	0.6672	4.476	13.5%	| 53-BP1_Tudor ; Tumour suppressor p53-binding protein-1 Tudor
+WP_010940538.1	166	PF09484.11	166	0.4980	0.1955	3.854	11.4%	| Cas_TM1802 ; CRISPR-associated protein TM1802 (cas_TM1802)
+WP_010940557.1	97	PF06305.12	64	0.4972	0.6567	4.207	14.1%	| LapA_dom ; Lipopolysaccharide assembly protein A domain
+WP_010938830.1	174	PF06401.12	173	0.4970	0.4345	4.734	5.2%	| Alpha-2-MRAP_C ; Alpha-2-macroglobulin RAP, C-terminal domain
+WP_011792913.1	88	PF16826.6	83	0.4964	0.5117	4.680	7.2%	| DUF5076 ; Domain of unknown function (DUF5076)
+WP_010937644.1	656	PF00982.22	411	0.4962	0.6489	12.141	9.5%	| Glyco_transf_20 ; Glycosyltransferase family 20
+WP_010939458.1	243	PF08385.13	241	0.4951	0.2766	3.395	5.8%	| DHC_N1 ; Dynein heavy chain, N-terminal region 1
+WP_010940099.1	109	PF05769.12	100	0.4945	0.3556	3.077	13.0%	| SIKE ; SIKE family
+WP_010938531.1	206	PF18723.2	188	0.4941	0.4005	4.685	9.6%	| aGPT-Pplase1 ; alpha-glutamyl/putrescinyl thymine pyrophosphorylase clade 1
+WP_010939872.1	135	PF15251.7	109	0.4932	0.2986	3.406	9.2%	| DUF4588 ; Domain of unknown function (DUF4588)
+WP_010939624.1	122	PF15189.7	121	0.4931	0.4161	3.765	6.6%	| MEIOC ; Meiosis-specific coiled-coil domain-containing protein MEIOC
+WP_010940113.1	109	PF00211.21	105	0.4922	0.3473	4.019	5.7%	| Guanylate_cyc ; Adenylate and Guanylate cyclase catalytic domain
+WP_164928121.1	79	PF11994.9	65	0.4917	0.5537	4.126	12.3%	| DUF3489 ; Protein of unknown function (DUF3489)
+WP_010939966.1	112	PF14675.7	112	0.4917	0.3141	3.185	6.2%	| FANCI_S1 ; FANCI solenoid 1
+WP_164561555.1	114	PF10083.10	112	0.4884	0.3971	6.892	8.0%	| DUF2321 ; Uncharacterized protein conserved in bacteria (DUF2321)
+WP_011791514.1	161	PF10188.10	154	0.4878	0.4659	3.745	11.7%	| Oscp1 ; Organic solute transport protein 1
+WP_014524412.1	49	PF07484.13	49	0.4865	0.4558	5.133	24.5%	| Collar ; Phage Tail Collar Domain
+WP_010938833.1	133	PF09959.10	133	0.4863	0.1884	3.987	14.3%	| DUF2193 ; Uncharacterized protein conserved in archaea (DUF2193)
+WP_010939876.1	208	PF16823.6	141	0.4862	0.6607	4.905	12.8%	| PilZ_2 ; Atypical PilZ domain, cyclic di-GMP receptor
+WP_010938236.1	128	PF14593.7	95	0.4862	0.5641	3.752	11.6%	| PH_3 ; PH domain
+WP_014524246.1	130	PF11180.9	129	0.4860	0.4024	4.148	12.4%	| DUF2968 ; Protein of unknown function (DUF2968)
+WP_014524519.1	302	PF10460.10	285	0.4858	0.4238	5.111	10.9%	| Peptidase_M30 ; Peptidase M30
+WP_010938151.1	248	PF13166.7	247	0.4855	0.2192	5.081	8.1%	| AAA_13 ; AAA domain
+WP_010937346.1	57	PF07870.12	49	0.4855	0.5077	3.071	10.2%	| DUF1657 ; Protein of unknown function (DUF1657)
+WP_014524380.1	202	PF16226.6	201	0.4851	0.3453	4.432	10.9%	| DUF4885 ; Domain of unknown function (DUF4885)
+WP_164928124.1	135	PF04216.13	135	0.4848	0.3117	4.052	10.4%	| FdhE ; Protein involved in formate dehydrogenase formation
+WP_010937717.1	201	PF03915.14	199	0.4846	0.2825	4.344	8.0%	| AIP3 ; Actin interacting protein 3
+WP_014524301.1	311	PF09992.10	168	0.4840	0.7718	8.773	8.9%	| NAGPA ; Phosphodiester glycosidase
+WP_010938676.1	71	PF08869.12	71	0.4836	0.3770	4.539	14.1%	| XisI ; XisI protein
+WP_011792587.1	225	PF07961.12	155	0.4832	0.4649	4.138	9.0%	| MBA1 ; MBA1-like protein
+WP_014524444.1	107	PF00891.19	95	0.4829	0.3036	6.499	12.6%	| Methyltransf_2 ; O-methyltransferase domain
+WP_014524652.1	72	PF08968.11	67	0.4827	0.3433	3.026	13.4%	| DUF1885 ; Domain of unknown function (DUF1885)
+WP_010937532.1	109	PF00211.21	105	0.4827	0.3407	3.901	5.7%	| Guanylate_cyc ; Adenylate and Guanylate cyclase catalytic domain
+WP_010940096.1	121	PF02996.18	97	0.4821	0.4930	3.781	13.4%	| Prefoldin ; Prefoldin subunit
+WP_010939008.1	110	PF04157.17	110	0.4804	0.3005	3.670	8.2%	| EAP30 ; EAP30/Vps36 family
+WP_164928126.1	155	PF08416.14	124	0.4801	0.5365	3.930	7.3%	| PTB ; Phosphotyrosine-binding domain
+WP_010940013.1	1014	PF11573.9	945	0.4782	0.4143	7.346	8.4%	| Med23 ; Mediator complex subunit 23
+WP_011792157.1	74	PF17376.3	71	0.4780	0.4594	3.521	7.0%	| DUF5398 ; Family of unknown function (DUF5398)
+WP_010939305.1	179	PF18474.2	150	0.4779	0.4152	4.361	10.7%	| DUF5614 ; Family of unknown function (DUF5614)
+WP_010939043.1	80	PF07295.12	80	0.4776	0.3315	4.943	11.2%	| DUF1451 ; Zinc-ribbon containing domain
+WP_010940097.1	64	PF17604.3	63	0.4775	0.3727	4.206	11.1%	| DUF5500 ; Family of unknown function (DUF5500)
+WP_010939597.1	140	PF15877.6	132	0.4774	0.2032	3.616	12.1%	| TMEM232 ; Transmembrane protein family 232
+WP_010939950.1	60	PF04969.17	60	0.4766	0.4247	3.807	5.0%	| CS ; CS domain
+WP_014524278.1	229	PF05818.13	184	0.4765	0.4988	5.440	10.9%	| TraT ; Enterobacterial TraT complement resistance protein
+WP_014524486.1	46	PF10084.10	46	0.4746	0.2714	5.228	15.2%	| DUF2322 ; Uncharacterized protein conserved in bacteria (DUF2322)
+WP_010940656.1	78	PF11197.9	67	0.4733	0.4998	4.121	13.4%	| DUF2835 ; Protein of unknown function (DUF2835)
+WP_010939117.1	354	PF07095.12	310	0.4727	0.2836	4.005	11.0%	| IgaA ; Intracellular growth attenuator protein IgaA
+WP_010939166.1	213	PF16715.6	195	0.4713	0.4698	5.400	6.2%	| CDPS ; Cyclodipeptide synthase
+WP_010938073.1	115	PF15866.6	111	0.4704	0.2748	2.939	6.3%	| DUF4729 ; Domain of unknown function (DUF4729)
+WP_164928120.1	83	PF01325.20	59	0.4698	0.5625	2.948	6.8%	| Fe_dep_repress ; Iron dependent repressor, N-terminal DNA binding domain
+WP_010938650.1	122	PF08657.11	120	0.4694	0.2593	3.449	2.5%	| DASH_Spc34 ; DASH complex subunit Spc34
+WP_010938547.1	72	PF11577.9	67	0.4685	0.4780	3.313	9.0%	| NEMO ; NF-kappa-B essential modulator NEMO
+WP_010938243.1	85	PF07379.12	78	0.4684	0.2787	3.043	3.8%	| DUF1494 ; Protein of unknown function (DUF1494)
+WP_010939826.1	122	PF03693.15	80	0.4681	0.6528	3.583	10.0%	| ParD_antitoxin ; Bacterial antitoxin of ParD toxin-antitoxin type II system and RHH
+WP_010939139.1	98	PF15458.7	97	0.4673	0.1889	2.891	6.2%	| NTR2 ; Nineteen complex-related protein 2
+WP_010940526.1	420	PF01916.18	237	0.4659	0.6100	8.729	9.7%	| DS ; Deoxyhypusine synthase
+WP_010938238.1	249	PF09657.11	243	0.4648	0.3249	3.700	7.8%	| Cas_Csx8 ; CRISPR-associated protein Csx8 (Cas_Csx8)
+WP_014524588.1	299	PF09544.11	197	0.4646	0.4825	6.152	7.1%	| DUF2381 ; Protein of unknown function (DUF2381)
+WP_010939909.1	246	PF00603.18	246	0.4641	0.2246	3.275	7.7%	| Flu_PA ; Influenza RNA-dependent RNA polymerase subunit PA
+WP_010939412.1	183	PF09660.11	165	0.4641	0.2241	4.049	7.3%	| DUF2397 ; Protein of unknown function (DUF2397)
+WP_010938812.1	328	PF05482.13	325	0.4635	0.3393	4.207	9.8%	| Serendipity_A ; Serendipity locus alpha protein (SRY-A)
+WP_010939907.1	362	PF02738.19	356	0.4627	0.3449	5.822	10.1%	| Ald_Xan_dh_C2 ; Molybdopterin-binding domain of aldehyde dehydrogenase
+WP_010940178.1	78	PF16681.6	75	0.4617	0.4465	4.807	13.3%	| Ig_5 ; Ig-like domain on T-cell surface glycoprotein CD3 epsilon chain
+WP_010939429.1	338	PF04489.14	310	0.4608	0.3948	6.315	11.0%	| DUF570 ; Protein of unknown function (DUF570)
+WP_014524391.1	58	PF00571.29	56	0.4605	0.4667	4.338	5.4%	| CBS ; CBS domain
+WP_010939686.1	586	PF11573.9	582	0.4594	0.2776	5.746	9.1%	| Med23 ; Mediator complex subunit 23
+WP_010940027.1	61	PF14145.7	56	0.4591	0.4681	3.168	12.5%	| YrhK ; YrhK-like protein
+WP_014524461.1	79	PF04059.13	71	0.4589	0.4088	4.748	5.6%	| RRM_2 ; RNA recognition motif 2
+WP_010940069.1	469	PF01044.20	428	0.4582	0.3081	6.314	4.2%	| Vinculin ; Vinculin family
+WP_010937706.1	262	PF04632.13	254	0.4579	0.2491	4.375	8.7%	| FUSC ; Fusaric acid resistance protein family
+WP_010937444.1	240	PF03395.15	240	0.4579	0.1838	2.894	8.3%	| Pox_P4A ; Poxvirus P4A protein
+WP_014524543.1	183	PF02331.16	178	0.4572	0.3391	5.288	7.9%	| P35 ; Apoptosis preventing protein
+WP_010938240.1	964	PF03805.14	918	0.4572	0.3813	8.008	6.8%	| CLAG ; Cytoadherence-linked asexual protein
+WP_010938714.1	153	PF10039.10	135	0.4568	0.3312	3.558	13.3%	| DUF2275 ; Predicted integral membrane protein (DUF2275)
+WP_014524579.1	524	PF05482.13	499	0.4565	0.4549	7.028	5.6%	| Serendipity_A ; Serendipity locus alpha protein (SRY-A)
+WP_010939734.1	527	PF15718.6	522	0.4562	0.3090	4.828	8.6%	| MNR ; Protein moonraker
+WP_010938030.1	151	PF05847.12	145	0.4550	0.2427	3.867	9.0%	| Baculo_LEF-3 ; Nucleopolyhedrovirus late expression factor 3 (LEF-3)
+WP_014524325.1	205	PF14533.7	167	0.4546	0.4530	5.175	6.6%	| USP7_C2 ; Ubiquitin-specific protease C-terminal
+WP_011792331.1	161	PF16240.6	160	0.4538	0.3248	5.023	8.8%	| DUF4899 ; Domain of unknown function (DUF4899)
+WP_010940103.1	357	PF15146.7	311	0.4526	0.3903	5.519	9.3%	| FANCAA ; Fanconi anemia-associated
+WP_010940223.1	219	PF06152.12	200	0.4517	0.3166	3.784	6.5%	| Phage_min_cap2 ; Phage minor capsid protein 2
+WP_010939173.1	580	PF14314.7	498	0.4505	0.3987	6.162	7.4%	| Methyltrans_Mon ; Virus-capping methyltransferase
+WP_150103628.1	303	PF15962.6	292	0.4493	0.1796	4.459	8.6%	| DUF4765 ; Domain of unknown function (DUF4765)
+WP_010938517.1	81	PF15409.7	81	0.4482	0.4266	7.199	7.4%	| PH_8 ; Pleckstrin homology domain
+WP_010940106.1	233	PF03999.13	206	0.4478	0.2393	5.091	5.3%	| MAP65_ASE1 ; Microtubule associated protein (MAP65/ASE1 family)
+WP_014524556.1	97	PF11221.9	97	0.4476	0.3597	3.663	5.2%	| Med21 ; Subunit 21 of Mediator complex
+WP_010939985.1	275	PF05544.12	270	0.4476	0.3983	5.306	6.3%	| Pro_racemase ; Proline racemase
+WP_010937803.1	82	PF03692.16	71	0.4476	0.3527	3.929	12.7%	| CxxCxxCC ; Putative zinc- or iron-chelating domain
+WP_010939277.1	331	PF02265.17	242	0.4471	0.5435	6.238	6.6%	| S1-P1_nuclease ; S1/P1 Nuclease
+WP_164561746.1	73	PF13944.7	73	0.4469	0.3356	4.188	11.0%	| Calycin_like ; Calycin-like beta-barrel domain
+WP_011176612.1	989	PF00873.20	815	0.4465	0.4351	8.090	7.0%	| ACR_tran ; AcrB/AcrD/AcrF family
+WP_014524389.1	80	PF14552.7	75	0.4464	0.4435	4.680	4.0%	| Tautomerase_2 ; Tautomerase enzyme
+WP_014524689.1	826	PF14631.7	801	0.4446	0.3141	5.884	8.0%	| FancD2 ; Fanconi anaemia protein FancD2 nuclease
+WP_011792318.1	157	PF02876.18	105	0.4446	0.5774	4.405	5.7%	| Stap_Strp_tox_C ; Staphylococcal/Streptococcal toxin, beta-grasp domain
+WP_010937941.1	288	PF01044.20	269	0.4434	0.2137	4.777	8.6%	| Vinculin ; Vinculin family
+WP_010940669.1	528	PF05679.17	402	0.4426	0.4400	9.018	9.0%	| CHGN ; Chondroitin N-acetylgalactosaminyltransferase
+WP_010940664.1	94	PF07855.13	93	0.4422	0.3392	3.507	14.0%	| ATG101 ; Autophagy-related protein 101
+WP_010940614.1	139	PF06750.14	84	0.4422	0.6520	4.333	19.0%	| DiS_P_DiS ; Bacterial Peptidase A24 N-terminal domain
+WP_010937548.1	129	PF12685.8	91	0.4397	0.2810	3.115	15.4%	| SpoIIIAH ; SpoIIIAH-like protein
+WP_164928114.1	524	PF00311.18	519	0.4391	0.3259	4.530	7.7%	| PEPcase ; Phosphoenolpyruvate carboxylase
+WP_010938985.1	122	PF15186.7	122	0.4386	0.3992	4.679	10.7%	| TEX13 ; Testis-expressed sequence 13 protein family
+WP_010937627.1	86	PF10752.10	83	0.4384	0.4438	3.862	10.8%	| DUF2533 ; Protein of unknown function (DUF2533)
+WP_010940532.1	222	PF11307.9	158	0.4383	0.5081	4.289	15.2%	| DUF3109 ; Protein of unknown function (DUF3109)
+WP_010938484.1	73	PF04248.13	68	0.4370	0.3961	6.039	4.4%	| NTP_transf_9 ; Domain of unknown function (DUF427)
+WP_010938304.1	406	PF13779.7	392	0.4368	0.2513	3.865	10.2%	| DUF4175 ; Domain of unknown function (DUF4175)
+WP_010939329.1	432	PF15146.7	355	0.4365	0.4311	5.841	7.6%	| FANCAA ; Fanconi anemia-associated
+WP_014524572.1	73	PF07899.12	72	0.4354	0.1650	3.859	9.7%	| Frigida ; Frigida-like protein
+WP_014524664.1	902	PF04762.13	625	0.4345	0.4136	21.075	6.9%	| IKI3 ; IKI3 family
+WP_011791504.1	200	PF04612.13	153	0.4345	0.5306	4.801	5.2%	| T2SSM ; Type II secretion system (T2SS), protein M
+WP_010938817.1	330	PF17643.2	326	0.4345	0.2390	5.015	7.7%	| TssR ; Type VI secretion system, TssR
+WP_010938777.1	112	PF12210.9	95	0.4324	0.4700	4.043	13.7%	| Hrs_helical ; Hepatocyte growth factor-regulated tyrosine kinase substrate
+WP_010937461.1	98	PF13758.7	90	0.4324	0.4345	3.466	5.6%	| Prefoldin_3 ; Prefoldin subunit
+WP_150103627.1	214	PF12072.9	192	0.4323	0.4587	5.352	9.9%	| RNase_Y_N ; RNase Y N-terminal region
+WP_010939962.1	79	PF15250.7	69	0.4321	0.1116	3.474	11.6%	| Raftlin ; Raftlin
+WP_011792600.1	81	PF17274.3	74	0.4312	0.4526	3.617	5.4%	| DUF5339 ; Family of unknown function (DUF5339)
+WP_014524399.1	1266	PF11573.9	876	0.4311	0.4328	11.333	7.9%	| Med23 ; Mediator complex subunit 23
+WP_010939980.1	109	PF17891.2	52	0.4311	0.8006	3.871	17.3%	| FluMu_N ; Mu-like prophage FluMu N-terminal domain
+WP_014524323.1	113	PF02561.15	103	0.4308	0.4289	4.193	5.8%	| FliS ; Flagellar protein FliS
+WP_010939862.1	112	PF12210.9	95	0.4294	0.4663	4.044	13.7%	| Hrs_helical ; Hepatocyte growth factor-regulated tyrosine kinase substrate
+WP_014524293.1	82	PF07282.12	42	0.4285	0.4853	2.637	16.7%	| OrfB_Zn_ribbon ; Putative transposase DNA-binding domain
+WP_010939875.1	99	PF00788.24	82	0.4284	0.4162	3.486	7.3%	| RA ; Ras association (RalGDS/AF-6) domain
+WP_010937802.1	1015	PF11573.9	948	0.4283	0.3755	5.851	9.4%	| Med23 ; Mediator complex subunit 23
+WP_010940671.1	305	PF16265.6	169	0.4279	0.5650	6.760	4.1%	| DUF4918 ; Domain of unknown function (DUF4918)
+WP_164928116.1	326	PF08326.13	304	0.4274	0.2438	4.315	8.2%	| ACC_central ; Acetyl-CoA carboxylase, central region
+WP_010938292.1	240	PF08886.12	223	0.4272	0.3039	4.082	8.1%	| GshA ; Glutamate-cysteine ligase
+WP_010938972.1	578	PF19042.1	575	0.4262	0.2682	4.983	10.6%	| CBP110 ; Nuclear cap binding complex subunit CBP110
+WP_010939901.1	78	PF09380.11	75	0.4255	0.3809	4.589	10.7%	| FERM_C ; FERM C-terminal PH-like domain
+WP_010939990.1	446	PF15292.7	430	0.4232	0.2943	4.885	9.8%	| Treslin_N ; Treslin N-terminus
+WP_010940531.1	130	PF15467.7	130	0.4230	0.1732	3.649	13.1%	| SGIII ; Secretogranin-3
+WP_010939608.1	516	PF09960.10	311	0.4201	0.3301	6.510	9.0%	| DUF2194 ; Uncharacterised protein conserved in bacteria (DUF2194)
+WP_010939470.1	85	PF09111.11	85	0.4201	0.3664	3.748	8.2%	| SLIDE ; SLIDE
+WP_010938333.1	261	PF04100.13	254	0.4188	0.3156	3.708	7.9%	| Vps53_N ; Vps53-like, N-terminal
+WP_010938372.1	308	PF05211.13	227	0.4175	0.4864	5.864	7.0%	| NLBH ; Neuraminyllactose-binding hemagglutinin precursor (NLBH)
+WP_010940662.1	121	PF09888.10	116	0.4170	0.3682	4.183	6.0%	| DUF2115 ; Uncharacterized protein conserved in archaea (DUF2115)
+WP_010939001.1	211	PF15619.7	169	0.4160	0.4369	4.483	8.9%	| Lebercilin ; Ciliary protein causing Leber congenital amaurosis disease
+WP_010939461.1	337	PF07471.13	157	0.4152	0.8098	6.903	9.6%	| Phage_Nu1 ; Phage DNA packaging protein Nu1
+WP_010939469.1	229	PF17244.3	183	0.4151	0.4251	4.757	7.1%	| CDC24_OB3 ; Cell division control protein 24, OB domain 3
+WP_010940233.1	59	PF13895.7	55	0.4144	0.3690	4.231	12.7%	| Ig_2 ; Immunoglobulin domain
+WP_014524322.1	96	PF07200.14	96	0.4139	0.3255	3.441	6.2%	| Mod_r ; Modifier of rudimentary (Mod(r)) protein
+WP_010940584.1	109	PF18067.2	85	0.4105	0.4402	3.571	14.1%	| Lipase_C ; Lipase C-terminal domain
+WP_010938946.1	99	PF01246.21	60	0.4100	0.5636	4.200	18.3%	| Ribosomal_L24e ; Ribosomal protein L24e
+WP_014524401.1	328	PF08878.12	199	0.4069	0.5548	6.245	10.1%	| DUF1837 ; Domain of unknown function (DUF1837)
+WP_011792423.1	149	PF03194.16	147	0.4063	0.3040	3.891	10.9%	| LUC7 ; LUC7 N_terminus
+WP_010939451.1	225	PF03355.15	219	0.4063	0.3770	4.484	7.8%	| Pox_TAP ; Viral Trans-Activator Protein
+WP_010938370.1	196	PF02720.18	194	0.4063	0.2996	4.152	7.7%	| DUF222 ; Domain of unknown function (DUF222)
+WP_010938791.1	89	PF10769.10	73	0.4060	0.4525	4.441	12.3%	| DUF2594 ; Protein of unknown function (DUF2594)
+WP_010937679.1	230	PF06109.14	221	0.4041	0.3559	4.275	5.4%	| HlyE ; Haemolysin E (HlyE)
+WP_014524680.1	124	PF03977.14	68	0.4036	0.1578	3.653	27.9%	| OAD_beta ; Na+-transporting oxaloacetate decarboxylase beta subunit
+WP_010939407.1	220	PF08687.12	196	0.4034	0.3364	4.423	6.1%	| ASD2 ; Apx/Shroom domain ASD2
+WP_164928135.1	53	PF09178.11	49	0.4028	0.4140	4.133	12.2%	| DUF1945 ; Domain of unknown function (DUF1945)
+WP_010938815.1	342	PF02092.18	324	0.4028	0.2977	3.928	11.7%	| tRNA_synt_2f ; Glycyl-tRNA synthetase beta subunit
+WP_014524324.1	88	PF02580.17	88	0.3994	0.3020	3.812	13.6%	| Tyr_Deacylase ; D-Tyr-tRNA(Tyr) deacylase
+WP_014524394.1	588	PF00604.18	549	0.3979	0.3422	5.423	6.9%	| Flu_PB2 ; Influenza RNA-dependent RNA polymerase subunit PB2
+WP_010938424.1	157	PF10669.10	120	0.3976	0.4547	3.421	5.8%	| Phage_Gp23 ; Protein gp23 (Bacteriophage A118)
+WP_010937793.1	109	PF11682.9	104	0.3972	0.3600	4.502	9.6%	| zinc_ribbon_11 ; Probable zinc-ribbon
+WP_010938426.1	137	PF05149.13	135	0.3968	0.2630	2.938	7.4%	| Flagellar_rod ; Paraflagellar rod protein
+WP_010938800.1	135	PF09674.11	126	0.3962	0.2926	3.041	10.3%	| DUF2400 ; Protein of unknown function (DUF2400)
+WP_010940100.1	112	PF00666.18	96	0.3958	0.4192	3.887	5.2%	| Cathelicidins ; Cathelicidin
+WP_010938834.1	75	PF15786.6	66	0.3945	0.4092	3.637	13.6%	| PET117 ; PET assembly of cytochrome c oxidase, mitochondrial
+WP_010939969.1	139	PF13851.7	138	0.3944	0.3340	4.561	5.8%	| GAS ; Growth-arrest specific micro-tubule binding
+WP_010938850.1	797	PF17825.2	705	0.3943	0.2691	6.355	6.0%	| DUF5587 ; Family of unknown function (DUF5587)
+WP_010940601.1	389	PF16172.6	350	0.3941	0.3660	5.936	11.1%	| DOCK_N ; DOCK N-terminus
+WP_014524220.1	301	PF16434.6	196	0.3940	0.3409	6.192	10.7%	| DUF5031 ; Domain of unknown function (DUF5031)
+WP_014524569.1	173	PF05266.15	150	0.3931	0.3767	4.472	8.0%	| DUF724 ; Protein of unknown function (DUF724)
+WP_014524645.1	138	PF11023.9	103	0.3907	0.4478	5.301	12.6%	| DUF2614 ; Zinc-ribbon containing domain
+WP_010939993.1	149	PF03245.14	133	0.3899	0.3996	4.047	9.0%	| Phage_lysis ; Bacteriophage Rz lysis protein
+WP_150103631.1	77	PF11835.9	75	0.3895	0.3686	5.932	9.3%	| RRM_8 ; RRM-like domain
+WP_010938326.1	323	PF02101.16	257	0.3892	0.3384	5.910	6.6%	| Ocular_alb ; Ocular albinism type 1 protein
+WP_010939016.1	138	PF12763.8	95	0.3883	0.4645	3.294	9.5%	| EF-hand_4 ; Cytoskeletal-regulatory complex EF hand
+WP_041722649.1	61	PF12967.8	60	0.3882	0.2031	3.250	13.3%	| DUF3855 ; Domain of Unknown Function with PDB structure (DUF3855)
+WP_010939229.1	77	PF15553.7	67	0.3877	0.2404	2.853	14.9%	| TEX19 ; Testis-expressed protein 19
+WP_014524383.1	389	PF09481.11	352	0.3872	0.3377	5.097	9.7%	| CRISPR_Cse1 ; CRISPR-associated protein Cse1 (CRISPR_cse1)
+WP_011176581.1	1131	PF15376.7	1031	0.3852	0.3542	3.732	9.6%	| DUF4603 ; Domain of unknown function (DUF4603)
+WP_010938665.1	290	PF19165.1	266	0.3847	0.3083	5.618	6.8%	| DUF5847 ; Family of unknown function (DUF5847)
+WP_010940477.1	400	PF12228.9	284	0.3828	0.2880	6.557	11.6%	| DUF3604 ; Protein of unknown function (DUF3604)
+WP_010940130.1	115	PF16922.6	49	0.3817	0.6888	3.951	20.4%	| SLD5_C ; DNA replication complex GINS protein SLD5 C-terminus
+WP_010940659.1	419	PF15292.7	418	0.3802	0.2582	3.459	8.4%	| Treslin_N ; Treslin N-terminus
+WP_010939409.1	85	PF16830.6	85	0.3792	0.3718	4.128	2.4%	| NBD94 ; Nucleotide-Binding Domain 94 of RH
+WP_014524534.1	250	PF10474.10	211	0.3791	0.3969	4.779	9.5%	| DUF2451 ; Protein of unknown function C-terminus (DUF2451)
+WP_010939435.1	116	PF00572.19	114	0.3791	0.3753	3.666	5.3%	| Ribosomal_L13 ; Ribosomal protein L13
+WP_014524624.1	671	PF09763.10	664	0.3782	0.3408	4.476	6.5%	| Sec3_C ; Exocyst complex component Sec3
+WP_010937564.1	184	PF15146.7	171	0.3782	0.2188	3.983	9.4%	| FANCAA ; Fanconi anemia-associated
+WP_014524179.1	284	PF01718.17	284	0.3777	0.2599	3.422	8.1%	| Orbi_NS1 ; Orbivirus non-structural protein NS1, or hydrophobic tubular protein
+WP_010940484.1	109	PF03938.15	109	0.3775	0.3260	3.305	7.3%	| OmpH ; Outer membrane protein (OmpH-like)
+WP_010937511.1	106	PF14000.7	46	0.3771	0.3189	4.161	19.6%	| Packaging_FI ; DNA packaging protein FI
+WP_014524341.1	315	PF00837.18	245	0.3768	0.4294	4.977	7.3%	| T4_deiodinase ; Iodothyronine deiodinase
+WP_010938986.1	192	PF05895.13	111	0.3761	0.1477	4.887	16.2%	| DUF859 ; Siphovirus protein of unknown function (DUF859)
+WP_014524532.1	350	PF10359.10	313	0.3748	0.2955	4.054	9.6%	| Fmp27_WPPW ; RNA pol II promoter Fmp27 protein domain
+WP_010938411.1	126	PF09756.10	120	0.3737	0.2981	4.928	10.8%	| DDRGK ; DDRGK domain
+WP_010939335.1	487	PF12877.8	424	0.3702	0.2934	5.197	9.0%	| DUF3827 ; Domain of unknown function (DUF3827)
+WP_010937571.1	184	PF07970.13	146	0.3697	0.3267	3.767	6.2%	| COPIIcoated_ERV ; Endoplasmic reticulum vesicle transporter
+WP_010939898.1	183	PF03542.17	145	0.3689	0.2473	4.567	9.7%	| Tuberin ; Tuberin
+WP_010940510.1	83	PF00169.30	83	0.3678	0.3198	5.023	6.0%	| PH ; PH domain
+WP_010937378.1	102	PF04699.15	100	0.3672	0.2878	3.427	14.0%	| P16-Arc ; ARP2/3 complex 16 kDa subunit (p16-Arc)
+WP_014524365.1	83	PF15409.7	80	0.3669	0.3580	4.819	7.5%	| PH_8 ; Pleckstrin homology domain
+WP_164928119.1	58	PF17230.3	58	0.3649	0.2117	4.236	8.6%	| DUF5304 ; Family of unknown function (DUF5304)
+WP_010939325.1	60	PF07524.14	60	0.3602	0.3297	3.861	5.0%	| Bromo_TP ; Bromodomain associated
+WP_014524482.1	159	PF14719.7	146	0.3593	0.3313	4.192	12.3%	| PID_2 ; Phosphotyrosine interaction domain (PTB/PID)
+WP_010940303.1	293	PF06219.13	284	0.3570	0.2847	4.042	10.6%	| DUF1005 ; Protein of unknown function (DUF1005)
+WP_010940525.1	203	PF13093.7	200	0.3553	0.3037	3.651	8.5%	| FTA4 ; Kinetochore complex Fta4 of Sim4 subunit, or CENP-50
+WP_014524297.1	180	PF14633.7	176	0.3551	0.3270	5.305	4.5%	| SH2_2 ; SH2 domain
+WP_010938318.1	406	PF00443.30	385	0.3535	0.3328	5.358	8.3%	| UCH ; Ubiquitin carboxyl-terminal hydrolase
+WP_010938472.1	145	PF09687.11	123	0.3530	0.3812	4.728	5.7%	| PRESAN ; Plasmodium RESA N-terminal
+WP_010940357.1	67	PF01363.22	61	0.3517	0.3517	5.250	9.8%	| FYVE ; FYVE zinc finger
+WP_010937839.1	47	PF02609.17	46	0.3491	0.3452	3.445	8.7%	| Exonuc_VII_S ; Exonuclease VII small subunit
+WP_010939462.1	176	PF18304.2	168	0.3487	0.2584	5.875	10.1%	| SabA_adhesion ; SabA N-terminal extracellular adhesion domain
+WP_010939618.1	106	PF14593.7	94	0.3486	0.3536	4.002	4.3%	| PH_3 ; PH domain
+WP_014524319.1	162	PF15743.6	152	0.3479	0.3581	4.781	7.9%	| SPATA1_C ; Spermatogenesis-associated C-terminus
+WP_010939029.1	323	PF15799.6	322	0.3458	0.2572	4.310	9.0%	| CCD48 ; Coiled-coil domain-containing protein 48
+WP_010939007.1	279	PF12309.9	270	0.3454	0.3107	4.265	9.3%	| KBP_C ; KIF-1 binding protein C terminal
+WP_010939113.1	90	PF18718.2	87	0.3439	0.3164	4.133	8.0%	| CxC5 ; CxC5 like cysteine cluster associated with KDZ transposases
+WP_010939744.1	160	PF03999.13	148	0.3428	0.1552	4.238	8.8%	| MAP65_ASE1 ; Microtubule associated protein (MAP65/ASE1 family)
+WP_010939397.1	134	PF09476.11	85	0.3425	0.2492	4.172	11.8%	| Pilus_CpaD ; Pilus biogenesis CpaD protein (pilus_cpaD)
+WP_014524686.1	271	PF01499.17	264	0.3416	0.2223	3.396	8.7%	| Herpes_UL25 ; Herpesvirus UL25 family
+WP_014524282.1	426	PF12297.9	366	0.3389	0.3399	4.560	5.5%	| EVC2_like ; Ellis van Creveld protein 2 like protein
+WP_010937545.1	187	PF14953.7	184	0.3350	0.2557	3.566	8.2%	| DUF4504 ; Domain of unknown function (DUF4504)
+WP_010938685.1	155	PF18641.2	154	0.3342	0.3060	4.058	2.6%	| LidA_Long_CC ; LidA long coiled-coil domain
+WP_010938818.1	72	PF00564.25	72	0.3313	0.3194	5.903	9.7%	| PB1 ; PB1 domain
+WP_010939024.1	64	PF07647.18	51	0.3308	0.3289	4.241	7.8%	| SAM_2 ; SAM domain (Sterile alpha motif)
+WP_010938804.1	86	PF00651.32	73	0.3294	0.3009	3.874	6.8%	| BTB ; BTB/POZ domain
+WP_010938206.1	979	PF17825.2	729	0.3291	0.2571	4.335	6.4%	| DUF5587 ; Family of unknown function (DUF5587)
+WP_010939082.1	67	PF16360.6	63	0.3258	0.2941	3.277	4.8%	| GTP-bdg_M ; GTP-binding GTPase Middle Region
+WP_010939151.1	46	PF02495.18	42	0.3247	0.3099	3.872	9.5%	| TGBp3 ; Triple gene block 3
+WP_010939890.1	270	PF00064.19	261	0.3177	0.2844	5.256	9.6%	| Neur ; Neuraminidase
+WP_014524436.1	210	PF14719.7	179	0.3158	0.3352	5.512	7.3%	| PID_2 ; Phosphotyrosine interaction domain (PTB/PID)
+WP_010937889.1	74	PF17376.3	72	0.3140	0.3039	4.327	6.9%	| DUF5398 ; Family of unknown function (DUF5398)
+WP_014524445.1	142	PF15146.7	135	0.3127	0.1623	4.692	11.9%	| FANCAA ; Fanconi anemia-associated
+WP_164928147.1	51	PF13765.7	49	0.3124	0.3124	5.737	6.1%	| PRY ; SPRY-associated domain
+WP_164561638.1	48	PF18499.2	48	0.3086	0.3073	3.228	4.2%	| Cue1_U7BR ; Ubc7p-binding region of Cue1
+WP_010939010.1	117	PF12017.9	111	0.3067	0.2193	3.290	13.5%	| Tnp_P_element ; Transposase protein
+WP_010938459.1	63	PF08912.12	63	0.3049	0.3019	4.352	6.3%	| Rho_Binding ; Rho Binding
+WP_010939869.1	147	PF01338.19	146	0.3029	0.2401	4.366	6.2%	| Bac_thur_toxin ; Bacillus thuringiensis toxin
+WP_014524284.1	62	PF00130.23	53	0.2960	0.3139	4.680	9.4%	| C1_1 ; Phorbol esters/diacylglycerol binding domain (C1 domain)
+WP_164928137.1	63	PF01847.17	61	0.2948	0.2793	5.890	11.5%	| VHL ; VHL beta domain
+WP_014524200.1	217	PF02138.19	208	0.2863	0.2475	4.422	7.2%	| Beach ; Beige/BEACH domain
+WP_041722671.1	226	PF15242.7	225	0.2838	0.2439	4.511	9.3%	| FAM53 ; Family of FAM53
+WP_011791744.1	72	PF08178.12	54	0.2834	0.3100	3.285	9.3%	| GnsAB_toxin ; GnsA/GnsB toxin of bacterial toxin-antitoxin system
+WP_010939004.1	114	PF11835.9	89	0.2784	0.3100	4.525	11.2%	| RRM_8 ; RRM-like domain
+WP_164561858.1	49	PF17426.3	49	0.2463	0.1629	2.398	16.3%	| Putative_G5P ; Putative Gamma DNA binding protein G5P
+WP_150103622.1	88	PF00436.26	86	0.2217	0.2086	2.868	11.6%	| SSB ; Single-strand binding protein family

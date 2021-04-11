@@ -1,0 +1,560 @@
+WP_010937346.1	EC number not predicted	N/A
+WP_010937347.1	EC number not predicted	N/A
+WP_010937351.1	EC number not predicted	N/A
+WP_010937375.1	EC:3.2.1	0.6557429
+WP_010937376.1	EC number not predicted	N/A
+WP_010937378.1	EC number not predicted	N/A
+WP_010937444.1	EC:1.9.3	0.7918871
+WP_010937447.1	EC number not predicted	N/A
+WP_010937457.1	EC number not predicted	N/A
+WP_010937461.1	EC number not predicted	N/A
+WP_010937464.1	EC:3.5.1	0.9999224
+WP_010937503.1	EC number not predicted	N/A
+WP_010937511.1	EC:5.2.1	1.0
+WP_010937516.1	EC number not predicted	N/A
+WP_010937517.1	EC number not predicted	N/A
+WP_010937518.1	EC:2.4.2	0.9913894
+WP_010937532.1	EC number not predicted	N/A
+WP_010937534.1	EC number not predicted	N/A
+WP_010937544.1	EC number not predicted	N/A
+WP_010937545.1	EC number not predicted	N/A
+WP_010937548.1	EC number not predicted	N/A
+WP_010937551.1	EC number not predicted	N/A
+WP_010937554.1	EC:3.6.1	0.85990715
+WP_010937559.1	EC:2.3.1	0.9626619
+WP_010937564.1	EC:5.2.1	0.98763645
+WP_010937571.1	EC number not predicted	N/A
+WP_010937574.1	EC:2.3.1	0.7847816
+WP_010937575.1	EC:3.5.5	0.8212007
+WP_010937583.1	EC number not predicted	N/A
+WP_010937610.1	EC number not predicted	N/A
+WP_010937613.1	EC:2.4.2	0.58117366
+WP_010937627.1	EC:2.7.4	0.5269996
+WP_010937644.1	EC number not predicted	N/A
+WP_010937679.1	EC number not predicted	N/A
+WP_010937683.1	EC:2.7.7	0.9988963
+WP_010937690.1	EC:1.11.1	0.94201016
+WP_010937706.1	EC number not predicted	N/A
+WP_010937707.1	EC:2.7.7	0.5998033
+WP_010937716.1	EC:5.4.99	0.5334102
+WP_010937717.1	EC:2.4.2	0.8486623
+WP_010937727.1	EC number not predicted	N/A
+WP_010937746.1	EC number not predicted	N/A
+WP_010937762.1	EC number not predicted	N/A
+WP_010937793.1	EC number not predicted	N/A
+WP_010937802.1_SEPARATED_SEQUENCE_(1_1001)	EC number not predicted	N/A
+WP_010937803.1	EC number not predicted	N/A
+WP_010937807.1	EC number not predicted	N/A
+WP_010937830.1	EC:2.7.7	0.99740577
+WP_010937838.1	EC number not predicted	N/A
+WP_010937839.1	EC number not predicted	N/A
+WP_010937889.1	EC number not predicted	N/A
+WP_010937898.1	EC number not predicted	N/A
+WP_010937906.1	EC number not predicted	N/A
+WP_010937917.1	EC:3.6.1	1.0
+WP_010937919.1	EC number not predicted	N/A
+WP_010937920.1	EC:2.3.1	0.8302641
+WP_010937937.1	EC:2.8.1	0.9939395
+WP_010937941.1	EC number not predicted	N/A
+WP_010937954.1	EC:1.6.5	0.9862139
+WP_010937959.1	EC:2.7.7	0.84530675
+WP_010937972.1	EC:1.1.1	0.74270356
+WP_010937991.1	EC:1.6.5	0.9999534
+WP_010938012.1	EC number not predicted	N/A
+WP_010938030.1	EC:2.1.1	0.9998901
+WP_010938032.1	EC number not predicted	N/A
+WP_010938042.1	EC:3.6.4	0.89577734
+WP_010938073.1	EC number not predicted	N/A
+WP_010938074.1	EC number not predicted	N/A
+WP_010938088.1	EC:1.6.5	0.99891883
+WP_010938093.1	EC number not predicted	N/A
+WP_010938106.1	EC:3.1.26	0.62758005
+WP_010938118.1	EC number not predicted	N/A
+WP_010938119.1	EC number not predicted	N/A
+WP_010938122.1	EC number not predicted	N/A
+WP_010938143.1	EC number not predicted	N/A
+WP_010938151.1	EC number not predicted	N/A
+WP_010938181.1	EC number not predicted	N/A
+WP_010938206.1	EC:2.1.1	1.0
+WP_010938236.1	EC:3.1.26	0.9367163
+WP_010938238.1	EC number not predicted	N/A
+WP_010938240.1	EC:3.4.24	0.7421727
+WP_010938243.1	EC number not predicted	N/A
+WP_010938264.1	EC:2.7.7	0.9945015
+WP_010938273.1	EC number not predicted	N/A
+WP_010938292.1	EC number not predicted	N/A
+WP_010938304.1	EC number not predicted	N/A
+WP_010938308.1	EC number not predicted	N/A
+WP_010938318.1	EC:2.4.1	0.9990424
+WP_010938326.1	EC:3.4.21	0.99435043
+WP_010938331.1	EC number not predicted	N/A
+WP_010938333.1	EC:2.5.1	0.9999735
+WP_010938370.1	EC:1.8.98	0.8645309
+WP_010938371.1	EC number not predicted	N/A
+WP_010938372.1	EC number not predicted	N/A
+WP_010938400.1	EC number not predicted	N/A
+WP_010938404.1	EC:3.1.1	0.7230925
+WP_010938405.1	EC:3.1.26	0.97897923
+WP_010938407.1	EC number not predicted	N/A
+WP_010938409.1	EC number not predicted	N/A
+WP_010938411.1	EC:3.6.1	0.51390976
+WP_010938412.1	EC number not predicted	N/A
+WP_010938416.1	EC number not predicted	N/A
+WP_010938417.1	EC:2.3.2	0.77772367
+WP_010938420.1	EC number not predicted	N/A
+WP_010938421.1	EC number not predicted	N/A
+WP_010938423.1	EC number not predicted	N/A
+WP_010938424.1	EC:6.3.2	0.55954707
+WP_010938426.1	EC number not predicted	N/A
+WP_010938430.1	EC number not predicted	N/A
+WP_010938432.1	EC number not predicted	N/A
+WP_010938434.1	EC:3.1.26	0.9995986
+WP_010938436.1	EC:3.6.1	0.51382375
+WP_010938437.1	EC:3.1.21	0.81206834
+WP_010938442.1	EC number not predicted	N/A
+WP_010938446.1	EC:1.11.1	0.6005742
+WP_010938459.1	EC number not predicted	N/A
+WP_010938471.1	EC:4.2.1	0.98780835
+WP_010938472.1	EC number not predicted	N/A
+WP_010938473.1	EC number not predicted	N/A
+WP_010938484.1	EC number not predicted	N/A
+WP_010938515.1	EC number not predicted	N/A
+WP_010938517.1	EC number not predicted	N/A
+WP_010938518.1	EC number not predicted	N/A
+WP_010938521.1	EC number not predicted	N/A
+WP_010938531.1	EC number not predicted	N/A
+WP_010938547.1	EC:2.7.11	0.910148
+WP_010938596.1	EC number not predicted	N/A
+WP_010938633.1	EC number not predicted	N/A
+WP_010938650.1	EC:3.6.1	0.55198437
+WP_010938657.1	EC number not predicted	N/A
+WP_010938665.1	EC:2.1.1	0.9504448
+WP_010938670.1	EC number not predicted	N/A
+WP_010938676.1	EC:2.7.7	0.9720851
+WP_010938685.1	EC number not predicted	N/A
+WP_010938691.1	EC number not predicted	N/A
+WP_010938702.1	EC number not predicted	N/A
+WP_010938714.1	EC:2.1.1	0.7583064
+WP_010938727.1	EC number not predicted	N/A
+WP_010938748.1	EC:2.3.2	0.99997807
+WP_010938751.1	EC number not predicted	N/A
+WP_010938753.1	EC number not predicted	N/A
+WP_010938771.1	EC:2.1.1	0.9922689
+WP_010938777.1	EC:3.6.1	0.9729724
+WP_010938780.1	EC:4.2.1	0.9999236
+WP_010938782.1	EC number not predicted	N/A
+WP_010938785.1	EC:3.6.1	0.8021287
+WP_010938786.1	EC number not predicted	N/A
+WP_010938791.1	EC number not predicted	N/A
+WP_010938798.1	EC number not predicted	N/A
+WP_010938799.1	EC number not predicted	N/A
+WP_010938800.1	EC:3.1.3	0.941236
+WP_010938802.1	EC:2.1.1	0.99974334
+WP_010938804.1	EC number not predicted	N/A
+WP_010938805.1	EC number not predicted	N/A
+WP_010938812.1	EC number not predicted	N/A
+WP_010938815.1	EC number not predicted	N/A
+WP_010938817.1	EC number not predicted	N/A
+WP_010938818.1	EC number not predicted	N/A
+WP_010938830.1	EC number not predicted	N/A
+WP_010938833.1	EC:3.1.21	0.8637737
+WP_010938834.1	EC number not predicted	N/A
+WP_010938847.1	EC number not predicted	N/A
+WP_010938850.1	EC number not predicted	N/A
+WP_010938858.1	EC:4.1.2	0.9009594
+WP_010938872.1	EC number not predicted	N/A
+WP_010938873.1	EC number not predicted	N/A
+WP_010938898.1	EC number not predicted	N/A
+WP_010938911.1	EC number not predicted	N/A
+WP_010938912.1	EC number not predicted	N/A
+WP_010938946.1	EC number not predicted	N/A
+WP_010938950.1	EC:2.7.7	0.85384274
+WP_010938964.1	EC number not predicted	N/A
+WP_010938972.1	EC number not predicted	N/A
+WP_010938981.1	EC number not predicted	N/A
+WP_010938985.1	EC number not predicted	N/A
+WP_010938986.1	EC number not predicted	N/A
+WP_010939001.1	EC number not predicted	N/A
+WP_010939002.1	EC number not predicted	N/A
+WP_010939003.1	EC:4.1.1	0.6300843
+WP_010939004.1	EC number not predicted	N/A
+WP_010939005.1	EC number not predicted	N/A
+WP_010939006.1	EC number not predicted	N/A
+WP_010939007.1	EC number not predicted	N/A
+WP_010939008.1	EC:2.7.4	0.87377024
+WP_010939009.1	EC number not predicted	N/A
+WP_010939010.1	EC number not predicted	N/A
+WP_010939011.1	EC number not predicted	N/A
+WP_010939012.1	EC:2.3.1	0.9134934
+WP_010939013.1	EC:3.1.26	0.9999549
+WP_010939014.1	EC number not predicted	N/A
+WP_010939015.1	EC:1.9.3	0.8382392
+WP_010939016.1	EC:3.1.3	0.99934
+WP_010939023.1	EC number not predicted	N/A
+WP_010939024.1	EC:2.7.7	0.8924813
+WP_010939025.1	EC number not predicted	N/A
+WP_010939028.1	EC:3.1.3	0.74354804
+WP_010939029.1	EC number not predicted	N/A
+WP_010939040.1	EC number not predicted	N/A
+WP_010939042.1	EC number not predicted	N/A
+WP_010939043.1	EC:1.11.1	0.7651811
+WP_010939044.1	EC:2.7.7	0.66986144
+WP_010939062.1	EC:2.1.1	0.88358027
+WP_010939082.1	EC number not predicted	N/A
+WP_010939108.1	EC number not predicted	N/A
+WP_010939113.1	EC number not predicted	N/A
+WP_010939117.1	EC number not predicted	N/A
+WP_010939131.1	EC number not predicted	N/A
+WP_010939139.1	EC number not predicted	N/A
+WP_010939151.1	EC:1.11.1	0.6103873
+WP_010939152.1	EC:3.1.1	0.73847556
+WP_010939166.1	EC:3.2.1	0.96243584
+WP_010939173.1	EC number not predicted	N/A
+WP_010939180.1	EC number not predicted	N/A
+WP_010939229.1	EC:3.4.21	0.71725035
+WP_010939234.1	EC number not predicted	N/A
+WP_010939241.1	EC number not predicted	N/A
+WP_010939266.1	EC:2.3.2	0.76587176
+WP_010939276.1	EC:3.2.1	0.9997188
+WP_010939277.1	EC number not predicted	N/A
+WP_010939290.1	EC number not predicted	N/A
+WP_010939305.1	EC number not predicted	N/A
+WP_010939313.1	EC number not predicted	N/A
+WP_010939314.1	EC number not predicted	N/A
+WP_010939319.1	EC number not predicted	N/A
+WP_010939320.1	EC number not predicted	N/A
+WP_010939323.1	EC number not predicted	N/A
+WP_010939325.1	EC number not predicted	N/A
+WP_010939329.1	EC number not predicted	N/A
+WP_010939335.1	EC:2.1.1	0.9978335
+WP_010939349.1	EC:2.4.1	0.7929151
+WP_010939385.1	EC number not predicted	N/A
+WP_010939397.1	EC number not predicted	N/A
+WP_010939407.1	EC number not predicted	N/A
+WP_010939409.1	EC:1.9.3	0.999893
+WP_010939412.1	EC number not predicted	N/A
+WP_010939428.1	EC:3.1.11	0.7469181
+WP_010939429.1	EC:2.3.1	0.79353
+WP_010939433.1	EC number not predicted	N/A
+WP_010939435.1	EC:2.7.7	0.9641268
+WP_010939436.1	EC number not predicted	N/A
+WP_010939437.1	EC number not predicted	N/A
+WP_010939438.1	EC number not predicted	N/A
+WP_010939440.1	EC:2.7.7	0.58302385
+WP_010939444.1	EC number not predicted	N/A
+WP_010939449.1	EC number not predicted	N/A
+WP_010939451.1	EC:2.3.1	0.8660203
+WP_010939458.1	EC number not predicted	N/A
+WP_010939461.1	EC number not predicted	N/A
+WP_010939462.1	EC number not predicted	N/A
+WP_010939467.1	EC:2.3.1	0.61569
+WP_010939469.1	EC number not predicted	N/A
+WP_010939470.1	EC:3.1.26	0.99918664
+WP_010939473.1	EC number not predicted	N/A
+WP_010939475.1	EC:4.1.1	0.9882029
+WP_010939481.1	EC number not predicted	N/A
+WP_010939487.1	EC:3.1.1	0.79572225
+WP_010939495.1	EC number not predicted	N/A
+WP_010939498.1	EC:5.3.3	0.580139
+WP_010939499.1	EC number not predicted	N/A
+WP_010939507.1	EC:3.6.1	0.9997531
+WP_010939510.1	EC number not predicted	N/A
+WP_010939536.1	EC:3.5.1	0.73370546
+WP_010939559.1	EC:1.6.5	0.60190237
+WP_010939597.1	EC:3.1.26	0.9044703
+WP_010939608.1	EC:2.4.1	0.9861388
+WP_010939618.1	EC:3.2.1	0.9301901
+WP_010939624.1	EC number not predicted	N/A
+WP_010939654.1	EC number not predicted	N/A
+WP_010939686.1	EC number not predicted	N/A
+WP_010939692.1	EC number not predicted	N/A
+WP_010939718.1	EC number not predicted	N/A
+WP_010939734.1	EC:6.3.2	0.52020156
+WP_010939744.1	EC number not predicted	N/A
+WP_010939755.1	EC:1.6.5	1.0
+WP_010939781.1	EC number not predicted	N/A
+WP_010939792.1	EC number not predicted	N/A
+WP_010939819.1	EC number not predicted	N/A
+WP_010939826.1	EC number not predicted	N/A
+WP_010939843.1	EC number not predicted	N/A
+WP_010939849.1	EC number not predicted	N/A
+WP_010939862.1	EC:3.6.1	0.9237149
+WP_010939865.1	EC:2.7.7	0.9999053
+WP_010939868.1	EC number not predicted	N/A
+WP_010939869.1	EC number not predicted	N/A
+WP_010939870.1	EC number not predicted	N/A
+WP_010939872.1	EC number not predicted	N/A
+WP_010939873.1	EC:6.1.1	0.9164734
+WP_010939875.1	EC number not predicted	N/A
+WP_010939876.1	EC:2.5.1	0.9829777
+WP_010939880.1	EC:1.14.13	0.71358865
+WP_010939890.1	EC:3.5.2	0.9277307
+WP_010939892.1	EC number not predicted	N/A
+WP_010939895.1	EC number not predicted	N/A
+WP_010939896.1	EC number not predicted	N/A
+WP_010939898.1	EC number not predicted	N/A
+WP_010939900.1	EC number not predicted	N/A
+WP_010939901.1	EC number not predicted	N/A
+WP_010939903.1	EC number not predicted	N/A
+WP_010939907.1	EC number not predicted	N/A
+WP_010939909.1	EC number not predicted	N/A
+WP_010939911.1	EC number not predicted	N/A
+WP_010939921.1	EC:2.3.1	0.92958134
+WP_010939932.1	EC:5.3.1	0.9813297
+WP_010939945.1	EC:2.3.1	0.67501867
+WP_010939950.1	EC number not predicted	N/A
+WP_010939961.1	EC number not predicted	N/A
+WP_010939962.1	EC:2.7.7	0.9928682
+WP_010939963.1	EC number not predicted	N/A
+WP_010939966.1	EC number not predicted	N/A
+WP_010939969.1	EC number not predicted	N/A
+WP_010939971.1	EC number not predicted	N/A
+WP_010939972.1	EC number not predicted	N/A
+WP_010939980.1	EC number not predicted	N/A
+WP_010939985.1	EC number not predicted	N/A
+WP_010939987.1	EC number not predicted	N/A
+WP_010939988.1	EC number not predicted	N/A
+WP_010939990.1	EC number not predicted	N/A
+WP_010939993.1	EC number not predicted	N/A
+WP_010939994.1	EC number not predicted	N/A
+WP_010940012.1	EC:2.1.1	0.8424868
+WP_010940013.1_SEPARATED_SEQUENCE_(1_1001)	EC:2.4.1	0.99999774
+WP_010940027.1	EC number not predicted	N/A
+WP_010940032.1	EC number not predicted	N/A
+WP_010940044.1	EC:2.1.1	0.9999372
+WP_010940055.1	EC number not predicted	N/A
+WP_010940069.1	EC:2.4.2	0.9488228
+WP_010940095.1	EC number not predicted	N/A
+WP_010940096.1	EC number not predicted	N/A
+WP_010940097.1	EC number not predicted	N/A
+WP_010940099.1	EC number not predicted	N/A
+WP_010940100.1	EC number not predicted	N/A
+WP_010940103.1	EC:3.1.21	0.7381326
+WP_010940105.1	EC number not predicted	N/A
+WP_010940106.1	EC:3.2.2	0.771279
+WP_010940110.1	EC number not predicted	N/A
+WP_010940113.1	EC number not predicted	N/A
+WP_010940125.1	EC:2.4.2	0.99481213
+WP_010940128.1	EC:2.1.1	0.6986297
+WP_010940130.1	EC:5.2.1	0.99998975
+WP_010940133.1	EC:1.14.14	0.5854121
+WP_010940134.1	EC number not predicted	N/A
+WP_010940137.1	EC:2.7.7	0.8407291
+WP_010940168.1	EC number not predicted	N/A
+WP_010940178.1	EC:3.1.26	0.9998449
+WP_010940198.1	EC number not predicted	N/A
+WP_010940206.1	EC:2.7.7	0.8756595
+WP_010940218.1	EC:1.6.5	0.99999243
+WP_010940220.1	EC number not predicted	N/A
+WP_010940223.1	EC number not predicted	N/A
+WP_010940224.1	EC:5.3.2	0.5145922
+WP_010940233.1	EC:1.1.2	0.67287755
+WP_010940259.1	EC:2.7.1	0.69985414
+WP_010940279.1	EC:3.6.1	0.98532945
+WP_010940302.1	EC:1.1.3	0.98494166
+WP_010940303.1	EC number not predicted	N/A
+WP_010940332.1	EC number not predicted	N/A
+WP_010940344.1	EC number not predicted	N/A
+WP_010940349.1	EC:3.2.1	0.9999452
+WP_010940351.1	EC:3.1.1	0.9815313
+WP_010940357.1	EC number not predicted	N/A
+WP_010940415.1	EC number not predicted	N/A
+WP_010940423.1	EC number not predicted	N/A
+WP_010940431.1	EC:2.7.7	0.93396735
+WP_010940477.1	EC number not predicted	N/A
+WP_010940480.1	EC:5.3.1	0.99999845
+WP_010940483.1	EC number not predicted	N/A
+WP_010940484.1	EC:2.7.7	0.9963802
+WP_010940508.1	EC number not predicted	N/A
+WP_010940510.1	EC:2.3.2	0.7587744
+WP_010940525.1	EC:3.2.2	0.54614675
+WP_010940526.1	EC number not predicted	N/A
+WP_010940531.1	EC number not predicted	N/A
+WP_010940532.1	EC number not predicted	N/A
+WP_010940538.1	EC:4.1.1	0.5538109
+WP_010940540.1	EC number not predicted	N/A
+WP_010940553.1	EC number not predicted	N/A
+WP_010940557.1	EC:1.9.3	0.82488763
+WP_010940558.1	EC number not predicted	N/A
+WP_010940584.1	EC:3.1.26	0.9999992
+WP_010940586.1	EC:2.7.1	0.856805
+WP_010940589.1	EC:3.1.26	0.99981546
+WP_010940601.1	EC:3.2.1	0.52689517
+WP_010940614.1	EC:4.4.1	0.9998324
+WP_010940642.1	EC number not predicted	N/A
+WP_010940650.1	EC:2.7.7	0.990566
+WP_010940655.1	EC:2.4.1	0.9766035
+WP_010940656.1	EC:2.7.7	0.99999833
+WP_010940657.1	EC:3.6.1	0.9924275
+WP_010940659.1	EC:2.7.7	0.9985124
+WP_010940660.1	EC number not predicted	N/A
+WP_010940661.1	EC:3.1.22	0.9683952
+WP_010940662.1	EC number not predicted	N/A
+WP_010940664.1	EC number not predicted	N/A
+WP_010940668.1	EC:1.6.5	0.52347887
+WP_010940669.1	EC number not predicted	N/A
+WP_010940670.1	EC number not predicted	N/A
+WP_010940671.1	EC number not predicted	N/A
+WP_010940672.1	EC number not predicted	N/A
+WP_010940676.1	EC:2.5.1	0.99859047
+WP_011176581.1_SEPARATED_SEQUENCE_(1_1001)	EC number not predicted	N/A
+WP_011176606.1	EC number not predicted	N/A
+WP_011176612.1	EC number not predicted	N/A
+WP_011176625.1	EC number not predicted	N/A
+WP_011176646.1	EC number not predicted	N/A
+WP_011176670.1	EC:5.2.1	0.8142993
+WP_011176692.1	EC:3.1.11	0.8578875
+WP_011176726.1	EC number not predicted	N/A
+WP_011176730.1	EC:3.1.3	0.59604293
+WP_011176733.1	EC number not predicted	N/A
+WP_011791395.1	EC number not predicted	N/A
+WP_011791439.1	EC:2.7.7	0.99032277
+WP_011791504.1	EC number not predicted	N/A
+WP_011791514.1	EC number not predicted	N/A
+WP_011791684.1	EC number not predicted	N/A
+WP_011791730.1	EC number not predicted	N/A
+WP_011791744.1	EC number not predicted	N/A
+WP_011791831.1	EC number not predicted	N/A
+WP_011791839.1	EC number not predicted	N/A
+WP_011791841.1	EC number not predicted	N/A
+WP_011792157.1	EC:3.1.11	0.9469917
+WP_011792312.1	EC:1.6.5	0.99957085
+WP_011792315.1	EC:4.2.2	0.73215175
+WP_011792318.1	EC number not predicted	N/A
+WP_011792331.1	EC number not predicted	N/A
+WP_011792418.1	EC number not predicted	N/A
+WP_011792423.1	EC:2.1.1	1.0
+WP_011792449.1	EC number not predicted	N/A
+WP_011792465.1	EC number not predicted	N/A
+WP_011792466.1	EC number not predicted	N/A
+WP_011792587.1	EC number not predicted	N/A
+WP_011792600.1	EC number not predicted	N/A
+WP_011792616.1	EC number not predicted	N/A
+WP_011792639.1	EC number not predicted	N/A
+WP_011792655.1	EC number not predicted	N/A
+WP_011792671.1	EC:3.5.4	0.99610204
+WP_011792721.1	EC:4.1.2	0.7195759
+WP_011792814.1	EC number not predicted	N/A
+WP_011792913.1	EC number not predicted	N/A
+WP_011793178.1	EC number not predicted	N/A
+WP_014524179.1	EC number not predicted	N/A
+WP_014524200.1	EC:4.2.1	0.5520668
+WP_014524207.1	EC:1.8.98	0.7982012
+WP_014524219.1	EC number not predicted	N/A
+WP_014524220.1	EC:5.1.99	0.84994274
+WP_014524228.1	EC number not predicted	N/A
+WP_014524242.1	EC number not predicted	N/A
+WP_014524246.1	EC number not predicted	N/A
+WP_014524278.1	EC number not predicted	N/A
+WP_014524282.1	EC:3.4.23	0.99984217
+WP_014524284.1	EC number not predicted	N/A
+WP_014524293.1	EC:1.8.98	0.8261174
+WP_014524297.1	EC:1.11.1	0.5232411
+WP_014524301.1	EC number not predicted	N/A
+WP_014524317.1	EC number not predicted	N/A
+WP_014524319.1	EC number not predicted	N/A
+WP_014524322.1	EC:1.9.3	0.9999751
+WP_014524323.1	EC number not predicted	N/A
+WP_014524324.1	EC:2.7.7	0.7096306
+WP_014524325.1	EC number not predicted	N/A
+WP_014524340.1	EC number not predicted	N/A
+WP_014524341.1	EC number not predicted	N/A
+WP_014524348.1	EC number not predicted	N/A
+WP_014524365.1	EC number not predicted	N/A
+WP_014524380.1	EC number not predicted	N/A
+WP_014524383.1	EC:3.2.1	0.95488936
+WP_014524389.1	EC number not predicted	N/A
+WP_014524391.1	EC:1.9.3	0.5975777
+WP_014524392.1	EC:1.6.5	0.9979427
+WP_014524394.1	EC number not predicted	N/A
+WP_014524399.1_SEPARATED_SEQUENCE_(201_1201)	EC:2.7.11	0.7621487
+WP_014524400.1	EC number not predicted	N/A
+WP_014524401.1	EC:3.1.21	0.9910345
+WP_014524412.1	EC:3.2.1	0.53810275
+WP_014524421.1_SEPARATED_SEQUENCE_(601_1601)	EC number not predicted	N/A
+WP_014524426.1	EC:3.6.1	0.9975827
+WP_014524429.1	EC number not predicted	N/A
+WP_014524431.1	EC:2.7.7	0.94799626
+WP_014524436.1	EC:3.2.1	0.99679303
+WP_014524440.1	EC:2.1.1	0.8736582
+WP_014524444.1	EC:1.6.5	0.87194735
+WP_014524445.1	EC number not predicted	N/A
+WP_014524452.1	EC number not predicted	N/A
+WP_014524456.1	EC number not predicted	N/A
+WP_014524458.1	EC:3.6.1	0.8656648
+WP_014524461.1	EC number not predicted	N/A
+WP_014524471.1	EC:2.1.1	0.8528696
+WP_014524482.1	EC:3.1.26	0.99630547
+WP_014524486.1	EC:3.2.1	0.807058
+WP_014524519.1	EC number not predicted	N/A
+WP_014524530.1	EC number not predicted	N/A
+WP_014524532.1	EC number not predicted	N/A
+WP_014524534.1	EC number not predicted	N/A
+WP_014524535.1	EC number not predicted	N/A
+WP_014524537.1	EC number not predicted	N/A
+WP_014524543.1	EC:3.2.1	0.88839895
+WP_014524550.1	EC number not predicted	N/A
+WP_014524554.1	EC number not predicted	N/A
+WP_014524556.1	EC:1.11.1	0.7527128
+WP_014524569.1	EC:3.1.26	0.97731364
+WP_014524572.1	EC number not predicted	N/A
+WP_014524576.1	EC:2.7.7	0.9972786
+WP_014524579.1	EC number not predicted	N/A
+WP_014524585.1	EC number not predicted	N/A
+WP_014524588.1	EC number not predicted	N/A
+WP_014524594.1	EC number not predicted	N/A
+WP_014524596.1	EC:1.14.11	0.5015055
+WP_014524598.1	EC number not predicted	N/A
+WP_014524624.1	EC:2.4.2	0.96605307
+WP_014524625.1	EC:4.1.2	0.80157804
+WP_014524635.1	EC number not predicted	N/A
+WP_014524641.1	EC number not predicted	N/A
+WP_014524645.1	EC number not predicted	N/A
+WP_014524652.1	EC:2.7.7	0.9959575
+WP_014524657.1	EC:3.2.1	0.55230194
+WP_014524664.1	EC number not predicted	N/A
+WP_014524678.1	EC:2.7.7	0.8995429
+WP_014524680.1	EC number not predicted	N/A
+WP_014524683.1	EC number not predicted	N/A
+WP_014524686.1	EC number not predicted	N/A
+WP_014524689.1	EC number not predicted	N/A
+WP_041722649.1	EC number not predicted	N/A
+WP_041722671.1	EC number not predicted	N/A
+WP_041722685.1	EC number not predicted	N/A
+WP_049775581.1	EC:2.7.1	0.7338151
+WP_081448125.1	EC:1.14.14	0.9727478
+WP_150100223.1	EC number not predicted	N/A
+WP_150103613.1	EC:1.15.1	0.5625161
+WP_150103619.1	EC:1.3.7	0.9569471
+WP_150103622.1	EC number not predicted	N/A
+WP_150103623.1	EC number not predicted	N/A
+WP_150103627.1	EC number not predicted	N/A
+WP_150103628.1	EC:2.1.1	0.9999869
+WP_150103631.1	EC number not predicted	N/A
+WP_150103632.1	EC number not predicted	N/A
+WP_164561408.1	EC number not predicted	N/A
+WP_164561555.1	EC number not predicted	N/A
+WP_164561638.1	EC:1.6.5	0.67707175
+WP_164561746.1	EC number not predicted	N/A
+WP_164561858.1	EC:3.2.1	0.7125064
+WP_164561964.1	EC:2.3.1	0.99867
+WP_164562126.1	EC number not predicted	N/A
+WP_164928112.1	EC:3.1.26	0.99724126
+WP_164928113.1	EC number not predicted	N/A
+WP_164928114.1	EC number not predicted	N/A
+WP_164928115.1	EC number not predicted	N/A
+WP_164928116.1	EC number not predicted	N/A
+WP_164928119.1	EC number not predicted	N/A
+WP_164928120.1	EC number not predicted	N/A
+WP_164928121.1	EC number not predicted	N/A
+WP_164928124.1	EC:1.8.4	0.99999726
+WP_164928125.1	EC number not predicted	N/A
+WP_164928126.1	EC number not predicted	N/A
+WP_164928129.1	EC:4.6.1	0.7995459
+WP_164928130.1	EC:3.2.1	0.6878408
+WP_164928132.1	EC number not predicted	N/A
+WP_164928135.1	EC number not predicted	N/A
+WP_164928137.1	EC:1.1.1	0.90467525
+WP_164928139.1	EC:2.7.7	0.66981405
+WP_164928140.1	EC number not predicted	N/A
+WP_164928147.1	EC:2.7.7	0.95189834
