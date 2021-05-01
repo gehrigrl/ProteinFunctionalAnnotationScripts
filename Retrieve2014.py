@@ -1,3 +1,6 @@
+#This code fetches the 2014 DSV genome (chromosome only) and the 2016 DSV plasmid genome, and
+#counts the hypotheticals and genes across the 2 files
+
 from Bio import SeqIO
 from Bio import Entrez
 Entrez.email = "gehrig.rl@gmail.com"

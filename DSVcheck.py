@@ -1,6 +1,11 @@
+#This code counts the number of times ProtID and Product keys occur
+#in elements of the features list, as well as the number of times that
+#the product key has the value 'hypothetical protein'
+
 from Bio import SeqIO
 
-record_iterator = SeqIO.parse('OctDSV.gbff', 'genbank')
+filename = 'MarDSV.gbff'
+record_iterator = SeqIO.parse(filename, 'genbank')
 DSVgenome = next(record_iterator)
 DSVpDV = next(record_iterator)
 
@@ -8,6 +13,7 @@ FullGenome = [DSVgenome, DSVpDV]
 
 ProteinIDCount = 0
 ProductCount = 0
+GeneCount = 0
 HypotheticalCount = 0
 HypList = []
 missingID = []
@@ -15,8 +21,7 @@ missingID = []
 for SeqRecord in FullGenome:
 	for each_feature in SeqRecord.features:   
 		if each_feature.type == 'gene':
-			if 'product' in each_feature.qualifiers:   
-				print("Gene type has product key")
+			GeneCount += 1
 		if 'protein_id' in each_feature.qualifiers:
 			ProteinIDCount += 1	
 		if 'product' in each_feature.qualifiers:
@@ -26,6 +31,7 @@ for SeqRecord in FullGenome:
 				HypList.append(each_feature)								
 				if 'protein_id' not in each_feature.qualifiers:
 					missingID.append(each_feature)
+
 print('Number of ProteinIDs is', ProteinIDCount)
 print('Number of Products is', ProductCount)
 print('Number of Hypotheticals is', HypotheticalCount)

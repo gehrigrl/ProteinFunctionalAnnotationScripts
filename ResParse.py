@@ -1,3 +1,6 @@
+#This file extracts output from the pdb70, pfam, and hhblits methods from the res directory 
+#associated with the Georgia Tech collaboration. It stores outputs from each method
+#in separate dictionaries so that they can be added to the Hypo.csv file
 
 def pdbParse(filename):
 	handle = open(filename, 'r')

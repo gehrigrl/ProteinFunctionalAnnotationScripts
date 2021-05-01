@@ -1,3 +1,5 @@
+#This code checks for duplicates in the MarProtIDList and was used to identify the two duplicates 
+
 from MakeValues import *
 
 for i in range(len(MarProtIDList)):

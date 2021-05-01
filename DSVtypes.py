@@ -1,18 +1,22 @@
+#This code creates a dictionary called TypeCount which shows how many 
+#features of each type there are in the DSVgenome.
+
 from Bio import SeqIO
 
-record_iterator = SeqIO.parse('OctDSV.gbff', 'genbank')
+filename = 'OctDSV.gbff'
+record_iterator = SeqIO.parse(filename, 'genbank')
 DSVgenome = next(record_iterator)
 DSVpDV = next(record_iterator)
 
 FullGenome = [DSVgenome, DSVpDV]
 
-TypesList = ['source', 'gene', 'CDS', 'tRNA', 'regulatory', 'rRNA', 'ncRNA']
+TypesList = ['source', 'gene', 'CDS', 'tRNA', 'regulatory', 'rRNA', 'ncRNA']	#These are the types I knew of before doing a full check
 for SeqRecord in FullGenome:
 	for each_feature in SeqRecord.features:
 		if each_feature.type not in TypesList:
 			print(each_feature.type)
 
-#The results were 'tmRNA' and 'repeat_region' so I will add those to the TypesList
+#The missing types were 'tmRNA' and 'repeat_region' so I will add those to the TypesList
 
 TypesList.append('tmRNA')
 TypesList.append('repeat_region') 		

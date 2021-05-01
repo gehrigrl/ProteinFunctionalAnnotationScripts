@@ -1,4 +1,4 @@
-#Makes sure 3digitHypos.txt and BinaryHypos.txt have the exact same ProtIDs in the beginning of each row
+#Makes sure 3digitHypos.txt and BinaryHypos.txt have the exact same ProtIDs in the beginning of each of their rows
 
 handle = open('3digitHypos.txt', 'r')		
 List3 = []

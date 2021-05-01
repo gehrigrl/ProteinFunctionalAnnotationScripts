@@ -1,6 +1,9 @@
+#This code counts up how many elements of the DSVgenome were lacking 
+# certain keys such as proteinID, old locus tag, and protID
+
 from Bio import SeqIO
 
-record_iterator = SeqIO.parse('DSV.gbff', 'genbank')
+record_iterator = SeqIO.parse('MarDSV.gbff', 'genbank')
 DSVgenome = next(record_iterator)
 DSVpDV = next(record_iterator)
 

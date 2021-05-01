@@ -1,6 +1,10 @@
+#This file takes information from the GenBank files (MarDSV.gbff) about each 
+#hypothetical protein and stores it in the ValuesList. The elements of the Values List 
+#then becomes the values of a dictionary in which keys are hypothetical 	
+#protein IDs. This dictionary is used to create the Hypo.csv file. 
+
 from Bio import SeqIO
 from Hypo import *
-#Will need to import EnzymesDict here 
 
 MarOutput = HypoLists('MarDSV.gbff')	#HypoLists function from Hypo.py file
 MarHypList = MarOutput[0]	#565 features from MarDSV    
@@ -25,7 +29,7 @@ for each in MarHypList:				#iterate through MarHypList feature so we can extract
 
 		if each.qualifiers['protein_id'] in OctOldHypoIDs:
 			Index = OctOldHypoIDs.index(each.qualifiers['protein_id'])
-			ValuesList[count].append(OctOldHypos[Index].qualifiers['product'][0])  #Convoluted
+			ValuesList[count].append(OctOldHypos[Index].qualifiers['product'][0]) 
 		else:
 			ValuesList[count].append('hypothetical')
 
