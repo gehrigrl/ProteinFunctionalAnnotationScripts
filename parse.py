@@ -1,3 +1,7 @@
+#This code extracts the multispecies and the non-multispecies hypothetical proteins
+# from the 3digit_EC_prediction.txt, creating two files: NonMultiFile.txt and MultiFile.txt
+# The hypotheticals.faa file shows whether each protein is multispecies or non-multispecies
+
 
 def sliceIDs(list):
 	i = 0
