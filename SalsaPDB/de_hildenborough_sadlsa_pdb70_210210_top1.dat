@@ -1,0 +1,560 @@
+Query       	qlen	Templa 	alnlen	preTMS	preTMS2	Z-score	SID	Description
+WP_010940055.1	183	5YS3_A	183	0.9696	0.9254	8.640	60.1%	| Succinate-Acetate Permease; organic anion channel, rectifying, unidirectional; HET: PLM, 78M, ACT; 1.823A {Citrobacter koseri (strain ATCC BAA-895 / CDC 4225-83 / SGSC4696)}
+WP_010938240.1	964	2FGE_A	964	0.9667	0.9373	34.007	45.2%	| zinc metalloprotease (insulinase family)/peptide complex; PEPTIDASOME PROTEASE-PEPTIDE COMPLEX, HYDROLASE; HET: MSE; 2.1A {Arabidopsis thaliana} SCOP: d.185.1.1
+WP_010938748.1	247	4ILO_B	247	0.9418	0.9066	12.013	21.1%	| CT398; hypothetical protein, DNA/RNA binding, coiled-coil; 2.12A {Chlamydia trachomatis}
+WP_010940480.1	447	1B0Z_A	436	0.9389	0.9430	12.114	27.1%	| PHOSPHOGLUCOSE ISOMERASE (EC: 5.3.1.9); PHOSPHOGLUCOSE ISOMERASE, AUTOCRINEFACTOR, NEUROLEUKIN, CRYSTALLOGRAPHY; 2.3A {Geobacillus stearothermophilus} SCOP: c.80.1.2
+WP_010940670.1	304	3J40_F	297	0.9289	0.8460	12.213	13.5%	| gp10, gp7; capsid, accessory protein, VIRUS; 4.5A {Salmonella phage epsilon15}
+WP_010937534.1	131	6G1N_D	131	0.9283	0.8610	7.192	35.9%	| Uncharacterized protein; The antitoxin HicB which acts; HET: GOL; 1.85A {Burkholderia pseudomallei}
+WP_014524585.1	280	4BQN_A	274	0.9216	0.8312	9.800	19.0%	| CAPSULAR POLYSACCHARIDE BIOSYNTHESIS PROTEIN; TRANSFERASE, ACETYLTRANSFERASE, MELIOIDOSIS.; HET: PGE, PEG, COA; 1.38A {BURKHOLDERIA PSEUDOMALLEI}
+WP_011792465.1	183	3JC8_Oi	182	0.9165	0.8237	8.920	13.2%	| PilA, Type IV-A pilus assembly; motor, pilus, ring, membrane channel; HET: MEA;{Myxococcus xanthus DK 1622}
+WP_010939006.1	310	3J4U_E	297	0.9142	0.8582	12.817	16.5%	| major capsid protein, cementing protein; protein topology, cryoEM, VIRUS; 3.5A {Bordetella phage BPP-1}
+WP_010937898.1	115	1L1S_A	112	0.9142	0.9294	4.398	29.5%	| hypothetical protein MTH1491; Structural Genomics, Hypothetical Protein, PSI; 2.3A {Methanothermobacter thermautotrophicus} SCOP: c.114.1.1
+WP_010939911.1	147	2ZZE_B	145	0.9129	0.1888	7.219	23.4%	| Alanyl-tRNA synthetase (E.C.6.1.1.7); ligase, hydrolase; HET: OCS, MLY; 2.16A {Pyrococcus horikoshii}
+WP_011791395.1	375	1EA0_A	360	0.9038	0.2380	12.166	15.6%	| GLUTAMATE SYNTHASE [NADPH] LARGE CHAIN; OXIDOREDUCTASE, IRON SULPHUR FLAVOPROTEIN; HET: F3S, AKG, OMT, FMN; 3.0A {AZOSPIRILLUM BRASILENSE} SCOP: b.80.4.1, c.1.4.1, d.153.1.1
+WP_010940168.1	250	5JSZ_D	246	0.8977	0.8500	10.152	16.3%	| Energy-coupling factor transporter ATP-binding protein; ECF transporter, folate, membrane protein; 3.004A {Lactobacillus delbrueckii subsp. bulgaricus (strain ATCC 11842 / DSM 20081 / JCM 1002 / NBRC 13953 / NCIMB 11778)}
+WP_011176692.1	69	2UWJ_E	69	0.8902	0.8791	3.906	15.9%	| TYPE III EXPORT PROTEIN PSCE; VIRULENCE, CHAPERONES, NEEDLE FORMATION, TYPE; 2.0A {PSEUDOMONAS AERUGINOSA}
+WP_011792312.1	226	6K1H_B	221	0.8880	0.7423	10.593	13.6%	| PTS system mannose-specific EIID component; PTS, ManYZ, transporter, Mannose, PROTEIN; HET: MAN;{Escherichia coli str. K-12 substr. MG1655}
+WP_010937762.1	255	3CQJ_A	254	0.8879	0.7761	7.104	9.1%	| L-ribulose-5-phosphate 3-epimerase ulaE (E.C.5.1.3.22); TIM-barrel, isomerase, phosphate-binding motif, Structural; 2.04A {Escherichia coli}
+WP_010939994.1	118	2IA7_A	118	0.8773	0.7824	6.859	14.4%	| Crystal structure of putative tail; NP_952040.1, putative tail lysozyme, Structural; 1.44A {Geobacter sulfurreducens} SCOP: d.373.1.1
+WP_010940349.1	401	3PGU_A	373	0.8764	0.8252	15.787	22.5%	| Long-chain fatty acid transport protein; outer membrane beta barrel, lipid; HET: OLA, 2PE, C8E; 1.7A {Escherichia coli K-12}
+WP_010938404.1	266	3D37_A	262	0.8733	0.6249	8.970	15.3%	| Tail protein, 43 kDa; tail protein, structural genomics, PSI; 2.1A {Neisseria meningitidis MC58} SCOP: b.106.1.1
+WP_010939009.1	550	6QWP_F	515	0.8712	0.8757	14.929	13.6%	| Portal protein; viral protein, DNA packaging; 3.4A {Enterobacteria phage T7}
+WP_010939868.1	184	6R21_Q	175	0.8665	0.7004	9.032	11.4%	| PROTEIN; viral complex, DNA ejection, VIRAL; 3.33A {Enterobacteria phage T7}
+WP_010937716.1	116	5KP0_A	116	0.8632	0.7282	5.022	11.2%	| Flagellar protein FliT,Flagellum-specific ATP synthase; flagella, chaperones, assembly factors, CHAPERONE; NMR {Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)}
+WP_010939385.1	119	1O13_A	119	0.8618	0.7650	5.121	25.2%	| probable NifB protein that is; Ribonuclease h-like motif fold, structural; 1.83A {Thermotoga maritima} SCOP: c.55.5.1
+WP_010939152.1	233	3GVE_A	229	0.8569	0.6051	8.836	14.8%	| YfkN protein; alpha-beta-beta-alpha sandwich, Structural Genomics, PSI-2; HET: CIT, MSE; 1.25A {Bacillus subtilis subsp. subtilis}
+WP_010940128.1	182	6V40_A	165	0.8568	0.7945	9.132	30.3%	| PG_binding_3 domain-containing protein; Muramidase Lysozyme-like Peptidoglycan-binding, PROTEIN TRANSPORT; HET: API; 2.104A {Salmonella typhi}
+WP_010939510.1	69	3MC3_A	69	0.8527	0.4720	4.045	10.1%	| DsrE/DsrF-like family protein; Structural Genomics, Joint Center for; 1.49A {Sulfolobus solfataricus}
+WP_010939487.1	120	2OMD_B	119	0.8526	0.6792	5.344	14.3%	| Molybdopterin-converting factor subunit 2; MOAE, coenzyme biosynthesis, Structural Genomics; HET: GOL; 2.0A {Aquifex aeolicus}
+WP_164928113.1	189	6V3Z_B	172	0.8504	0.8099	8.905	25.6%	| Sen1395; Muramidase Lysozyme-like Peptidoglycan-binding, PROTEIN TRANSPORT; 1.9A {Salmonella enteritidis}
+WP_010937447.1	72	5GHA_F	72	0.8500	0.7358	4.661	25.0%	| Veg136 protein, Uncharacterized protein; sulfur transferase, TRANSFERASE, TRANSFERASE-TRANSPORT PROTEIN; HET: EDO, SO4; 2.502A {Thermus thermophilus HB27}
+WP_010939002.1	697	6R21_d	667	0.8475	0.7495	21.273	14.2%	| PROTEIN; viral complex, DNA ejection, VIRAL; 3.33A {Enterobacteria phage T7}
+WP_010939873.1	569	6QWP_F	526	0.8473	0.8796	15.363	14.6%	| Portal protein; viral protein, DNA packaging; 3.4A {Enterobacteria phage T7}
+WP_010937517.1	108	2KX4_A	106	0.8451	0.7881	5.561	18.9%	| Tail attachment protein; gpFII, connector protein, Structural Genomics; NMR {Bacteriophage lambda}
+WP_010938416.1	115	1TD4_A	109	0.8445	0.8445	6.450	17.4%	| Head decoration protein; SHP, Viral protein; 1.5A {Enterobacteria phage P21} SCOP: b.85.2.1
+WP_010939349.1	318	5IR6_A	313	0.8421	0.6158	10.125	8.9%	| Bd-type quinol oxidase subunit I; bd oxidase, terminal oxidase, oxidoreductase; HET: HDD, HEB; 3.8A {Geobacillus stearothermophilus K1041}
+WP_010937610.1	105	6P7Z_A	105	0.8400	0.2305	5.001	8.6%	| Histone-lysine N-methyltransferase SMYD3 (E.C.2.1.1.43); methyltransferase, oncology, inhibitor, TRANSFERASE-TRANSFERASE INHIBITOR; HET: SAM, O41; 1.19A {Homo sapiens}
+WP_010939011.1	184	3TCV_B	175	0.8369	0.6414	7.576	11.4%	| GCN5-related N-acetyltransferase (E.C.2.3.1.5); gram negative coccobacillus, brucellosis, acyl; 1.75A {Brucella melitensis biovar Abortus 2308}
+WP_011792418.1	100	1S98_A	100	0.8364	0.7876	5.959	14.0%	| Protein yfhF; IscA, Fe-S cluster, iron, sulfur; 2.3A {Escherichia coli} SCOP: b.124.1.1
+WP_010937972.1	256	5H18_A	248	0.8321	0.7373	8.415	11.3%	| UGGT; ENDOPLASMIC RETICULUM, QUALITY CONTROL, GLUCOSYLTRANSFERASE; HET: UPG, MSE; 1.4A {Thermomyces dupontii}
+WP_010938118.1	155	6ZY2_A	153	0.8301	0.7181	7.059	15.0%	| YrbD protein, ABC transporter maintaining; phospholipid, phospholipid transport, ABC transporter; 3.6A {Escherichia coli B185}
+WP_010940220.1	115	1O13_A	114	0.8248	0.7116	4.726	19.3%	| probable NifB protein that is; Ribonuclease h-like motif fold, structural; 1.83A {Thermotoga maritima} SCOP: c.55.5.1
+WP_010937802.1	1015	6VDE_B	866	0.8235	0.9181	29.212	34.3%	| DNA polymerase I (E.C.2.7.7.7); mycobacteria, DNA polymerase, Flap endonuclease; 2.713A {Mycolicibacterium smegmatis}
+WP_014524683.1	169	7KHW_e	169	0.8225	0.7333	6.073	8.3%	| Translocon EspA; type III secretion system (T3SS); 3.4A {Escherichia coli O127:H6 (strain E2348/69 / EPEC)}
+WP_014524635.1	64	2VT1_B	64	0.8224	0.5956	4.863	7.8%	| SURFACE PRESENTATION OF ANTIGENS PROTEIN; SHIGELLA FLEXNERI, SPECIFICITY SWITCH, VIRULENCE; 2.0A {SHIGELLA FLEXNERI}
+WP_014524471.1	116	5KBX_B	115	0.8213	0.4684	3.836	11.3%	| Phosphorelay intermediate protein YPD1, Osmolarity; two-component signaling, phosphorelay, Ypd1, Ssk1; HET: GOL, PO4, MSE; 2.798A {Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+WP_010938423.1	80	6NRC_4	80	0.8210	0.6570	3.375	12.5%	| Prefoldin subunit 1, Prefoldin subunit; TRiC/CCT, PFD, CryoEM, Molecular Chaperone; 8.3A {Homo sapiens}
+WP_010938670.1	76	1ZHC_A	72	0.8209	0.8209	3.530	22.2%	| hypothetical protein HP1242; a-helical protein, UNKNOWN FUNCTION; NMR {Helicobacter pylori}
+WP_010940657.1	96	6O1Q_A	96	0.8197	0.6842	3.503	13.5%	| Nephrocystin-1; nephronophthisis, apoptosis; NMR {Homo sapiens}
+WP_010938898.1	248	4FIX_A	238	0.8186	0.3328	7.623	13.4%	| UDP-galactofuranosyl transferase GlfT2 (E.C.2.4.1.-); Galactofuranosyltransferase, CAZY GT-2 family, Glycosyltransferase; HET: GOL; 2.45A {Mycobacterium tuberculosis}
+WP_010940223.1	219	5IDJ_A	196	0.8183	0.7454	8.366	18.9%	| Cell cycle histidine kinase CckA; bifunctional, histidine kinase, phosphatase, transferase; HET: ADP; 3.01A {Caulobacter vibrioides}
+WP_010940351.1	215	3P8A_A	212	0.8174	0.6610	8.549	12.3%	| uncharacterized protein, hypothetical protein; mainly antiparallel beta sheets, alpha; HET: PG4, BTB, MSE, GOL; 1.95A {Staphylococcus aureus}
+WP_010939003.1	195	6R21_Q	185	0.8152	0.6990	9.305	9.7%	| PROTEIN; viral complex, DNA ejection, VIRAL; 3.33A {Enterobacteria phage T7}
+WP_010938012.1	213	6P0E_A	198	0.8123	0.2886	8.773	10.1%	| DNA ligase 1/DNA Complex; protein-DNA complex, phosphotransferase, OB fold; HET: 8OG, PEG, AMP, TRS; 1.85A {Homo sapiens}
+WP_010938446.1	348	5V8D_A	304	0.8081	0.7745	12.555	16.1%	| Bacillus cereus PatB1; acetyltransferase, cell wall, SGNH hydrolase-like; HET: OSE, SO4; 2.001A {Bacillus cereus (strain ATCC 10987 / NRS 248)}
+WP_010939932.1	158	6PSY_A	156	0.8079	0.1073	5.806	21.2%	| eukaryotic lipid flippase Drs2-Cdc50 (E.C.; complex, phospholipid flippase, P-type ATPase; HET: NAG;{Saccharomyces cerevisiae W303}
+WP_010938421.1	494	3EZK_E	431	0.8076	0.6967	11.719	11.8%	| DNA packaging protein Gp17; pentameric motor, DNA packaging, Alternative; 34.0A {Bacteriophage T4}
+WP_010938409.1	148	6GKX_A	139	0.8070	0.8218	6.123	10.1%	| Putative phage XkdM-like protein; Diffocin Tube, Structural protein; 1.5A {Peptoclostridium difficile (strain 630)}
+WP_010939755.1	354	5IR6_A	344	0.8065	0.6523	9.848	12.2%	| Bd-type quinol oxidase subunit I; bd oxidase, terminal oxidase, oxidoreductase; HET: HDD, HEB; 3.8A {Geobacillus stearothermophilus K1041}
+WP_010937683.1	88	3HD5_B	88	0.8057	0.4042	3.734	11.4%	| Thiol:disulfide interchange protein dsbA; dsbA, Protein Structure Initiative II(PSI; HET: MSE; 2.35A {Bordetella parapertussis}
+WP_010939880.1	519	3EZK_E	475	0.8048	0.7292	11.756	9.9%	| DNA packaging protein Gp17; pentameric motor, DNA packaging, Alternative; 34.0A {Bacteriophage T4}
+WP_010937746.1	96	1MWQ_A	85	0.8035	0.7674	4.525	24.7%	| HYPOTHETICAL PROTEIN HI0828; HI0828, YCII_HAEIN, hypothetical protein, structural; HET: MSE, 1PE; 0.99A {Haemophilus influenzae} SCOP: d.58.4.7
+WP_010940344.1	81	2HW4_A	81	0.8028	0.4916	5.237	11.1%	| 14 kDa phosphohistidine phosphatase (E.C.3.1.3.-); phosphohistidine, phosphatase, phpt1, human, Structural; HET: FMT; 1.9A {Homo sapiens} SCOP: d.322.1.1
+WP_010940655.1	315	6AN0_A	313	0.8012	0.5843	8.998	9.6%	| Histidinol dehydrogenase (E.C.1.1.1.23); SSGCID, Elizabethkingia anophelis NUHP1, dehydrogenase; HET: HIS, IOD, EDO; 1.85A {Elizabethkingia anophelis NUHP1}
+WP_010940526.1	420	6LRH_A	354	0.7985	0.4842	12.589	33.9%	| arginine-guanidine removing enzyme; arginine dihydrolase, bifunctional enzyme, GME; HET: ARG; 2.70510472826A {Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576)}
+WP_010938782.1	116	6TEH_A	113	0.7985	0.4756	5.127	10.6%	| Hub protein Rcc01696, Distal tail; "baseplate", "tail", "oligosaccharide-binding fold", "hub"; 3.99A {Rhodobacter capsulatus}
+WP_010937991.1	166	5ANP_A	160	0.7980	0.5051	7.466	9.4%	| BA41; ANTARCTIC BACTERIA, BA41, UNKNOWN FUNCTION; 1.4A {BIZIONIA ARGENTINENSIS}
+WP_010940012.1	314	6R77_A	279	0.7915	0.6840	9.803	9.7%	| Proline racemase; trans-3-Hydroxy-L-proline dehydratase, lyase, hydro-lyase, hydroxyproline; HET: HY3; 2.0A {Thermococcus litoralis}
+WP_010939108.1	251	2VDC_F	235	0.7897	0.1515	9.869	23.8%	| GLUTAMATE SYNTHASE [NADPH] LARGE CHAIN; OXIDOREDUCTASE, AMIDOTRANSFERASE, AMMONIA ASSIMILATION, NADP; HET: OMT, F3S, FMN, FAD, AKG, SF4; 9.5A {AZOSPIRILLUM BRASILENSE} SCOP: d.153.1.1, b.80.4.1, c.1.4.1
+WP_164928115.1	81	2D9K_A	75	0.7856	0.8399	5.480	14.7%	| FLN29 gene product; FLN29, zinc finger, zf-TRAF, Structural; HET: ZN; NMR {Homo sapiens}
+WP_010940259.1	396	4NES_A	359	0.7853	0.8265	8.699	12.8%	| UDP-N-acetylglucosamine 2-epimerase (E.C.5.1.3.14); UDP-glycosyltransferase/glycogen phosphorylase fold, UDP-GlcNAc 2-epimerase; HET: UD1, UDP, MSE; 1.42A {Methanocaldococcus jannaschii}
+WP_010938400.1	218	5IV5_EA	217	0.7801	0.2933	5.428	12.0%	| Baseplate wedge protein gp6, Baseplate; T4, baseplate-tail tube complex, pre-attachment; 4.11A {Enterobacteria phage T4}
+WP_010939320.1	95	1BRT_A	95	0.7791	0.3071	3.962	10.5%	| BROMOPEROXIDASE A2; HALOPEROXIDASE, OXIDOREDUCTASE, PEROXIDASE, ALPHA/BETA HYDROLASE; 1.5A {Streptomyces aureofaciens} SCOP: c.69.1.12
+WP_010940332.1	303	4ATN_A	301	0.7775	0.6432	7.716	19.9%	| RIBOSOMAL RNA LARGE SUBUNIT METHYLTRANSFERASE; TRANSFERASE; HET: EDO, GOL, SO4; 1.95A {ESCHERICHIA COLI}
+WP_010939865.1	191	4R9M_A	186	0.7756	0.7142	7.931	10.2%	| Spermidine N(1)-acetyltransferase (E.C.2.3.1.57); Structural Genomics, NIAID, National Institute; 2.9A {Escherichia coli}
+WP_010939012.1	534	3EZK_E	471	0.7717	0.7180	11.066	10.8%	| DNA packaging protein Gp17; pentameric motor, DNA packaging, Alternative; 34.0A {Bacteriophage T4}
+WP_010938847.1	150	1H21_D	146	0.7704	0.4969	5.561	15.8%	| SPLIT-SORET CYTOCHROME C; CYTOCHROME, DIMERIC DI-HEME CYTOCHROME, STACKED; HET: HEC; 2.5A {DESULFOVIBRIO DESULFURICANS} SCOP: a.138.1.3
+WP_010937574.1	219	3IR7_C	190	0.7689	0.7501	8.324	20.5%	| Respiratory nitrate reductase 1 alpha; Oxidoreductase, Nitrate reductase, electron transfer; HET: HEM, FME, SF4, MD1, AGA; 2.5A {Escherichia coli K-12}
+WP_010937347.1	151	3LAY_J	147	0.7672	0.6754	5.978	21.8%	| Zinc resistance-associated protein; Zinc resistance-associated protein, Salmonella typhimurium; 2.7A {Salmonella enterica subsp. enterica serovar Typhimurium}
+WP_010939005.1	133	3J4U_K	121	0.7633	0.7305	4.421	16.5%	| major capsid protein, cementing protein; protein topology, cryoEM, VIRUS; 3.5A {Bordetella phage BPP-1}
+WP_010940110.1	287	2X7V_A	266	0.7623	0.7623	6.916	11.3%	| PROBABLE ENDONUCLEASE 4 (E.C.3.1.21.2); DNA REPAIR PROTEIN, METAL-BINDING, HYDROLASE; 2.3A {THERMOTOGA MARITIMA MSB8}
+WP_010938407.1	110	3FGX_A	110	0.7605	0.7379	7.806	20.0%	| RBSTP2171; STRUCTURAL GENOMICS BACILLUS STEAROTHERMOPHILUS; 2.9A {BACILLUS STEAROTHERMOPHILUS}
+WP_011176606.1	136	5EJ1_A	136	0.7592	0.1666	4.899	15.4%	| Putative cellulose synthase (E.C.2.4.1.12), poly(unk); cellulose biosynthesis, glycosyltransferase, membrane transport; HET: C2E, BGC, 3PE, XP5; 3.4A {Rhodobacter sphaeroides (strain ATCC 17023 / 2.4.1 / NCIB 8253 / DSM 158)}
+WP_010937917.1	93	6I52_B	91	0.7585	0.5616	4.040	13.2%	| Replication factor A protein 3; Complex, heterotrimer, DNA binding, OB-fold; 4.7A {Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+WP_010937551.1	125	1O13_A	120	0.7573	0.7051	4.957	26.7%	| probable NifB protein that is; Ribonuclease h-like motif fold, structural; 1.83A {Thermotoga maritima} SCOP: c.55.5.1
+WP_010938780.1	142	4FDY_B	120	0.7560	0.3607	6.882	19.2%	| Similar to lipoprotein, NLP/P60 family; Slt/lysozyme-like muramidase, NlpC/P60 LD endopeptidase; HET: MSE, OCS; 2.23A {Staphylococcus aureus subsp. aureus}
+WP_010939654.1	222	6XJH_B	215	0.7537	0.6465	8.304	6.5%	| Phenol-soluble modulin export ABC transporter; ABC transporter, ABC exporter, Peptide; HET: AGS;{Staphylococcus aureus}
+WP_010938518.1	175	5JZV_A	166	0.7532	0.6555	4.691	16.3%	| Adenylate kinase isoenzyme 6 (E.C.2.7.4.3); ATPASE, ADENYLATE KINASE, TRANSFERASE; HET: ADP; 2.07A {Homo sapiens}
+WP_010939062.1	293	5Y6F_A	235	0.7487	0.8480	6.899	12.8%	| Flagellar brake protein YcgR; C-di-GMP binding, Flagellar brake protein; HET: C2E; 2.3A {Escherichia coli (strain K12)}
+WP_010938691.1	85	6S7X_B	83	0.7486	0.4164	4.656	9.6%	| Activity-regulated cytoskeleton associated protein 1; Capsid Retrotransposon Trafficking Exapted, NEUROPEPTIDE; HET: MSE; 1.7A {Drosophila melanogaster}
+WP_010939023.1	47	3U97_A	42	0.7485	0.3439	3.021	31.0%	| Ribonuclease toxin BrnT (E.C.3.1.27.1); RNAse Sa/RelE small ribonuclease fold; 1.102A {Brucella abortus}
+WP_010937920.1	96	2K5V_A	94	0.7476	0.6994	4.112	7.4%	| Replication protein A; solution NMR structure, replication protein; NMR {Methanococcus maripaludis}
+WP_010939692.1	109	3ZNU_G	92	0.7464	0.8515	4.396	19.6%	| 5-CHLOROMUCONOLACTONE DEHALOGENASE; LYASE, FERREDOXIN FOLD, ISOMERASE, 3-CHLOROCATECHOL; HET: CL, EDO; 1.65A {RHODOCOCCUS OPACUS}
+WP_010938143.1	76	2IC6_B	76	0.7450	0.7307	3.674	10.5%	| Nucleocapsid protein; Sin Nombre Virus, Hantavirus, Bunyaviridae; 1.15A {Sin Nombre virus}
+WP_010939433.1	121	6TEH_A	118	0.7438	0.4671	5.257	12.7%	| Hub protein Rcc01696, Distal tail; "baseplate", "tail", "oligosaccharide-binding fold", "hub"; 3.99A {Rhodobacter capsulatus}
+WP_010938515.1	731	3UCQ_A	629	0.7408	0.8195	15.290	12.7%	| Amylosucrase (E.C.2.4.1.4); thermostability, amylose synthesis, sucrose isomerization; HET: GOL; 1.97A {Deinococcus geothermalis}
+WP_011792671.1	111	6IUH_B	111	0.7392	0.6464	4.259	9.9%	| ARF GTPase-activating protein GIT1, Liprin-alpha-2; Complex, PROTEIN BINDING; 1.8A {Rattus norvegicus}
+WP_010937838.1	226	3IR7_C	187	0.7333	0.7363	8.093	20.3%	| Respiratory nitrate reductase 1 alpha; Oxidoreductase, Nitrate reductase, electron transfer; HET: HEM, FME, SF4, MD1, AGA; 2.5A {Escherichia coli K-12}
+WP_014524594.1	290	6IWR_E	270	0.7324	0.3837	7.999	9.6%	| N-acetylgalactosaminyltransferase 7 (E.C.2.4.1.-); Polypeptide N Acetylgalactosaminyltransferase Activity, Transferring; HET: UD2, NAG, UDP; 2.604A {Homo sapiens}
+WP_010937351.1	204	4RWN_A	202	0.7320	0.4579	7.196	8.4%	| 2'-5'-oligoadenylate synthase 1 (E.C.2.7.7.84)/RNA; Innate immunity, pathogen RNA sensor; HET: APC; 2.0A {Sus scrofa}
+WP_010938437.1	210	2XUB_A	209	0.7260	0.3242	6.406	12.0%	| DNA-DIRECTED RNA POLYMERASE III SUBUNIT; TRANSCRIPTION, WINGED HELIX; 2.8A {HOMO SAPIENS}
+WP_010939436.1	314	5NGJ_B	308	0.7254	0.5045	8.524	10.1%	| Tail tube protein; bacteriophage, viral protein, tube protein; 2.2A {Escherichia phage T5}
+WP_010938771.1	298	6GKY_A	291	0.7218	0.6296	5.807	9.3%	| Coclaurine N-methyltransferase (E.C.2.1.1.115); N-methylheliamine, Coclaurine N-Methyltransferase, TRANSFERASE; HET: SAH, F2Z; 2.847A {Coptis japonica}
+WP_010939044.1	87	6PIJ_J	87	0.7212	0.2094	5.144	9.2%	| cas7 type I-F CRISPR-associated protein; CRISPR/Cas, Cascade, RNA BINDING PROTEIN; 2.9A {Vibrio cholerae}
+WP_010938088.1	156	6FNP_A	156	0.7201	0.6401	7.729	10.9%	| Membrane protein, Energy-coupling factor transporter; Vitamin B12, ECF transporter, Membrane; 3.4A {Lactobacillus delbrueckii}
+WP_011792315.1	196	4UU4_A	161	0.7194	0.7967	7.114	19.3%	| PERIPLASMIC LIPOPOLYSACCHARIDE TRANSPORT PROTEIN LPTH; TRANSPORT PROTEIN, LPTH, LPTA, LPS; 2.751A {PSEUDOMONAS AERUGINOSA}
+WP_010939718.1	191	2BTW_B	174	0.7186	0.5610	8.100	7.5%	| ALR0975 PROTEIN (E.C.2.3.2.15); PHYTOCHELATIN SYNTHASE, PCS, ALR0975, NOSTOC; HET: MSE; 2.0A {ANABAENA SP.} SCOP: d.3.1.14
+WP_014524301.1	311	3OHG_A	256	0.7163	0.7753	11.157	12.5%	| Uncharacterized protein from DUF2233 family; STRUCTURAL GENOMICS, UNKNOWN FUNCTION, JOINT; HET: EDO, SO4; 1.8A {Bacteroides ovatus}
+WP_010939440.1	54	2M66_A	54	0.7154	0.4285	3.833	14.8%	| Endoplasmic reticulum resident protein 29; ERp29, Erp29-C, Chaperone, GPS-Rosetta; NMR {Rattus norvegicus}
+WP_014524657.1	187	5EJ1_A	185	0.7144	0.2178	5.769	10.8%	| Putative cellulose synthase (E.C.2.4.1.12), poly(unk); cellulose biosynthesis, glycosyltransferase, membrane transport; HET: C2E, BGC, 3PE, XP5; 3.4A {Rhodobacter sphaeroides (strain ATCC 17023 / 2.4.1 / NCIB 8253 / DSM 158)}
+WP_010939781.1	95	6H9N_B	91	0.7130	0.6676	5.369	13.2%	| Cell division protein FtsQ, Cell; bacterial cell division, divisome, CELL; 2.6A {Escherichia coli K-12}
+WP_014524242.1	49	2DJN_A	49	0.7128	0.5424	3.284	6.1%	| Homeobox protein DLX-5; homeobox, DLX5, Structural Genomics, NPPSFA; NMR {Homo sapiens}
+WP_010938405.1	183	6RAO_G	178	0.7104	0.5884	6.951	13.5%	| Afp1, Afp2, Afp3, Afp5, Afp9; Anti-feeding prophage, secretion system, AFP; 3.1A {Serratia entomophila}
+WP_010939241.1	277	5A7D_B	274	0.7103	0.5479	9.498	11.3%	| PINS, INSCUTEABLE; CELL CYCLE, LGN, INSCUTEABLE, ASYMMETRIC; 3.4A {DROSOPHILA MELANOGASTER}
+WP_010939131.1	90	2LD3_A	83	0.7090	0.7211	3.438	8.4%	| Myosin VI; molecular motor, myosin VI, lever; NMR {Mus musculus}
+WP_041722685.1	70	2DMN_A	68	0.7059	0.6222	4.313	5.9%	| Homeobox protein TGIF2LX; TGFB-induced factor 2-like protein, X-linked; NMR {Homo sapiens}
+WP_010937575.1	418	2YMU_B	398	0.7034	0.5395	11.642	18.3%	| WD-40 REPEAT PROTEIN; UNKNOWN FUNCTION, TWO DOMAINS; 1.794A {NOSTOC PUNCTIFORME}
+WP_010937959.1	69	2HF1_B	67	0.7022	0.7104	6.111	28.4%	| Tetraacyldisaccharide-1-P 4-kinase (E.C.2.7.1.130); Tetraacyldisaccharide-1-P 4-kinase, LpxK, lipid A; HET: MSE; 1.9A {Chromobacterium violaceum} SCOP: b.171.1.1
+WP_014524458.1	225	7DB8_B	220	0.7009	0.2142	8.591	16.8%	| Phenylalanine--tRNA ligase alpha subunit (E.C.6.1.1.20); aminoacylation, tRNA-binding, aminoacyl-tRNA synthetase, ATP-binding; HET: H2R, SO4; 2.3A {Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)}
+WP_010937559.1	195	6W6L_6	167	0.7007	0.7236	7.467	11.4%	| 60S ribosome-TMCO1 translocon assembly; RIBOSOME-PROTEIN TRANSPORT complex; HET: MG; 3.84A {Homo sapiens}
+WP_011792721.1	105	4G9I_F	103	0.6998	0.1196	4.533	15.5%	| Hydrogenase maturation protein HypF; Zinc finger, Hydrogenase maturation, ATP; HET: MSE, ZN; 4.5A {Thermococcus kodakarensis}
+WP_010938858.1	70	1QXF_A	61	0.6997	0.7321	5.050	13.1%	| 30S RIBOSOMAL PROTEIN S27E; STRUCTURAL GENOMICS, BETA SHEET, PSI; NMR {Archaeoglobus fulgidus} SCOP: g.41.8.4
+WP_010938264.1	58	5XYI_b	58	0.6974	0.5038	4.364	15.5%	| 40S ribosomal protein SA, Ribosomal; Trichomonas vaginalis ribosome, rRNA, rprotein; 3.35A {Trichomonas vaginalis}
+WP_010938873.1	279	4Z48_B	220	0.6970	0.7814	7.657	10.9%	| DUF1329 family protein; Structural Genomics, Joint Center for; HET: MSE, 1PE; 1.75A {Desulfovibrio piger ATCC 29098}
+WP_010940423.1	286	3MEM_A	229	0.6969	0.4534	8.407	11.8%	| Putative signal transduction protein; Structural Genomics, Joint Center for; HET: FMT; 2.25A {Marinobacter aquaeolei}
+WP_010938798.1	82	2LD3_A	82	0.6959	0.6636	3.673	4.9%	| Myosin VI; molecular motor, myosin VI, lever; NMR {Mus musculus}
+WP_010937583.1	123	4OC8_B	115	0.6952	0.2583	4.198	10.4%	| restriction endonuclease AspBHI; DNA Cleavage, DNA Restriction Enzymes; HET: PO4; 2.884A {Azoarcus sp.}
+WP_010938727.1	121	3BY7_B	96	0.6948	0.8224	5.965	26.0%	| uncharacterized protein; METAGENOMICS, STRUCTURAL GENOMICS, JOINT CENTER; HET: MSE; 2.6A {uncultured marine organism}
+WP_010940676.1	178	7AE6_B	141	0.6940	0.7760	5.070	9.2%	| HEPN toxin; toxin-antitoxin system, MNT-HEPN, AMPylation, TOXIN; HET: EDO, AMP; 1.65A {Aphanizomenon flos-aquae 2012/KM1/D3}
+WP_010939481.1	223	5CY2_F	184	0.6937	0.7904	7.033	10.9%	| Transposon Tn3 resolvase/DNA Complex; DNA recombinase repressor DNA binding; 4.0A {Escherichia coli}
+WP_010939025.1	72	1Y6U_A	68	0.6935	0.7092	4.620	14.7%	| Excisionase from transposon Tn916; DNA architectural protein, Tyrosine recombinase; NMR {Enterococcus faecalis}
+WP_010939495.1	89	1RR7_A	76	0.6925	0.5031	4.338	26.3%	| Middle operon regulator; Mor, TRANSCRIPTION; 2.2A {Enterobacteria phage Mu} SCOP: a.4.1.14
+WP_014524341.1	315	4NV2_A	257	0.6918	0.7425	9.119	13.2%	| VKORC1/thioredoxin domain protein; four helix bundle, oxidoreductase, Thioredoxin-like; HET: U10; 3.61A {Synechococcus sp.}
+WP_010939276.1	215	2P3P_A	178	0.6881	0.7115	8.093	11.8%	| Hypothetical protein; MCSG, hypothetical protein, MAD, PSI-2; HET: MSE; 1.76A {Porphyromonas gingivalis W83} SCOP: d.383.1.1
+WP_010940431.1	58	1NVP_D	58	0.6876	0.4159	3.437	12.1%	| TATA box binding protein, Transcription; TRANSCRIPTION REGULATION, DNA, COMPLEX, TRANSCRIPTION-DNA; 2.1A {Homo sapiens} SCOP: a.32.1.1, b.56.1.1
+WP_010939290.1	51	2HU9_A	48	0.6853	0.3209	4.362	29.2%	| Mercuric transport protein periplasmic component; copper chaperone, iron-sufur protein, CopZ; 1.78A {Archaeoglobus fulgidus}
+WP_010937707.1	183	5HR4_J	178	0.6838	0.1675	6.150	12.9%	| MmeI/DNA Complex; DNA-protein complex, Restriction-Modification enzyme, Hydrolase-DNA; HET: SFG; 2.5964A {Methylophilus methylotrophus}
+WP_011792814.1	102	2OFG_X	88	0.6825	0.6340	3.953	12.5%	| Zinc-transporting ATPase (E.C.3.6.3.5); FERREDOXIN-LIKE FOLD, BETA-ALPHA-BETA-BETA-ALPHA-BETA, STRUCTURAL GENOMICS; NMR {Synechocystis sp.}
+WP_010939870.1	133	3J4U_K	126	0.6812	0.6535	4.489	17.5%	| major capsid protein, cementing protein; protein topology, cryoEM, VIRUS; 3.5A {Bordetella phage BPP-1}
+WP_010938436.1	62	1UKL_E	59	0.6812	0.6892	2.991	15.3%	| Importin beta-1 subunit/Sterol regulatory element; Transcription factor, Nuclear transport factor; HET: MSE; 3.0A {Mus musculus} SCOP: a.38.1.1
+WP_010938751.1	248	1KMI_Z	189	0.6810	0.7806	6.151	24.3%	| Chemotaxis protein cheY, Chemotaxis protein; four-helix bundle, SIGNALING PROTEIN; HET: BCN; 2.9A {Escherichia coli} SCOP: h.4.11.1
+WP_010938106.1	98	3MLF_B	92	0.6793	0.6151	5.458	7.6%	| transcriptional regulator; structural genomics, Helix-turn-helix XRE-family like; HET: MSE; 2.6A {Staphylococcus aureus subsp. aureus}
+WP_010939042.1	135	3R1F_P	119	0.6771	0.6771	6.237	12.6%	| ESX-1 secretion-associated regulator EspR; helix-turn-helix, transcription factor, helix-turn-helix transcription; HET: MSE; 2.5A {Mycobacterium tuberculosis}
+WP_010939475.1	126	6HPC_A	114	0.6765	0.6291	5.721	14.0%	| Antitoxin HicB; dna binding, helix-turn-helix, HTH, ANTITOXIN; HET: MSE; 2.26A {Escherichia coli 2-210-07_S3_C3}
+WP_014524598.1	623	5OGL_A	577	0.6758	0.6022	12.206	7.5%	| Peptide-binding protein, Substrate mimicking peptide; Oligosaccharyltransferase, Complex, Protein N-glycosylation, Bacteria; HET: 9UB, PPN; 2.7A {Campylobacter lari (strain RM2100 / D67 / ATCC BAA-1060)}
+WP_010939945.1	88	4MCX_C	85	0.6746	0.5925	5.145	9.4%	| Host inhibition of growth A; bacterial toxins, biofilms, cell metabolism; 2.1A {Proteus vulgaris}
+WP_010939473.1	65	2QKD_A	65	0.6740	0.1458	3.864	18.5%	| Zinc finger protein ZPR1; HELICAL HAIRPINS, BETA HELIX, ANTI-PARRALLEL; 2.0A {Mus musculus}
+WP_010938753.1	111	4LVL_A	111	0.6738	0.4313	4.011	7.2%	| Plasmid recombination enzyme; Protein-DNA complex, Pfam Family: Mob_Pre; 2.2A {Streptococcus agalactiae}
+WP_010939428.1	119	2HG7_A	109	0.6734	0.7146	5.726	18.3%	| Phage-like element PBSX protein xkdW; Phage-like element PBSX protein xkdW; NMR {Bacillus subtilis} SCOP: d.186.2.1
+WP_010938657.1	322	5L26_C	318	0.6729	0.5354	8.213	9.7%	| Nucleoside permease; transporter, nucleoside, elevator-type alternate access; HET: URI, 6ZL; 3.4A {Neisseria wadsworthii 9715}
+WP_014524576.1	70	4L3I_A	70	0.6728	0.1257	3.848	12.9%	| Protein regulator of cytokinesis 1; Spectrin, Helical, Coiled-coil, Microtubule binding; 3.6005A {Homo sapiens}
+WP_010940032.1	55	3HZ7_A	55	0.6695	0.4790	3.386	3.6%	| Uncharacterized protein; alpha-beta protein, Structural Genomics, PSI-2; HET: MSE; 2.0A {Desulfitobacterium hafniense}
+WP_010937518.1	185	3FZ2_J	131	0.6674	0.9032	4.999	19.1%	| Minor tail protein U; Mixed Alpha-Beta fold, VIRAL PROTEIN; HET: MSE, SO4; 2.7A {Enterobacteria phage lambda}
+WP_010940044.1	90	4OX0_B	90	0.6670	0.6048	4.316	8.9%	| Developmental protein SEPALLATA 3; coiled-coil, oligomerization domain, keratin-like domain; 2.49A {Arabidopsis thaliana}
+WP_010940134.1	142	6R3E_B	132	0.6659	0.3869	4.153	9.8%	| DNA (cytosine-5)-methyltransferase 3B,DNA (cytosine-5)-methyltransferase 3B; DNMT3B PWWP DOMAIN, HISTONE BINDING; HET: SO4, 96H; 2.269A {Homo sapiens}
+WP_011791684.1	295	6YII_A	265	0.6658	0.4084	7.972	12.8%	| Transcriptional regulator; ATP Complex, Class III adenylyl; HET: ATP, SO4; 1.44A {Pseudomonas aeruginosa}
+WP_010940125.1	185	3FZ2_J	131	0.6657	0.9005	4.984	19.8%	| Minor tail protein U; Mixed Alpha-Beta fold, VIRAL PROTEIN; HET: MSE, SO4; 2.7A {Enterobacteria phage lambda}
+WP_010939963.1	144	6R3E_B	133	0.6651	0.3892	4.256	10.5%	| DNA (cytosine-5)-methyltransferase 3B,DNA (cytosine-5)-methyltransferase 3B; DNMT3B PWWP DOMAIN, HISTONE BINDING; HET: SO4, 96H; 2.269A {Homo sapiens}
+WP_010939987.1	124	6RAP_A	123	0.6648	0.5799	4.861	8.1%	| Afp1, Afp2, Afp3, Afp16; Anti-feeding prophage, secretion system, AFP; 3.3A {Serratia entomophila}
+WP_010940302.1	343	6U4B_A	316	0.6625	0.4065	9.071	8.2%	| WbbM protein; Glycsoyltransferase, bifunctional, trimeric, WbbM, DUF4422; 2.1A {Klebsiella pneumoniae}
+WP_164928112.1	142	6R3E_B	132	0.6623	0.3841	4.101	9.8%	| DNA (cytosine-5)-methyltransferase 3B,DNA (cytosine-5)-methyltransferase 3B; DNMT3B PWWP DOMAIN, HISTONE BINDING; HET: SO4, 96H; 2.269A {Homo sapiens}
+WP_010940279.1	122	2Y1B_A	118	0.6608	0.6352	6.017	13.6%	| PUTATIVE OUTER MEMBRANE PROTEIN, SIGNAL; MEMBRANE PROTEIN, RCS, PHOSPHORELAY, MUCOIDITY; HET: I3C; 2.0A {ESCHERICHIA COLI}
+WP_150103632.1	401	6HNJ_A	309	0.6604	0.8103	5.997	15.9%	| ABC-type transport system, sugar-family extracellular; Substrate binding protein, adhesin, tyrosine; HET: PGE, EDO; 1.8A {Peptoclostridium difficile 630}
+WP_010938912.1	140	2KL4_A	118	0.6565	0.7512	4.946	9.3%	| BH2032 protein; NB7804A, BACILLUS HALODURANS, Structural Genomics; NMR {Bacillus halodurans}
+WP_150103613.1	98	3MEM_A	98	0.6557	0.1830	4.460	13.3%	| Putative signal transduction protein; Structural Genomics, Joint Center for; HET: FMT; 2.25A {Marinobacter aquaeolei}
+WP_010940558.1	180	4R2K_A	136	0.6538	0.3725	4.008	16.9%	| Universal stress protein E; Universal stress protein, HUP domain; HET: SO4, EDO; 1.97A {Salmonella enterica subsp. enterica serovar Typhimurium str. LT2}
+WP_011791841.1	184	4LJR_B	157	0.6516	0.5583	4.693	14.0%	| DNA processing chain A; DNA processing A domain, Rossmann; 1.8A {Helicobacter pylori}
+WP_010939028.1	133	1NO1_A	121	0.6514	0.6803	5.204	14.0%	| replisome organizer; helical bipartite natively; HET: MSE; 2.4A {Bacillus phage SPP1} SCOP: a.179.1.1
+WP_010939266.1	130	2B0H_A	128	0.6507	0.6243	4.283	6.2%	| Talin-1; talin, vinculin, helical bundle, VBS; NMR {Mus musculus} SCOP: a.24.9.2
+WP_010938122.1	199	2MII_A	175	0.6507	0.6565	5.244	11.4%	| Penicillin-binding protein activator LpoB; LpoB, PBP1B activator, peptidoglycan synthesis; NMR {Escherichia coli}
+WP_014524535.1	252	3TCV_B	208	0.6503	0.6644	7.363	9.6%	| GCN5-related N-acetyltransferase (E.C.2.3.1.5); gram negative coccobacillus, brucellosis, acyl; 1.75A {Brucella melitensis biovar Abortus 2308}
+WP_014524228.1	252	3C0U_B	177	0.6503	0.8787	7.314	18.1%	| Uncharacterized protein yaeQ; Escherichia coli, yaeQ, PSI-2, Protein; HET: SO4; 2.7A {Escherichia coli}
+WP_010939014.1	82	2QA7_C	82	0.6494	0.5124	3.351	17.1%	| Huntingtin-interacting protein 1; HIPPI-binding, Huntington's disease, apoptosis, coiled-coil; 2.8A {Homo sapiens}
+WP_010939437.1	155	6TE9_F	127	0.6493	0.7266	4.885	15.7%	| Adaptor protein Rcc01688, Portal protein; "neck", "portal", "capsid", "tail tube"; 3.58A {Rhodobacter capsulatus}
+WP_014524530.1	197	5BUX_B	170	0.6486	0.6664	5.951	17.6%	| 3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ (E.C.4.2.1.59); FabZ, antimicrobial target, hot-dog fold; HET: GOL; 1.9A {Yersinia pestis KIM10+}
+WP_010938412.1	178	2GJV_E	145	0.6468	0.6559	5.489	7.6%	| PROTEIN; Structural genomics, Unknown function, PSI; 2.39A {Salmonella typhimurium} SCOP: d.323.1.2
+WP_010937464.1	127	6PAS_B	126	0.6452	0.1721	3.893	11.1%	| Soluble guanylyl cyclase alpha-1 subunit; Nitric oxide, cyclase, H-NOX, SIGNALING; HET: HEM; 5.1A {Manduca sexta}
+WP_011791831.1	176	2OWY_A	146	0.6442	0.3932	6.263	11.6%	| Recombination-associated protein rdgC; homologous recombination, Pseudomonas aeruginosa, RdgC; 2.5A {Pseudomonas aeruginosa}
+WP_010938785.1	127	2OB9_A	118	0.6415	0.6307	6.421	11.9%	| Tail assembly chaperone; Bacteriophage HK97, morphogenesis, tail assembly; 2.3A {Enterobacteria phage HK97}
+WP_011792449.1	95	2YRU_A	93	0.6411	0.5480	4.266	9.7%	| Steroid receptor RNA activator 1; SRAP, Structural Genomics, NPPSFA, National; NMR {Mus musculus}
+WP_010939234.1	96	3HIE_C	92	0.6392	0.4027	3.237	8.7%	| Exocyst complex component SEC3; PH domain, dimer, domain swapping; HET: PO4; 2.0A {Saccharomyces cerevisiae}
+WP_150103623.1	299	5TBF_A	274	0.6391	0.5949	8.289	9.9%	| Translation elongation factor; RctB, TRANSLATION; HET: MSE; 3.003A {Vibrio cholerae}
+WP_010938243.1	85	5WDA_X	78	0.6388	0.4383	4.662	14.1%	| General secretion pathway protein G; helical polymer, bacterial secretion, cryo-EM; HET: CA, MEA;{Klebsiella oxytoca}
+WP_010937727.1	58	1V4A_A	58	0.6388	0.1159	5.465	19.0%	| Glutamate-ammonia-ligase adenylyltransferase (E.C.2.7.7.42); main alpha helix, DNA polymerase; 2.0A {Escherichia coli} SCOP: a.24.16.4, d.218.1.9
+WP_010939499.1	216	6CT0_0	206	0.6375	0.2505	5.978	13.1%	| Dihydrolipoyllysine-residue acetyltransferase component of pyruvate; Pyruvate Dehydrogenase Complex, E2, Inner; 3.1A {Homo sapiens}
+WP_014524537.1	410	3D59_B	311	0.6366	0.6772	6.600	17.4%	| Platelet-activating factor acetylhydrolase (E.C.3.1.1.47); PLASMA PLATELET-ACTIVATING FACTOR ACETYLHYDROLASE, SECRETED; HET: SO4, ACT; 1.5A {Homo sapiens}
+WP_010940642.1	337	4NSO_A	292	0.6359	0.7011	8.567	18.2%	| Effector protein, Immunity protein; Helix, peptidoglycan, PROTEIN BINDING; 2.4A {Vibrio cholerae O1 biovar El Tor}
+WP_010940095.1	80	1Y6U_A	70	0.6355	0.7030	4.700	7.1%	| Excisionase from transposon Tn916; DNA architectural protein, Tyrosine recombinase; NMR {Enterococcus faecalis}
+WP_010939988.1	109	3KLU_A	108	0.6347	0.4822	6.223	10.2%	| Uncharacterized protein yqbN; NESG, STRUCTURAL GENOMICS, PSI-2,PROTEIN STRUCTURE; 2.2A {Bacillus subtilis}
+WP_010938950.1	64	2DA5_A	63	0.6347	0.5701	3.832	6.3%	| Zinc fingers and homeoboxes protein; homeobox domain, three helices with; NMR {Homo sapiens}
+WP_010937613.1	205	4F3V_A	202	0.6340	0.4973	7.582	11.4%	| ESX-1 secretion system protein EccA1; tetratricopeptide repeat, TPR domain, ATPase; HET: SO4; 2.0A {Mycobacterium tuberculosis}
+WP_010938093.1	110	2DIQ_A	92	0.6333	0.6333	3.390	9.8%	| Tudor and KH domain-containing protein; TUDOR domain, Tudor and KH; NMR {Homo sapiens} SCOP: b.34.9.1
+WP_010939971.1	93	5J73_A	81	0.6308	0.6976	3.400	11.1%	| designed protein 2L4HC2_23; rosetta, de novo design, DE; 2.56A {synthetic construct}
+WP_014524429.1	118	2RJZ_A	100	0.6305	0.5293	3.681	12.0%	| PilO protein; STRUCTURAL GENOMICS, UNKNOWN FUNCTION, PSI-2; HET: SO4; 2.2A {Pseudomonas aeruginosa}
+WP_010938633.1	194	2MII_A	161	0.6294	0.6210	5.041	15.5%	| Penicillin-binding protein activator LpoB; LpoB, PBP1B activator, peptidoglycan synthesis; NMR {Escherichia coli}
+WP_011792466.1	164	4AV2_U	150	0.6268	0.5804	8.291	13.3%	| TYPE IV PILUS BIOGENESIS AND; PROTEIN TRANSPORT, OUTER MEMBRANE PROTEIN; 26.0A {NEISSERIA MENINGITIDIS MC58}
+WP_010938802.1	187	6O60_A	186	0.6261	0.3413	5.048	8.1%	| Protein prenyltransferase alpha subunit repeat-containing; F-box, Leucine-rich repeat, GGTase subunits; 2.503A {Homo sapiens}
+WP_010939449.1	73	2L6Q_A	57	0.6247	0.7079	3.158	14.0%	| Head-to-tail joining protein W (GpW); gpW, fast protein folding, downhill; NMR {Enterobacteria phage lambda}
+WP_014524554.1	160	2P2U_B	134	0.6222	0.5901	6.798	7.5%	| Host-nuclease inhibitor protein Gam, putative; STRUCTURAL GENOMICS, UNKNOWN FUNCTION, PSI-2; 2.75A {Desulfovibrio vulgaris} SCOP: h.4.18.1
+WP_010938596.1	60	5LUV_B	57	0.6219	0.2768	3.931	10.5%	| Putative PAS/PAC sensor protein; LOV domain, PAS domain, apo-state; HET: SO4; 2.5A {Pseudomonas putida}
+WP_010939117.1	354	5Y6F_A	234	0.6218	0.8436	6.719	11.1%	| Flagellar brake protein YcgR; C-di-GMP binding, Flagellar brake protein; HET: C2E; 2.3A {Escherichia coli (strain K12)}
+WP_010938986.1	192	6OV6_A	185	0.6207	0.4607	9.343	10.3%	| C24 PROTEIN; FIBER, VIRAL ORIGIN, UNKNOWN FUNCTION; 1.82A {Bizionia argentinensis JUB59}
+WP_011791439.1	72	1VCS_A	71	0.6205	0.4950	2.931	11.3%	| Vesicle transport through interaction with; SNARE, Habc domain, Vti1, up; NMR {Mus musculus} SCOP: a.47.2.1
+WP_010940508.1	233	3HSI_B	211	0.6177	0.3546	5.785	7.1%	| Phosphatidylserine synthase (E.C.2.7.8.8); Haemophilus influenzae, phosphatidylserine synthase, CDP-diacylglycerol--serine; HET: MSE; 2.2A {Haemophilus influenzae}
+WP_010940661.1	110	3TMB_B	103	0.6159	0.2465	5.412	4.9%	| Uncharacterized protein Bd1817; HD-GYP, phosphodiesterase, UNKNOWN FUNCTION, HYDROLASE,SIGNALING; HET: PO4; 1.7A {Bdellovibrio bacteriovorus}
+WP_010938430.1	121	5Y6A_B	119	0.6159	0.5169	4.826	6.7%	| chain A and B; Unknown function, VIRAL PROTEIN; 2.0A {Listeria monocytogenes J0161}
+WP_010938181.1	154	3JC8_Nj	154	0.6151	0.4599	5.218	5.2%	| PilA, Type IV-A pilus assembly; motor, pilus, ring, membrane channel; HET: MEA;{Myxococcus xanthus DK 1622}
+WP_014524550.1	152	6ZM6_J	142	0.6149	0.5145	4.207	10.6%	| 28S ribosomal protein S2, mitochondrial; mitochondrion, translation, closed nascent-polypeptide tunnel; HET: SAC, K, GTP, FES, THC, ATP, MG, IAS, AYA; 2.59A {Homo sapiens}
+WP_010938964.1	54	4L58_A	54	0.6134	0.5266	4.304	13.0%	| Histone-lysine N-methyltransferase MLL5 (E.C.2.1.1.43), histone3; TRANSFERASE; 1.48A {Homo sapiens}
+WP_014524426.1	98	6NR9_2	96	0.6133	0.5951	6.374	8.3%	| T-complex protein 1 subunit alpha; TRiC/CCT, PFD, CryoEM, Molecular Chaperone; 8.5A {Homo sapiens}
+WP_010938786.1	387	5NGJ_B	317	0.6127	0.5124	8.496	12.3%	| Tail tube protein; bacteriophage, viral protein, tube protein; 2.2A {Escherichia phage T5}
+WP_010939444.1	69	6XTY_A	48	0.6106	0.2325	4.395	12.5%	| DNA replication licensing factor MCM2; CMG, Helicase, ATPase, Replisome, REPLICATION; 6.77A {Homo sapiens}
+WP_164928132.1	152	5J0N_F	118	0.6103	0.2885	5.093	16.9%	| Integrase, Integration host factor subunit; bacteriophage lambda, excision, site-specific recombination; 11.0A {Enterobacteria phage lambda}
+WP_010939876.1	208	5Y6F_A	151	0.6101	0.5041	5.590	13.9%	| Flagellar brake protein YcgR; C-di-GMP binding, Flagellar brake protein; HET: C2E; 2.3A {Escherichia coli (strain K12)}
+WP_011176730.1	307	6UIE_B	210	0.6100	0.8613	8.850	14.8%	| Type III export protein PscK; PscK, type III secretion apparatus; HET: MSE; 2.55A {Pseudomonas aeruginosa}
+WP_011792655.1	94	2YT9_A	89	0.6087	0.6041	4.534	15.7%	| zinc finger-containing protein 1; Zinc-finger, C2H2, Structural Genomics, NPPSFA; HET: ZN; NMR {Homo sapiens} SCOP: g.37.1.1
+WP_010937906.1	88	3QVD_C	88	0.6084	0.3852	4.996	14.8%	| Rubrerythrin; Rubrerythrin, Peroxide reduction, removal of; HET: FE2; 2.0A {Pyrococcus furiosus}
+WP_010938042.1	158	4N4R_D	143	0.6076	0.5193	5.241	7.7%	| LPS-assembly protein LptD, LPS-assembly lipoprotein; Beta barrel, Translocase, Lipopolysaccharide transport; HET: MSE, CAC; 2.8A {Salmonella enterica subsp. enterica serovar Typhimurium}
+WP_010939900.1	123	4DNI_A	122	0.6075	0.3343	3.597	13.1%	| Fusion protein of RNA-editing complex; KREPA3, KREPA6, Editosome, Protein/RNA binding; 2.55A {Trypanosoma brucei,Trypanosoma brucei brucei}
+WP_010937919.1	130	3KDF_B	118	0.6069	0.5996	4.952	11.9%	| Replication protein A 14 kDa; Wheat germ cell free, protein; HET: MSE, EDO; 1.975A {Homo sapiens}
+WP_010938432.1	152	6R3E_B	151	0.6033	0.3790	4.144	8.6%	| DNA (cytosine-5)-methyltransferase 3B,DNA (cytosine-5)-methyltransferase 3B; DNMT3B PWWP DOMAIN, HISTONE BINDING; HET: SO4, 96H; 2.269A {Homo sapiens}
+WP_010939507.1	122	2LQG_A	103	0.6023	0.5484	3.798	8.7%	| Talin-1; Actin, Integrin, Helical Bundle, Adhesion; NMR {Mus musculus}
+WP_010939467.1	51	6CFZ_G	51	0.6017	0.5476	3.768	15.7%	| Ask1, Dad3, Dad2, Duo1, Dad4; DASH, Dam1 complex, Ask1, Dad1;{Chaetomium thermophilum}
+WP_011791730.1	98	3EZ9_B	92	0.6005	0.1876	5.421	12.0%	| ParA; dna binding, winged-hth, partition, BIOSYNTHETIC; 2.8A {Salmonella enterica subsp. enterica serovar Newport str. SL317}
+WP_010938911.1	80	6PLN_B	79	0.6005	0.2979	4.871	8.9%	| Transcription factor E; TFE, general transcription factor, TRANSCRIPTION; 2.6A {Pyrococcus furiosus}
+WP_010939892.1	115	3JC8_Nj	105	0.5996	0.3466	4.930	9.5%	| PilA, Type IV-A pilus assembly; motor, pilus, ring, membrane channel; HET: MEA;{Myxococcus xanthus DK 1622}
+WP_010939013.1	202	4DZP_B	139	0.5990	0.8295	6.166	17.3%	| Gene 1 protein; gp1, DNA-binding, R48A mutation, VIRAL; 1.8A {Shigella phage Sf6}
+WP_010938442.1	141	2XSD_C	114	0.5980	0.5297	3.656	6.1%	| POU DOMAIN, CLASS 3, TRANSCRIPTION; TRANSCRIPTION-DNA COMPLEX, SOX; HET: EDO; 2.049A {MUS MUSCULUS}
+WP_014524340.1	622	3WQT_D	458	0.5976	0.7479	11.569	9.2%	| Cell division protein FtsA; actin-like fold, STRUCTURAL GENOMICS; HET: ANP; 2.2A {Staphylococcus aureus subsp. aureus}
+WP_014524392.1	106	2CF7_E	103	0.5963	0.4357	3.918	8.7%	| DPR; PEROXIDE RESISTANCE, DPS-FAMILY, FERRITIN-LIKE, FERROXIDASE; HET: EPE; 1.5A {STREPTOCOCCUS SUIS}
+WP_014524219.1	563	3Q3E_A	520	0.5950	0.5428	8.229	7.5%	| HMW1C-like glycosyltransferase; HMW1C, HMW1, N-glycosylation, TRANSFERASE; HET: GOL; 2.1A {Actinobacillus pleuropneumoniae serovar 1}
+WP_049775581.1	238	5MGX_E	231	0.5935	0.5084	8.753	10.4%	| yeast HSP90 C-terminus, Peptidyl-prolyl cis-trans; Hsp90, PPIase, teratricopeptide, immunophilin, isomerase; 2.18A {Homo sapiens}
+WP_164928125.1	59	2C0S_A	54	0.5931	0.5633	3.758	16.7%	| CONSERVED DOMAIN PROTEIN; TRANSFERASE, PHOSPHATASE, PHOSPHORYLATION, SPORULATION, BACILLUS; NMR {BACILLUS ANTHRACIS} SCOP: a.30.7.1
+WP_010940224.1	99	2E2E_B	97	0.5931	0.3894	5.014	11.3%	| Formate-dependent nitrite reductase complex nrfG; TPR, cytochrome c biogenesis, O157:H7; HET: IMD; 2.05A {Escherichia coli}
+WP_010939972.1	71	4W7Z_C	63	0.5922	0.6332	3.268	7.9%	| BAP29; Coiled coil, nanomaterial, transport protein; HET: SO4; 2.2A {Homo sapiens}
+WP_010939498.1	114	4GEH_A	114	0.5917	0.3775	3.929	7.9%	| Programmed cell death protein 10; alpha helix-rich protein, serine/threonine-protein kinase; 1.95A {Homo sapiens}
+WP_011176625.1	438	3LN7_A	385	0.5864	0.3699	10.247	11.7%	| Glutathione biosynthesis bifunctional protein gshAB; gamma-glutamylcysteine ligase domain, ATP-grasp domain; HET: MSE; 3.2A {Pasteurella multocida}
+WP_010937717.1	201	4HWI_B	159	0.5860	0.6441	4.789	8.2%	| Heat shock cognate 71 kDa; BAG domain, ubiquitin-like domain, co-chaperone; 2.273A {Homo sapiens}
+WP_011176646.1	660	5F15_A	531	0.5853	0.6548	11.703	9.6%	| 4-amino-4-deoxy-L-arabinose (L-Ara4N) transferase; membrane protein, lipid glycosyltransferase, GT-C; HET: EPE, MPG, 5TR; 3.2A {Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34)}
+WP_011792616.1	157	5N2K_F	155	0.5844	0.3795	4.391	7.7%	| Briakinumab FAb light chain, Briakinumab; antagonist, antibody, extracellular region, Immune; HET: PCA, EDO; 2.219A {Homo sapiens}
+WP_011176733.1	100	6NRC_1	97	0.5843	0.5591	3.615	6.2%	| Prefoldin subunit 1, Prefoldin subunit; TRiC/CCT, PFD, CryoEM, Molecular Chaperone; 8.3A {Homo sapiens}
+WP_010939895.1	68	7C7L_A	66	0.5840	0.1068	5.728	10.6%	| CRISPR-associated protein Cas14a.1/RNA/DNA Complex; Cas12f, Cas14, sgRNA, target DNA; 3.0A {uncultured archaeon}
+WP_010937457.1	269	5AXG_A	259	0.5836	0.3057	3.750	6.6%	| dextranase (E.C.3.2.1.11); glycoside hydrolase family 66, HYDROLASE; HET: CXS, EDO, PO4; 1.85A {Thermoanaerobacter pseudethanolicus ATCC 33223}
+WP_010937954.1	362	5L26_C	357	0.5830	0.5150	7.857	10.4%	| Nucleoside permease; transporter, nucleoside, elevator-type alternate access; HET: URI, 6ZL; 3.4A {Neisseria wadsworthii 9715}
+WP_010939180.1	72	2D9K_A	70	0.5829	0.5659	4.584	11.4%	| FLN29 gene product; FLN29, zinc finger, zf-TRAF, Structural; HET: ZN; NMR {Homo sapiens}
+WP_010940415.1	480	1LNS_A	396	0.5819	0.3915	6.589	11.1%	| X-PROLYL DIPEPTIDYL AMINOPEPTIDASE (E.C.3.4.14.11); ALPHA BETA HYDROLASE FOLD, HYDROLASE; 2.2A {Lactococcus lactis} SCOP: c.69.1.21, b.18.1.13, a.40.2.1
+WP_014524431.1	135	1NO1_A	113	0.5805	0.6127	4.047	16.8%	| replisome organizer; helical bipartite natively; HET: MSE; 2.4A {Bacillus phage SPP1} SCOP: a.179.1.1
+WP_164561964.1	230	1YLE_A	218	0.5802	0.4235	7.336	10.1%	| Arginine N-succinyltransferase, alpha chain (E.C.2.3.1.109); Pseudomonas aeruginosa, structural genomics, Arginine; 1.7A {Pseudomonas aeruginosa} SCOP: d.108.1.8
+WP_010939313.1	423	5EAN_A	347	0.5795	0.2605	8.320	10.7%	| DNA replication ATP-dependent helicase/nuclease DNA2/DNA; DNA binding protein, Hydrolase-DNA complex; HET: ADP; 2.36A {Mus musculus}
+WP_014524596.1	456	3HTX_A	419	0.5785	0.3156	6.282	8.6%	| HEN1; HEN1, small RNA methyltransferase, protein-RNA; HET: SAH; 3.1A {Arabidopsis thaliana}
+WP_014524440.1	82	2AIN_A	78	0.5782	0.5330	4.560	15.4%	| Afadin/6-mer peptide from Breakpoint cluster; AF-6 PDZ domain-Bcr complex, CELL; NMR {Homo sapiens}
+WP_010939536.1	604	3S29_H	527	0.5766	0.4482	6.879	10.4%	| Sucrose synthase 1 (E.C.2.4.1.13); Glycosyltransferase, Sucrose metabolism, sugar acceptor; HET: FRU, SO4, UDP, MLA; 2.85A {Arabidopsis thaliana}
+WP_010938308.1	204	6ERD_C	173	0.5747	0.5588	6.568	11.0%	| Aminoglycoside adenylyltransferase (E.C.2.3.1.-); Acetyltransferase Bacillus cereus Unidentified acetyl; HET: MSE, GOL, CME; 2.0A {Bacillus cereus}
+WP_010937376.1	265	3PGU_A	259	0.5747	0.4014	6.378	5.8%	| Long-chain fatty acid transport protein; outer membrane beta barrel, lipid; HET: OLA, 2PE, C8E; 1.7A {Escherichia coli K-12}
+WP_014524436.1	210	6OV6_A	203	0.5724	0.4617	9.275	13.8%	| C24 PROTEIN; FIBER, VIRAL ORIGIN, UNKNOWN FUNCTION; 1.82A {Bizionia argentinensis JUB59}
+WP_014524452.1	100	3UCS_A	92	0.5719	0.5640	6.003	13.0%	| Chaperone-modulator protein CbpM, Curved DNA-binding; protein-protein complex, Structural Genomics, Montreal-Kingston; 1.87A {Klebsiella pneumoniae}
+WP_011791839.1	169	2RHU_A	146	0.5703	0.3223	5.498	11.6%	| Lethal(3)malignant brain tumor-like protein; BETA BARREL, Protein-peptide Complex, dimethyl-lysine; HET: MLY, PG4; 1.9A {Homo sapiens}
+WP_010940589.1	152	3J09_A	135	0.5691	0.1516	4.369	11.9%	| copper-exporting P-type ATPase A (E.C.3.6.3.-); p-type ATPase, copper transporter, CopA; 10.0A {Archaeoglobus fulgidus}
+WP_010937644.1	656	3L7I_A	529	0.5683	0.5200	7.696	11.9%	| Teichoic acid biosynthesis protein F; GT-B fold, monotopic membrane protein; HET: SO4, CL, EDO; 2.7A {Staphylococcus epidermidis}
+WP_014524317.1	198	4Y66_C	160	0.5669	0.5559	3.968	13.8%	| Mnd1, Putative tbpip family protein; cell cycle; 3.2A {Giardia lamblia ATCC 50803}
+WP_010940105.1	174	2XUB_A	162	0.5667	0.2360	3.778	11.1%	| DNA-DIRECTED RNA POLYMERASE III SUBUNIT; TRANSCRIPTION, WINGED HELIX; 2.8A {HOMO SAPIENS}
+WP_010938531.1	206	3N0U_A	191	0.5667	0.5416	5.780	11.5%	| Probable N-glycosylase/DNA lyase (E.C.3.2.2.-, 4.2.99.18); structural genomics, ISFI, DNA REPAIR; 1.5A {Thermotoga maritima}
+WP_010937554.1	285	3UB6_A	179	0.5660	0.8581	6.602	16.8%	| chemoreceptor TlpB; homodimer, four-helix bundle, PAS domain; HET: SO4, GOL; 1.38A {Helicobacter pylori}
+WP_010937690.1	129	6ADQ_O	128	0.5656	0.3028	5.488	14.8%	| Transmembrane cytochrome C oxidase subunit; Respiratory, Supercomplex, SOD, Mycobacterium, ETC; HET: HEC, 9YF, 9Y0, HEA, 9XX, MQ9, CDL, HEM, PLM; 3.5A {Mycobacterium smegmatis MC2 51}
+WP_010938805.1	164	1T0F_B	155	0.5653	0.3664	5.677	12.3%	| Transposon Tn7 transposition protein tnsA; protein-protein complex, mixed alpha-beta, DNA; HET: MPD, MLA; 1.85A {Escherichia coli} SCOP: a.4.5.27, c.52.1.16
+WP_010938872.1	116	2NCA_A	116	0.5652	0.5302	4.085	6.9%	| Hsp90 co-chaperone Cdc37; chaperone, cochaperone; NMR {Homo sapiens}
+WP_010937807.1	273	6D6V_D	272	0.5649	0.2671	4.641	8.5%	| Telomerase reverse transcriptase, Telomerase-associated protein; Telomerase, telomere, REPLICATION;{Tetrahymena thermophila}
+WP_011792639.1	148	3KXA_D	133	0.5636	0.5853	4.836	5.3%	| Putative uncharacterized protein; NGO0477, Neisseria gonorrhoeae, New protein; HET: CL, ASN, MSE, UNX; 2.8A {Neisseria gonorrhoeae}
+WP_014524325.1	205	4BKG_A	155	0.5620	0.6595	5.629	13.5%	| SMALL UBIQUITIN-RELATED MODIFIER 2; PROTEIN BINDING; 2.11A {HOMO SAPIENS}
+WP_011791514.1	161	6RWT_A	152	0.5618	0.5145	4.506	9.9%	| Ubiquinol-cytochrome C chaperone; Respiratory chain, Complex III, Assembly; HET: GOL; 1.42A {Brucella abortus NCTC 8038}
+WP_164928140.1	91	3AEI_B	87	0.5616	0.5320	4.097	10.3%	| Prefoldin beta subunit 2; double helix, coiled coil, CHAPERONE; HET: SO4; 1.7A {Thermococcus sp.}
+WP_010940206.1	80	6GV8_A	78	0.5610	0.3356	2.681	15.4%	| Hyperosmolarity resistance protein Emb; EMBP, Staphylococcus epidermidis, FG-repeat, CELL; 1.394A {Staphylococcus epidermidis}
+WP_164928139.1	45	2A26_A	44	0.5609	0.5315	2.998	9.1%	| Calcyclin-binding protein; helical hairpin, dimerization, APOPTOSIS; HET: CXS; 1.2A {Homo sapiens} SCOP: a.2.16.1
+WP_010940103.1	357	5HR4_J	334	0.5596	0.2603	5.426	11.1%	| MmeI/DNA Complex; DNA-protein complex, Restriction-Modification enzyme, Hydrolase-DNA; HET: SFG; 2.5964A {Methylophilus methylotrophus}
+WP_010939008.1	110	2K9A_A	102	0.5596	0.4795	4.029	10.8%	| ADP-ribosylation factor-like protein 2-binding protein; Protein, Effector, small G protein; NMR {Homo sapiens}
+WP_010938471.1	125	2Y3W_C	121	0.5595	0.4285	4.489	10.7%	| SPINDLE ASSEMBLY ABNORMAL PROTEIN 6; STRUCTURAL PROTEIN, CYTOSKELETON, BASAL BODY; 1.98A {DANIO RERIO}
+WP_014524678.1	92	2P9X_D	92	0.5593	0.5373	4.822	14.1%	| Hypothetical protein PH0832; Pyrococcus horikoshii OT3, NPPSFA, National; 1.65A {Pyrococcus horikoshii}
+WP_164928130.1	29	2B9K_A	29	0.5592	0.4524	6.503	41.4%	| Antimicrobial peptide LCI; BETA-STRANDED PROTEIN, AMP, ANTIBIOTIC; NMR {Bacillus subtilis}
+WP_164928124.1	135	2F42_A	134	0.5576	0.4616	5.556	8.2%	| STIP1 homology and U-box containing; U-box, CHAPERONE; 2.5A {Danio rerio}
+WP_010939966.1	112	5KS5_A	88	0.5566	0.5929	4.031	11.4%	| Eukaryotic elongation factor 2 kinase; TRANSFERASE, eEF2K, SEL1, elongation, TPR; NMR {Homo sapiens}
+WP_011792587.1	225	2QGU_A	173	0.5554	0.5841	5.423	10.4%	| Probable signal peptide protein; NESG, RsR89, Q8XV73, Structural Genomics; HET: PEF; 1.5A {Ralstonia solanacearum}
+WP_164928135.1	53	1KG1_A	53	0.5549	0.5145	5.612	15.1%	| Necrosis Inducing Protein 1; antiparalel beta sheets, TOXIN; NMR {Rhynchosporium secalis} SCOP: g.70.1.1
+WP_014524664.1	902	5FKT_B	654	0.5548	0.6579	17.938	17.1%	| ENDO-1,4-BETA-GLUCANASE/XYLOGLUCANASE, GLY74A (E.C.3.2.1.-, 3.2.1.-, 3.2.1.151); HYDROLASE, CELLVIBRIO JAPONICUS, XYLOGLUCAN SACCHARIFICATION; HET: EDO; 1.52A {CELLVIBRIO JAPONICUS}
+WP_010938238.1	249	4LUH_A	242	0.5546	0.2942	4.653	9.9%	| Serum albumin; Helical structure, transport, Fatty acids; HET: LMR, 2Q5, DIU, ACT, MLI, SIN; 2.2A {Ovis aries}
+WP_010938473.1	185	1J6R_B	164	0.5542	0.4958	5.596	14.0%	| ACTIVATION (ADOMET BINDING) DOMAIN OF; STRUCTURAL GENOMICS, TM0269, ACTIVATION (ADOMET; 2.3A {Thermotoga maritima} SCOP: d.173.1.2
+WP_014524391.1	58	1NLW_A	58	0.5529	0.4477	4.313	0.0%	| MAD PROTEIN/MAX PROTEIN/DNA; transcription factor, DNA, bHLHZ, TRANSCRIPTION-DNA; 2.0A {Homo sapiens} SCOP: a.38.1.1
+WP_010940650.1	80	1IRQ_B	69	0.5529	0.6070	4.111	5.8%	| omega transcriptional repressor; transcriptional repressor, ribbon-helix-helix, GENE REGULATION; 1.5A {Streptococcus pyogenes} SCOP: a.43.1.4
+WP_010938547.1	72	1NLW_A	72	0.5522	0.5186	4.130	5.6%	| MAD PROTEIN/MAX PROTEIN/DNA; transcription factor, DNA, bHLHZ, TRANSCRIPTION-DNA; 2.0A {Homo sapiens} SCOP: a.38.1.1
+WP_010939907.1	362	4H6Y_B	306	0.5520	0.4215	6.206	8.2%	| FERM, RhoGEF and pleckstrin domain-containing; FARP1, DH-PH, GEF, guanine nucleotide; 4.09A {Homo sapiens}
+WP_010937793.1	109	4CGY_A	109	0.5518	0.1159	6.342	14.7%	| DNA TOPOISOMERASE 3-ALPHA (E.C.5.99.1.2), RECQ-MEDIATED; DNA REPLICATION-ISOMERASE COMPLEX, DOUBLE HOLLIDAY; 2.85A {HOMO SAPIENS}
+WP_010938676.1	71	4EAJ_A	70	0.5515	0.4270	4.811	14.3%	| 5'-AMP-activated protein kinase catalytic subunit; AMPK, TRANSFERASE; HET: AMP, ATP; 2.609A {Rattus norvegicus}
+WP_164561408.1	157	4Y66_C	141	0.5513	0.4546	3.700	5.0%	| Mnd1, Putative tbpip family protein; cell cycle; 3.2A {Giardia lamblia ATCC 50803}
+WP_010940672.1	356	4XHP_A	344	0.5510	0.2791	5.019	8.4%	| ParM hybrid fusion protein; STRUCTURAL PROTEIN, BACTERIAL ACTIN-LIKE PROTEIN; HET: ADP; 3.2A {Bacillus thuringiensis serovar kurstaki str. YBT-1520}
+WP_010939624.1	122	2RBD_A	120	0.5498	0.4418	4.611	5.8%	| BH2358 protein; PUTATIVE SPORE COAT PROTEIN, STRUCTURAL; HET: PG4; 1.54A {Bacillus halodurans C-125}
+WP_014524519.1	302	4ARE_A	269	0.5485	0.2799	5.375	12.3%	| COLLAGENASE G (E.C.3.4.24.3); HYDROLASE, COLLAGEN, PEPTIDASE, COLLAGENOLYSIS, METALLOPROTEASE; HET: FLC, P6G; 2.19A {CLOSTRIDIUM HISTOLYTICUM}
+WP_010940477.1	400	2YB4_A	270	0.5478	0.7189	10.981	15.2%	| AMIDOHYDROLASE; ENZYME FUNCTION INITIATIVE, HYDROLASE, COG0613; HET: SO4; 2.2A {CHROMOBACTERIUM VIOLACEUM}
+WP_010939429.1	338	5KCA_A	299	0.5467	0.2493	5.737	8.4%	| Cerebellin-1,Cerebellin-1,Cerebellin-1,Glutamate receptor ionotropic, delta-2; Cerebellin, ionotropic glutamate receptor (iGluR); 3.1A {Homo sapiens}
+WP_010938850.1	797	1H7X_B	684	0.5463	0.4463	8.814	10.2%	| DIHYDROPYRIMIDINE DEHYDROGENASE (E.C.1.3.1.2); ELECTRON TRANSFER, FLAVIN, IRON-SULFUR CLUSTERS; HET: FAD, SF4, NDP, URF, FMN; 2.01A {SUS SCROFA} SCOP: c.4.1.1, c.1.4.1, a.1.2.2, d.58.1.5, c.3.1.1
+WP_010937516.1	197	2IOP_A	175	0.5461	0.2206	3.303	12.0%	| Chaperone protein htpG; Heat Shock Protein, Chaperone, Hsp90; HET: ADP; 3.55A {Escherichia coli}
+WP_150100223.1	66	4S23_A	62	0.5460	0.1248	3.337	9.7%	| 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (E.C.1.17.7.1); TIM barrel, alpha/beta fold, OXIDOREDUCTASE; HET: SF4, MES, H6P; 1.65A {Thermus thermophilus}
+WP_010939849.1	209	3GYZ_A	151	0.5439	0.6971	6.611	10.6%	| Chaperone protein ipgC; asymmetric homodimer, Tetratricopeptide repeat, TPR; HET: GOL, SO4; 2.15A {Shigella flexneri}
+WP_014524412.1	49	5LYE_A	49	0.5430	0.1191	5.248	12.2%	| Gp12; STRUCTURAL PROTEIN, GENE PRODUCT 12; 1.9A {Enterobacteria phage T2}
+WP_014524641.1	59	2N64_A	57	0.5423	0.4697	4.441	19.3%	| SH3 domain-containing kinase-binding protein 1; Signaling Protein, Adaptor Protein, Coiled-Coil; NMR {Homo sapiens}
+WP_011176726.1	594	4WBD_A	464	0.5419	0.5844	10.416	7.5%	| BshC from Bacillus subtilis; Bacililthiol, ligase, cysteine, rossmann; HET: CIT, ADP; 1.77A {Bacillus subtilis}
+WP_011176670.1	159	1YG2_A	139	0.5415	0.4928	4.146	14.4%	| gene activator AphA; virulence factor vibrio cholerae; 2.2A {Vibrio cholerae} SCOP: a.4.5.61
+WP_010940660.1	698	1TR2_B	628	0.5410	0.3960	8.269	8.6%	| VINCULIN ISOFORM 1; ACTIN-BINDING, CELL ADHESION; HET: MSE; 2.9A {Homo sapiens}
+WP_010940553.1	175	5J4O_A	165	0.5404	0.4487	4.864	3.0%	| Spectrin alpha chain, erythrocytic 1; erythrocyte, spectrin, helical bundle, domains; HET: EDO, PG4; 1.54A {Homo sapiens}
+WP_010939319.1	91	4HRV_B	90	0.5402	0.3580	3.655	6.7%	| Putative lipoprotein GNA1162; DUF799, LIPID BINDING PROTEIN; 1.89A {Neisseria meningitidis}
+WP_010938981.1	131	2RRL_A	122	0.5396	0.4473	3.518	9.8%	| Flagellar hook-length control protein; FliK, FlhB, bacterial flagella motor; NMR {Salmonella typhimurium}
+WP_010937830.1	138	4Q0H_A	134	0.5396	0.2660	2.759	10.4%	| Deinococcus radiodurans PAS-GAF; PAS GAF, photosensor, response regulator; HET: LBV, IPA; 1.157A {Deinococcus radiodurans R1}
+WP_010939909.1	246	3FO5_A	227	0.5389	0.5213	6.486	11.9%	| Thioesterase, adipose associated, isoform BFIT2; Orthogonal Bundle, Consortium, LIPID TRANSPORT; HET: 1PE, TCE; 2.0A {Homo sapiens}
+WP_010940538.1	166	2Z4S_A	158	0.5388	0.2624	2.671	11.4%	| Chromosomal replication initiator protein dnaA; AAA+ ATPase, domain III (ATPase; HET: ADP; 3.0A {Thermotoga maritima}
+WP_014524444.1	107	5X62_B	107	0.5386	0.2021	5.634	10.3%	| Carnosine N-methyltransferase (E.C.2.1.1.22); methyltransferase, SAM, Rossmann fold, TRANSFERASE; HET: SAH; 2.204A {Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+WP_010938236.1	128	1X1F_A	117	0.5374	0.4842	4.300	8.5%	| BRDG1 protein; Docking protein BRDG1, PH domain; NMR {Homo sapiens} SCOP: b.55.1.1
+WP_010939961.1	78	6K5X_A	64	0.5373	0.5272	2.809	14.1%	| UPF0335 protein CCNA_03428; C. crescentus, NAPs, DNA BINDING; 2.086A {Caulobacter vibrioides (strain NA1000 / CB15N)}
+WP_010938273.1	112	1O7L_B	107	0.5355	0.2877	3.322	10.3%	| TRANSCRIPTIONAL REGULATOR MODE; TRANSCRIPTION REGULATION, DNA BINDING, MOLYBDATE; HET: MOO; 2.75A {ESCHERICHIA COLI} SCOP: b.40.6.2, a.4.5.8
+WP_150103619.1	67	2M6O_A	48	0.5339	0.6688	4.092	8.3%	| Uncharacterized protein; RbpA, RNAP, Sigma factor, TRANSCRIPTION; NMR {Streptomyces coelicolor}
+WP_014524389.1	80	2QL8_A	72	0.5324	0.3410	4.337	9.7%	| Putative redox protein; Structural genomics, Joint Center for; HET: BEZ, EDO, MSE; 1.5A {Lactobacillus casei}
+WP_011791504.1	200	3JC8_Oi	186	0.5323	0.5222	6.563	6.5%	| PilA, Type IV-A pilus assembly; motor, pilus, ring, membrane channel; HET: MEA;{Myxococcus xanthus DK 1622}
+WP_010939819.1	91	6UMM_A	91	0.5323	0.2252	3.571	14.3%	| ESX-3 secretion system protein EccE3; ESX, secretion system, type VII;{Mycobacterium smegmatis (strain ATCC 700084 / mc(2)155)}
+WP_010939985.1	275	5YJJ_B	256	0.5318	0.2548	5.198	5.5%	| Polyribonucleotide nucleotidyltransferase (E.C.2.7.7.8); polynucleotidyl phosphorylase, RNA degradation, Polyadenylation; HET: PO4; 2.2A {Staphylococcus epidermidis (strain ATCC 12228)}
+WP_010939896.1	125	6V4X_A	106	0.5311	0.4724	3.910	5.7%	| Small nuclear ribonucleoprotein Sm D3; endonuclease, active CPSF73, U7 snRNP;{Homo sapiens}
+WP_010940133.1	91	2L6Q_A	57	0.5298	0.7245	2.697	15.8%	| Head-to-tail joining protein W (GpW); gpW, fast protein folding, downhill; NMR {Enterobacteria phage lambda}
+WP_010939139.1	98	3VJF_B	97	0.5296	0.5145	4.175	7.2%	| WA20; PROTEIN DESIGN, DE NOVO PROTEIN; HET: MSE; 2.2A {synthetic construct}
+WP_014524652.1	72	2C0S_A	63	0.5292	0.5693	4.179	11.1%	| CONSERVED DOMAIN PROTEIN; TRANSFERASE, PHOSPHATASE, PHOSPHORYLATION, SPORULATION, BACILLUS; NMR {BACILLUS ANTHRACIS} SCOP: a.30.7.1
+WP_010940483.1	140	5EY0_B	137	0.5286	0.3287	3.770	10.9%	| GTP-sensing transcriptional pleiotropic repressor CodY; GTP-sensing, pleiotropic transcription regulator, TRANSCRIPTION; HET: ILE, GTP; 1.6A {Staphylococcus aureus (strain Mu3 / ATCC 700698)}
+WP_010940218.1	138	2FJC_B	137	0.5283	0.4862	4.884	5.1%	| Antigen TpF1; Mini ferritin, iron binding protein; HET: FE; 2.5A {Treponema pallidum} SCOP: a.25.1.1
+WP_010938032.1	453	3TQI_A	382	0.5280	0.4666	6.079	10.2%	| GMP synthase [glutamine-hydrolyzing] (E.C.6.3.5.2); GMP synthase, LIGASE; 2.84A {Coxiella burnetii}
+WP_010939173.1	580	1XFI_A	336	0.5279	0.8096	7.166	17.9%	| protein; STRUCTURAL GENOMICS, PROTEIN STRUCTURE INITIATIVE; 1.7A {Arabidopsis thaliana} SCOP: e.50.1.1
+WP_010939043.1	80	1JOC_A	80	0.5249	0.4091	6.986	7.5%	| Early Endosomal Autoantigen 1; FYVE domain, inositol 3-phosphate binding; HET: ITP; 2.2A {Homo sapiens} SCOP: g.50.1.1, h.1.21.1
+WP_010938331.1	169	1X91_A	151	0.5245	0.5653	3.863	7.3%	| invertase/pectin methylesterase inhibitor family protein; four-helix bundle, alpha hairpin, disulfide; 1.5A {Arabidopsis thaliana} SCOP: a.29.6.1
+WP_014524399.1	1266	7JLU_A	1160	0.5218	0.5034	8.820	9.4%	| Disease resistance protein Roq1 (E.C.3.2.2.6); Resistosome, Plant Immunity, Effector, LRR;{Nicotiana benthamiana}
+WP_010939962.1	79	2M3L_A	73	0.5212	0.5345	4.557	11.0%	| Protein E6; Papillomavirus E6 Proteins, HPV, Oncoprotein; HET: ZN; NMR {Human papillomavirus type 51}
+WP_010940668.1	112	6PFJ_T	112	0.5208	0.3899	4.322	7.1%	| AmfC protein, RNA polymerase sigma; sigma, anti-sigma, c-di-GMP, developmental switch; HET: C2E; 2.08A {Streptomyces venezuelae (strain ATCC 10712 / CBS 650.69 / DSM 40230 / JCM 4526 / NBRC 13096 / PD 04745)}
+WP_010940656.1	78	5YK5_C	74	0.5207	0.4987	4.948	17.6%	| Ragulator complex protein LAMTOR4, Ragulator; cellular signal transduction pathway, SIGNALING; 2.03A {Homo sapiens}
+WP_164561555.1	114	1RUT_X	111	0.5192	0.3665	7.462	12.6%	| Fusion protein of Lmo4 protein; b-tandem zipper, LIM domain, fusion; 1.3A {Mus musculus} SCOP: g.39.1.3
+WP_010937375.1	302	6Z34_A	297	0.5192	0.3983	6.619	10.1%	| CymD; FadL monoaromatic hydrocarbons biodegradation toluene; 2.27A {Pseudomonas putida}
+WP_164562126.1	140	4RSJ_A	132	0.5189	0.3266	3.174	8.3%	| Chromosome partition protein Smc; Smc hinge domain with coiled; 3.5A {Pyrococcus furiosus}
+WP_010937544.1	107	6VA5_A	100	0.5184	0.4635	3.383	10.0%	| TP53-binding protein 1; 53BP1, Tudor, MFP-4184, Structural Genomics; HET: QSS, SO4; 1.28A {Homo sapiens}
+WP_010938972.1	578	3BJC_A	559	0.5176	0.3823	6.336	8.4%	| cGMP-specific 3',5'-cyclic phosphodiesterase (E.C.3.1.4.35); PDE5, erectile dysfunction, inhibitor design; HET: WAN; 2.0A {Homo sapiens} SCOP: a.211.1.2
+WP_010939412.1	183	1YG2_A	147	0.5168	0.5260	4.519	9.5%	| gene activator AphA; virulence factor vibrio cholerae; 2.2A {Vibrio cholerae} SCOP: a.4.5.61
+WP_164928121.1	79	6LUI_A	77	0.5153	0.5113	5.077	10.4%	| Atherin/DNA Complex; CpG islands transcription ; 1.781A {Homo sapiens}
+WP_010939950.1	60	5E1L_A	60	0.5151	0.2017	3.328	8.3%	| Cell division protein ZapC; Z ring, cell division, Cell; 2.15A {Escherichia coli}
+WP_011176612.1	989	6DC6_C	889	0.5146	0.5048	6.935	10.5%	| Ubiquitin-like modifier-activating enzyme 1 (E.C.6.2.1.45); Ubiquitin, E1, adenylation, thioester bond; HET: POP; 3.14A {Homo sapiens}
+WP_010940106.1	233	4L3I_A	226	0.5135	0.3017	6.206	7.1%	| Protein regulator of cytokinesis 1; Spectrin, Helical, Coiled-coil, Microtubule binding; 3.6005A {Homo sapiens}
+WP_010940669.1	528	6FXY_A	474	0.5133	0.4060	7.681	9.9%	| Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3 (E.C.1.14.11.4); Lysyl Hydroxylase, Galacosyltransferase, Glucosyltransferase, Collagen; HET: NAG, GOL, UDP, AKG; 2.138A {Homo sapiens}
+WP_010938702.1	154	6S7O_E	135	0.5118	0.1780	4.109	10.4%	| Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3A (E.C.2.4.99.18); N-glycosylation, Oligosaccharyltransferase, OSTA, TRANSFERASE; HET: MAN, EGY, KZE, KZB, BMA, NAG; 3.5A {Homo sapiens}
+WP_010940069.1	469	6O3E_B	454	0.5112	0.3529	5.655	5.5%	| Catenin alpha-1; catenin, cell adhesion, actin binding; 4.001A {Mus musculus}
+WP_010940113.1	109	1J4W_A	106	0.5105	0.3784	4.444	7.5%	| FUSE binding protein/DNA Complex; SINGLE-STRANDED DNA BINDING PROTEIN, TRANSCRIPTION; NMR {Homo sapiens} SCOP: d.51.1.1
+WP_010939314.1	121	2WNY_A	109	0.5105	0.4621	4.467	9.2%	| CONSERVED PROTEIN MTH689; UNKNOWN FUNCTION, EXOSOME SUPEROPERON; 1.95A {METHANOTHERMOBACTER THERMAUTOTROPHICUS}
+WP_010937532.1	109	5LOE_A	108	0.5093	0.2805	3.319	13.9%	| GTP-sensing transcriptional pleiotropic repressor CodY; GAF, wHTH, transcriptional regulator, CodY; HET: ILE; 3.0A {Bacillus subtilis (strain 168)}
+WP_010938420.1	206	3E9I_C	127	0.5092	0.2318	4.506	7.9%	| Lysyl-tRNA synthetase (E.C.6.1.1.6); aminoacyl tRNA synthetase, LIGASE, PROTEIN; HET: XAH, 1PE; 2.2A {Bacillus stearothermophilus}
+WP_010938119.1	582	7BTP_B	495	0.5086	0.5551	6.129	8.9%	| Type-1 restriction enzyme EcoR124II specificity; Cryoelectron microscopy, Innate immune mechanism; 4.01A {Escherichia coli}
+WP_010939921.1	193	1P35_A	187	0.5077	0.3782	5.241	9.6%	| P35, 1,2-ETHANEDIOL; APOPTOSIS, P35, CELL DEATH, BACULOVIRUS; HET: PO4, EDO; 2.2A {Autographa californica nucleopolyhedrovirus} SCOP: b.28.1.1
+WP_010940099.1	109	4M70_A	105	0.5070	0.4654	4.683	8.6%	| Rx protein, Ran GTPase activating; Rx, RanGAP2, coiled coil domain; 2.103A {Solanum tuberosum}
+WP_010937706.1	262	6O60_A	246	0.5067	0.3697	5.431	6.5%	| Protein prenyltransferase alpha subunit repeat-containing; F-box, Leucine-rich repeat, GGTase subunits; 2.503A {Homo sapiens}
+WP_011793178.1	134	2BSZ_A	134	0.5065	0.2936	4.560	6.7%	| ARYLAMINE N-ACETYLTRANSFERASE 1 (E.C.2.3.1.5); ACYLTRANSFERASE, TRANSFERASE; 2.0A {RHIZOBIUM LOTI} SCOP: d.3.1.5
+WP_010938521.1	150	4JMI_A	140	0.5052	0.4192	3.592	10.7%	| Cytohesin-2; Nucleotide Exchange Factors, Arf1, SIGNALING; 1.5A {Homo sapiens}
+WP_010937571.1	184	1EF1_B	162	0.5051	0.3578	4.678	7.4%	| CRYSTAL STRUCTURE OF THE MOESIN; membrane, FERM domain, Tail domain; HET: MSE, SO4; 1.9A {Homo sapiens} SCOP: d.15.1.4, a.11.2.1, b.55.1.5
+WP_010940540.1	77	1NKP_B	75	0.5050	0.4861	4.081	6.7%	| Myc proto-oncogene protein/Max protein/DNA; TRANSCRIPTION, DNA, bHLHZ, oncogene, heterodimer; 1.8A {Homo sapiens} SCOP: a.38.1.1
+WP_014524207.1	77	5CW7_B	77	0.5049	0.4298	4.663	9.1%	| PaaA2, Plasmid stabilization protein ParE; toxin-antitoxin, toxin; HET: GOL, MSE; 2.827A {Escherichia coli O157}
+WP_010938074.1	79	2CPN_A	78	0.5048	0.4748	5.404	10.3%	| TAR RNA-binding protein 2; double-stranded RNA binding domain, dsRBD; NMR {Homo sapiens} SCOP: d.50.1.1
+WP_010938371.1	220	6EZN_H	198	0.5047	0.4213	5.037	9.1%	| Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1 (E.C.2.4.99.18); OST complex, oligosaccharyltransferase, N-linked glycosylation; HET: NAG, BMA, CPL, PTY, MAN;{Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+WP_010938650.1	122	3FB2_B	111	0.5042	0.3396	3.443	3.6%	| Spectrin alpha chain, brain spectrin; Spectrin alpha chain, brain spectrin; 2.3A {Homo sapiens}
+WP_164928119.1	58	6BVA_E	45	0.5040	0.5799	5.052	4.4%	| S-phase kinase-associated protein 1, Lysine-specific; Ubiquitination, PROTEIN BINDING; 2.66A {Homo sapiens}
+WP_164928116.1	326	4GW9_A	308	0.5037	0.3037	4.291	9.7%	| bacteriophytochrome (E.C.2.7.13.3); PHOTORECEPTOR, PAS/PAC SENSOR, BACTERIOPBHYTOCHROME, BACTERIOPHYTOCHROME; HET: BLA, MSE; 2.9A {Rhodopseudomonas palustris}
+WP_010940584.1	109	4GGT_B	105	0.5026	0.4865	4.854	3.8%	| Bradavidin 2; bradavidin, avidin, oligomeric state, streptavidin; 1.693A {Bradyrhizobium japonicum}
+WP_010939040.1	79	1YSM_A	71	0.5024	0.5114	3.573	9.9%	| Calcyclin-binding protein; helix-turn-helix, Metal Binding Protein; NMR {Mus musculus} SCOP: a.2.16.1
+WP_010940532.1	222	3ZQB_A	217	0.5017	0.4045	5.342	7.4%	| PROTEIN PRGI, CELL INVASION PROTEIN; CELL INVASION, TYPE III SECRETION; HET: GOL; 2.4A {SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR TYPHIMURIUM}
+WP_014524297.1	180	4IYK_A	155	0.5011	0.4215	5.639	14.2%	| Uncharacterized protein; PF12866 family protein, DUF3823, putative; HET: EDO; 2.0A {Bacteroides uniformis}
+WP_014524400.1	470	6UPV_M	459	0.5006	0.3163	6.293	8.9%	| Catenin alpha-1, Actin, alpha skeletal; alpha-catenin, catenin, actin, mechanobiology, mechanosensing; HET: HIC, ADP; 3.2A {Gallus gallus}
+WP_010939980.1	109	2OUT_A	107	0.5001	0.4319	5.576	14.0%	| Mu-like prophage FluMu protein gp35; structural genomics, Haemophilus influenzae, hypothetical; NMR {Haemophilus influenzae} SCOP: d.344.1.1, a.140.3.2
+WP_010939990.1	446	5UE8_A	424	0.4998	0.2887	6.129	7.8%	| Protein unc-13 homolog A; ALPHA HELICAL, NEUROTRANSMITTER RELEASE, SNARE; 3.35A {Rattus norvegicus}
+WP_010938812.1	328	6VKL_H	299	0.4997	0.2743	5.138	6.0%	| Exocyst complex component SEC3, Exocyst; EXOCYST, COILED-COIL, EXOCYTOSIS; 4.4A {Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+WP_010938817.1	330	1W7P_D	320	0.4990	0.3437	7.467	10.3%	| VPS22, YPL002C, VPS25, YJR102C, VPS36P; ESCRT-II COMPLEX, ENDOSOMAL PROTEIN SORTING; 3.6A {SACCHAROMYCES CEREVISIAE} SCOP: a.4.5.54
+WP_010939872.1	135	3LXR_F	134	0.4971	0.3957	4.161	2.2%	| Transforming protein RhoA, IpgB2; IpgB2, RhoA, GTPase, GEF, GEF-GTPase-complex; HET: GDP, SO4; 1.68A {Homo sapiens}
+WP_010939734.1	527	6F38_n	504	0.4970	0.2373	5.428	8.9%	| ARP1 actin related protein 1; TDH, DDH, Complex, dynein/dynactin/HOOK3, MOTOR; HET: ATP, ADP;{Sus scrofa}
+WP_010938151.1	248	7JU4_A	248	0.4952	0.1897	6.218	10.1%	| Dynein regulatory complex subunit 4; cilia, native, complex, microtubule, mechanoregulation; HET: GTP, GDP, ATP, MG; 3.4A {Chlamydomonas reinhardtii}
+WP_164928120.1	83	2L0K_A	75	0.4920	0.4587	3.537	6.7%	| Stage III sporulation protein D; SpoIIID, NMR solution structure, DNA; NMR {Bacillus subtilis}
+WP_010939470.1	85	2BV6_A	79	0.4911	0.3362	3.696	7.6%	| HTH-TYPE TRANSCRIPTIONAL REGULATOR MGRA; TRANSCRIPTIONAL REGULATOR, MULTIDRUG RESISTANCE REGULATOR; 2.8A {STAPHYLOCOCCUS AUREUS} SCOP: a.4.5.28
+WP_010938434.1	79	1YXB_G	77	0.4911	0.4296	3.401	7.8%	| Phosphoribosyl-ATP pyrophosphatase (E.C.3.6.1.31); Phosphoribosyl-ATP pyrophosphatase, Structural Genomics, PSI; HET: MSE; 2.6A {Streptomyces coelicolor} SCOP: a.204.1.4
+WP_010937346.1	57	5C39_A	50	0.4911	0.5093	3.437	6.0%	| P0 Manganese cluster peptide; Manganese cofactors, Mn4Ca cluster, DE; 1.751A {synthetic construct}
+WP_011792157.1	74	2D8D_A	68	0.4897	0.4378	3.621	11.8%	| phospho-2-dehydro-3-deoxyheptonate aldolase/chorismate mutase(E.C.5.4.99.5); Chorismate, Dimer, Structural Genomics, NPPSFA; 1.15A {Thermus thermophilus} SCOP: a.130.1.1
+WP_010938073.1	115	4DOK_B	112	0.4897	0.3185	3.658	6.2%	| Similarity to chalcone-flavonone isomerase; chalcone-isomerase like protein, chalcone-isomerase like; 1.7A {Arabidopsis thaliana}
+WP_010938777.1	112	3F1I_H	98	0.4892	0.5298	4.846	12.2%	| Hepatocyte growth factor-regulated tyrosine kinase; HGS, STAM, ESCRT, ubiquitin, MVB; 2.3A {Homo sapiens}
+WP_010940013.1	1014	6F38_n	916	0.4886	0.3793	6.867	9.0%	| ARP1 actin related protein 1; TDH, DDH, Complex, dynein/dynactin/HOOK3, MOTOR; HET: ATP, ADP;{Sus scrofa}
+WP_164928114.1	524	6V8I_AF	510	0.4880	0.2815	5.292	8.6%	| Distal Tail Protein, gp58, Tail-Associated; phage tail, tail tip, tape; 3.7A {Staphylococcus virus 80alpha}
+WP_010939862.1	112	3F1I_H	98	0.4873	0.5276	4.845	12.2%	| Hepatocyte growth factor-regulated tyrosine kinase; HGS, STAM, ESCRT, ubiquitin, MVB; 2.3A {Homo sapiens}
+WP_010939323.1	533	1YVR_A	466	0.4865	0.4831	6.227	9.4%	| 60-kDa SS-A/Ro ribonucleoprotein/RNA complex; HEAT repeat von Willebrand; 1.95A {Xenopus laevis} SCOP: a.118.25.1, c.62.1.5
+WP_010939001.1	211	6TPI_A	211	0.4860	0.3338	4.941	10.4%	| Murein hydrolase activator EnvC, Cell; Complex, PROTEIN BINDING; 2.1A {Escherichia coli (strain K12)}
+WP_011792318.1	157	2WJY_A	138	0.4859	0.1338	3.986	11.6%	| REGULATOR OF NONSENSE TRANSCRIPTS 1; NONSENSE MEDIATED DECAY, ZINC-FINGER, ATP-BINDING; HET: SO4; 2.5A {HOMO SAPIENS}
+WP_014524532.1	350	5JSD_A	311	0.4858	0.2767	6.802	10.0%	| phiAB6 tailspike; viral tailspike, beta-helix, superhelical trimer; HET: 1GN, 6PZ, GAL, BGC, MLA, ACY; 1.48A {unidentified phage}
+WP_014524579.1	524	6V8I_AF	508	0.4844	0.2792	5.309	11.0%	| Distal Tail Protein, gp58, Tail-Associated; phage tail, tail tip, tape; 3.7A {Staphylococcus virus 80alpha}
+WP_010940097.1	64	5Z1V_D	59	0.4844	0.4844	3.826	10.2%	| AvrPib protein; Magnaporthe oryzae, MAX effector, protein; HET: MSE; 1.661A {Magnaporthe oryzae}
+WP_010938833.1	133	6NOY_A	128	0.4843	0.4250	3.423	7.8%	| Cobyrinic acid ac-diamide synthase, McdB; McdB, McdA, carboxysome, BMC, ParB-like; HET: MSE; 3.46A {Cyanothece}
+WP_010939608.1	516	2C1I_A	391	0.4824	0.5566	5.799	11.5%	| PEPTIDOGLYCAN GLCNAC DEACETYLASE (E.C.3.5.1.33); CE-4, CARBOHYDRATE ESTERASE, PEPTIDOGLYCAN DEACETYLASE; HET: MES; 1.35A {STREPTOCOCCUS PNEUMONIAE} SCOP: d.341.1.1, c.6.2.3
+WP_010939826.1	122	5CEG_C	93	0.4820	0.5937	4.155	7.5%	| Addiction module antidote protein, CopG/Arc/MetJ; Toxin Anti-toxin, TOXIN; HET: GOL; 1.59A {Mesorhizobium opportunistum (strain LMG 24607 / HAMBI 3007 / WSM2075)}
+WP_010939458.1	243	6IXE_A	224	0.4818	0.5015	5.064	10.3%	| SH3 domain-binding protein 5; Rab11, GEF, SH3BP5, SIGNALING PROTEIN; HET: MSE; 3.35A {Homo sapiens}
+WP_010938326.1	323	7D68_R	295	0.4808	0.2763	7.381	10.8%	| Guanine nucleotide-binding protein G(s) subunit; Glucagon-like peptide-2 receptor, Drug target;{Bos taurus}
+WP_014524323.1	113	6QVH_A	108	0.4802	0.4504	4.688	4.6%	| cytosolic copper storage protein; Copper, Streptomyces lividans, storage, homeostasis; HET: CU1; 1.28A {Streptomyces lividans 1326}
+WP_010939305.1	179	4ETX_A	167	0.4802	0.3352	3.552	5.4%	| PelD; c-di-GMP, SIGNALING PROTEIN; 2.0A {Pseudomonas aeruginosa}
+WP_010939597.1	140	4O8A_A	139	0.4801	0.1457	3.168	7.9%	| Bifunctional protein PutA (E.C.1.5.99.8, 1.2.1.88); flavoenzyme, proline dehydrogenase, PutA, proline; HET: FAD, PG4; 2.0A {Escherichia coli}
+WP_010940130.1	115	6U0M_B	115	0.4790	0.3196	6.212	7.0%	| replicative CMG helicase; DNA replication, CMG-Mcm10, REPLICATION-DNA complex; HET: ATP; 3.9A {Saccharomyces cerevisiae}
+WP_010937461.1	98	2LD3_A	86	0.4782	0.5033	4.211	7.0%	| Myosin VI; molecular motor, myosin VI, lever; NMR {Mus musculus}
+WP_014524394.1	588	5U89_A	577	0.4781	0.3130	3.858	6.9%	| Amino acid adenylation domain protein; nonribosomal peptide synthetase, MbtH-like protein; HET: MJ8; 3.075A {Geobacillus sp.}
+WP_010937444.1	240	5CWO_B	225	0.4781	0.4893	4.944	12.4%	| Designed helical repeat protein; helical repeat protein, DE NOVO; 3.35A {synthetic construct}
+WP_010940586.1	91	5KS6_A	91	0.4780	0.4118	3.751	8.8%	| Flagellar protein FliT; Flagella, chaperones, assembly factors, CHAPERONE; NMR {Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)}
+WP_010938799.1	116	1L0M_A	114	0.4778	0.3264	3.463	7.0%	| bacteriorhodopsin; Bacteriorhodopsin, alternative method for structure; NMR {N/A} SCOP: f.13.1.1
+WP_164928126.1	155	3HK0_A	146	0.4765	0.3460	3.802	8.2%	| Growth factor receptor-bound protein 10; Grb10, RA, PH, Ras-associating, pleckstrin-homology; 2.6A {Homo sapiens}
+WP_010940664.1	94	6WT4_B	93	0.4754	0.3405	3.976	15.1%	| Bacterial STING (Flavobacteriaceae sp.)/RNA Complex; CBASS, cyclic dinucleotide receptor, CD-NTase; HET: SO4, 4BW; 1.78A {Flavobacteriaceae}
+WP_010940096.1	121	1UTY_A	114	0.4739	0.3562	3.568	9.6%	| NON-STRUCTURAL PROTEIN 2 (E.C.2.7.7.48); VIRAL PROTEIN, RNA BINDING PROTEIN; 2.4A {BLUETONGUE VIRUS} SCOP: b.147.1.1
+WP_010937548.1	129	5U0P_R	123	0.4733	0.3556	4.096	6.5%	| Mediator complex subunit 14, Mediator; transcription, transcriptional, Mediator, Head, Middle; 4.4A {Schizosaccharomyces pombe}
+WP_010940614.1	139	7BBD_B	136	0.4715	0.4224	6.068	10.3%	| Polyubiquitin-B,E3 ubiquitin-protein ligase TRIM21 (E.C.2.3.2.27); E3 ubiquitin ligase, E2 conjugating; 2.2A {Homo sapiens}
+WP_010940671.1	305	4ZBY_A	174	0.4706	0.7092	5.582	9.2%	| uracil-DNA glycosylase (E.C.3.2.2.27); Uracil-DNA glycosylase, DNA repair, HYDROLASE; HET: MES; 1.7A {Sulfolobus tokodaii str. 7}
+WP_011792913.1	88	3REB_D	80	0.4702	0.4637	4.199	16.2%	| Protein Nef, Tyrosine-protein kinase HCK; HIV-1 Nef, SH3 domain binding; 3.45A {HIV-1 M:B_ARV2/SF2}
+WP_010939329.1	432	5OQM_l	411	0.4697	0.3244	5.153	4.9%	| Mediator of RNA polymerase II; transcription initiation, TRANSCRIPTION, macromolecular complex; HET: ZN; 5.8A {Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+WP_014524401.1	328	6RKW_B	327	0.4691	0.2498	5.393	11.3%	| DNA gyrase subunit A, DNA; Isomerase, Complex, DNA Gyrase, Inhibitor; HET: ANP, JHN; 6.6A {Escherichia coli (strain K12)}
+WP_150103628.1	303	6K8N_C	300	0.4683	0.2702	5.385	8.7%	| topoisomerase III; DNA BINDING Protein, Topoisomerase III; 2.1A {Saccharolobus solfataricus}
+WP_010939686.1	586	7JSN_B	509	0.4683	0.3577	6.319	8.6%	| Rod cGMP-specific 3',5'-cyclic phosphodiesterase subunit; G protein, G protein-effector complex; HET: VDN, GTP, 35G;{Bos taurus}
+WP_010938304.1	406	6F1U_f	400	0.4682	0.2168	4.095	7.5%	| ARP1 actin related protein 1; Cryo-EM, Complex, MOTOR PROTEIN, Cargo; HET: ADP;{Sus scrofa}
+WP_010939469.1	229	6R3E_B	204	0.4680	0.4098	4.218	6.4%	| DNA (cytosine-5)-methyltransferase 3B,DNA (cytosine-5)-methyltransferase 3B; DNMT3B PWWP DOMAIN, HISTONE BINDING; HET: SO4, 96H; 2.269A {Homo sapiens}
+WP_010940027.1	61	2F66_A	60	0.4669	0.4579	4.129	15.0%	| Vps23C, Vps28N, Vps37C; Endosome, Trafficking complex, Vps23, Vps28; HET: SO4; 2.8A {Saccharomyces cerevisiae} SCOP: a.2.17.1
+WP_014524380.1	202	1DE4_G	184	0.4662	0.3810	4.551	5.4%	| HEMOCHROMATOSIS PROTEIN/BETA-2-MICROGLOBULIN/TRANSFERRIN RECEPTOR; HFE, HEREDITARY HEMOCHROMATOSIS, MHC CLASS; HET: NAG; 2.8A {Homo sapiens} SCOP: b.1.1.2, d.19.1.1
+WP_014524246.1	130	5EIU_D	123	0.4662	0.4478	4.565	5.7%	| Tripartite motif-containing protein 5,Serine--tRNA ligase,Tripartite; tripartite motif, HIV, viral restriction; 1.908A {Macaca mulatta}
+WP_010939993.1	149	1ISE_A	134	0.4661	0.4086	5.166	7.5%	| Ribosome Recycling Factor; Translation; 2.2A {Escherichia coli} SCOP: d.67.3.1
+WP_010939113.1	90	6Y17_C	75	0.4650	0.4910	5.237	9.3%	| Nuclear receptor corepressor 1,B-cell lymphoma; BCL6, NCoR1., TRANSCRIPTION; 1.56A {Homo sapiens}
+WP_010938372.1	308	3W1E_A	299	0.4636	0.4131	5.325	9.4%	| Flagella basal-body protein; H-ring formation, the flagellar basal; 2.0A {Vibrio alginolyticus}
+WP_010938292.1	240	6CB1_I	231	0.4636	0.4074	5.260	8.2%	| pre-60S ribosomal subunit; Pre-60S, ribosome biogenesis, LSU processome; 4.6A {Saccharomyces cerevisiae BY4741}
+WP_010937503.1	243	6R6H_O	207	0.4617	0.2008	3.225	7.7%	| COP9 signalosome complex subunit 1; Cullin-Ring E3 Ligase COP9 Signalosome; 8.4A {Homo sapiens}
+WP_010939451.1	225	5F5W_A	212	0.4602	0.3829	4.602	9.4%	| Glycine--tRNA ligase alpha subunit (E.C.6.1.1.14); class II tRNA synthetase, LIGASE; HET: G5A; 2.81A {Aquifex aeolicus (strain VF5)}
+WP_014524278.1	229	4F54_A	177	0.4599	0.5149	4.415	6.8%	| Uncharacterized protein; PF13590 family protein, DUF4136, Structural; HET: SO4; 1.6A {Bacteroides thetaiotaomicron}
+WP_010938985.1	122	3HNW_A	105	0.4599	0.4282	4.647	5.7%	| uncharacterized protein; coiled-coil, Structural Genomics, PSI-2, Protein; HET: MSE, GOL; 2.196A {Eubacterium eligens}
+WP_010938830.1	174	2P03_A	165	0.4588	0.3010	4.461	6.7%	| Alpha-2-macroglobulin receptor-associated protein; receptor-associated protein, RAP, CELL ADHESION; NMR {Homo sapiens}
+WP_010938370.1	196	4JAV_A	196	0.4585	0.3826	4.376	6.6%	| Histidine kinase (E.C.2.7.13.3), Response regulator; Bergerat fold, Four helix bundle; HET: ADP, SO4; 3.1A {Thermotoga maritima}
+WP_014524588.1	299	5DXH_D	284	0.4575	0.1748	4.273	8.1%	| Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit; lipid kinase, Transferase-Transferase Inhibitor complex; HET: 5H2; 3.0A {Homo sapiens}
+WP_014524689.1	826	4W8J_A	808	0.4572	0.3622	5.066	9.0%	| Cry1Ac insecticidal protein; toxin, insecticidal, pore forming, protoxin; 2.78A {Bacillus thuringiensis serovar kurstaki str. HD73}
+WP_164561746.1	73	3PO2_H	73	0.4549	0.2961	4.137	15.1%	| DNA-directed RNA polymerase II subunit; RNA Polymerase II, mRNA, Transcription; HET: EPE; 3.3A {Saccharomyces cerevisiae}
+WP_014524543.1	183	6PYR_A	179	0.4548	0.1263	2.990	9.5%	| Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit; PI3Kdelta kinase, transferase, TRANSFERASE-TRANSFERASE INHIBITOR; HET: P5J; 2.21A {Homo sapiens}
+WP_014524556.1	97	1AM9_C	74	0.4545	0.5217	3.198	5.4%	| STEROL REGULATORY ELEMENT BINDING(STRE)/DNA COMPLEX; STEROL REGULATORY ELEMENT BINDING PROTEIN; 2.3A {Homo sapiens} SCOP: a.38.1.1
+WP_010939559.1	170	6GV8_A	158	0.4545	0.4545	3.666	7.6%	| Hyperosmolarity resistance protein Emb; EMBP, Staphylococcus epidermidis, FG-repeat, CELL; 1.394A {Staphylococcus epidermidis}
+WP_010937511.1	106	6XTY_B	106	0.4526	0.2950	5.683	12.3%	| DNA replication licensing factor MCM2; CMG, Helicase, ATPase, Replisome, REPLICATION; 6.77A {Homo sapiens}
+WP_010939015.1	116	1L0M_A	114	0.4523	0.3136	3.450	7.0%	| bacteriorhodopsin; Bacteriorhodopsin, alternative method for structure; NMR {N/A} SCOP: f.13.1.1
+WP_010937941.1	288	4W8P_A	265	0.4517	0.4400	5.054	7.5%	| talin R7R8, Rap1-GTP-interacting adapter molecule; Talin, rod domains, R7R8, R8; 1.5A {Mus musculus}
+WP_010939151.1	46	2Z1A_A	45	0.4514	0.0723	5.289	15.6%	| 5'-nucleotidase (E.C.3.1.3.5); nucleotidase, Metal-binding, Nucleotide-binding, Hydrolase, Structural; HET: THM; 1.75A {Thermus thermophilus} SCOP: d.114.1.1, d.159.1.2
+WP_010938333.1	261	6QL4_B	261	0.4512	0.1809	4.130	10.3%	| Putative mitochondrial dynamin protein; Mitochondrial genome maintenance 1 protein; HET: MSE; 3.6A {Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719)}
+WP_010940137.1	240	6XNS_E	236	0.4507	0.3600	3.965	9.3%	| C3_crown-05; HELICAL BUNDLE REPEAT PROTEIN, DE; 3.19A {synthetic construct}
+WP_011792331.1	161	4HYN_B	153	0.4504	0.3940	5.817	10.5%	| CheC, inhibitor of MCP methylation; CheC like domain, Phosphatase, SIGNALING; HET: MSE; 2.5A {Thermotoga maritima}
+WP_010939903.1	83	6QLZ_A	76	0.4499	0.4102	4.949	10.5%	| E3 ubiquitin-protein ligase MYLIP (E.C.2.3.2.27); E3 LIGASE CHOLESTEROL METABOLISM LDLR; 2.343A {Homo sapiens}
+WP_011792600.1	81	2BZB_B	62	0.4492	0.5205	3.519	4.8%	| CONSERVED DOMAIN PROTEIN; TRANSFERASE, PHOSPHATASE, PHOSPHORYLATION, SPORULATION, BACILLUS; NMR {BACILLUS ANTHRACIS} SCOP: a.30.7.1
+WP_010939438.1	236	5LLY_C	232	0.4492	0.2576	3.063	8.2%	| Diguanylate cyclase (GGDEF) domain-containing protein; bacteriophytochrome, diguanylate cyclase, light-regulation, c-di-GMP; HET: GOL, LBV; 2.4A {Idiomarina sp. A28L}
+WP_010938714.1	153	4NBQ_B	139	0.4468	0.1379	3.175	10.8%	| Polyribonucleotide nucleotidyltransferase (E.C.2.7.7.8); Phosphorylase, TRANSFERASE; HET: MSE, SO4; 2.9138A {Coxiella burnetii}
+WP_010938318.1	406	3KD4_A	353	0.4452	0.3751	8.115	7.6%	| Putative protease; PUTATIVE PROTEASE, STRUCTURAL GENOMICS, JOINT; HET: GOL, MSE, PO4; 2.0A {Parabacteroides distasonis ATCC 8503}
+WP_014524461.1	79	1SGV_A	67	0.4447	0.1499	3.743	9.0%	| tRNA pseudouridine synthase B (E.C.4.2.1.70); Hinged motion, tRNA modification, Structural; 1.9A {Mycobacterium tuberculosis} SCOP: b.122.1.1, d.265.1.2
+WP_164928129.1	83	2WVF_B	80	0.4442	0.3133	3.916	2.5%	| PUTATIVE NICKEL-RESPONSIVE REGULATOR; TRANSCRIPTION FACTOR, TRANSCRIPTION REGULATION, RHH; HET: SO4, GOL, FMT; 1.6A {HELICOBACTER PYLORI}
+WP_014524645.1	138	2KDX_A	111	0.4438	0.4859	6.501	11.7%	| Hydrogenase/urease nickel incorporation protein hypA; metallochaperone, hydrogenase, Metal-binding, Nickel, METAL-BINDING; HET: ZN; NMR {Helicobacter pylori}
+WP_010937679.1	230	1KI1_D	229	0.4431	0.3381	4.471	7.4%	| G25K GTP-binding protein, placental isoform/intersectin; Protein-Protein complex, DH domain, PH; HET: SO4; 2.3A {Homo sapiens} SCOP: b.55.1.1, a.87.1.1
+WP_010939901.1	78	4YON_A	72	0.4427	0.1167	4.122	4.2%	| pREX1, Rac1(G12V); Protein binding; 1.95A {Homo sapiens}
+WP_010938424.1	157	5L0F_A	156	0.4423	0.4151	4.463	11.5%	| Vinculin; 5-Helix bundle, cytoskelatal protein, phospholipids; HET: GOL; 2.76A {Homo sapiens}
+WP_081448125.1	118	1J7K_A	112	0.4422	0.2251	5.351	8.9%	| HOLLIDAY JUNCTION DNA HELICASE RUVB; AAA+-Class ATPase, Winged-Helix Domain, DNA; HET: ATP; 1.8A {Thermotoga maritima} SCOP: c.37.1.20, a.4.5.11
+WP_010939277.1	331	5FB9_A	256	0.4421	0.5168	5.685	9.4%	| Nuclease S1 (E.C.3.1.30.1); Endonuclease, Zinc dependent, hydrolase; HET: BTB, NAG; 1.5A {Aspergillus oryzae RIB40}
+WP_014524383.1	389	5XZC_A	378	0.4403	0.3252	5.085	7.1%	| Histone acetyltransferase p300 (E.C.2.3.1.48), p53; transcription factor, autoacetylation, allosteric interaction; 10.7A {Homo sapiens}
+WP_010937627.1	86	6DLC_A	83	0.4401	0.3790	3.623	10.8%	| Designed protein DHD1:234_A, Designed protein; Computational Design, Heterodimer, Coiled-coil, DE; 3.261A {synthetic construct}
+WP_014524456.1	45	3BPQ_A	45	0.4397	0.4244	3.769	6.7%	| Antitoxin RelB3, Toxin RelE3 (E.C.3.1.-.-); protein toxin-antitoxin complex, TOXIN; 2.2A {Methanocaldococcus jannaschii}
+WP_010940601.1	389	6T36_A	376	0.4395	0.2454	3.725	11.4%	| Tyrosine-protein phosphatase non-receptor type 3; PDZ domain, HBV core, HBV; 1.86A {Homo sapiens}
+WP_014524322.1	96	1S05_A	96	0.4380	0.3669	3.896	7.3%	| Cytochrome c-556; THIS IS A MODEL OBTAINED; HET: HEM; NMR {Rhodopseudomonas palustris} SCOP: a.24.3.2
+WP_014524572.1	73	6BT4_A	71	0.4333	0.2164	4.571	11.3%	| S-layer protein sap; S-layer homology domain, Secondary cell; HET: SO4, KPM; 2.306A {Bacillus anthracis}
+WP_010938946.1	99	1MMO_D	99	0.4331	0.1227	6.292	7.1%	| METHANE MONOOXYGENASE HYDROLASE (E.C.1.14.13.25) (METHANE; OXIDOREDUCTASE (MONOOXYGENASE); 2.2A {Methylococcus capsulatus} SCOP: a.25.1.2
+WP_010937564.1	184	1PWB_B	169	0.4313	0.4411	4.719	5.3%	| Pulmonary surfactant-associated protein D; collectin, c-type lectin, alpha-helical coiled; HET: GLC; 1.4A {Homo sapiens} SCOP: h.1.1.1, d.169.1.1
+WP_014524324.1	88	5VNM_C	86	0.4299	0.2987	4.564	9.3%	| Protein transport protein Sec23A, Protein; COPII, Trafficking, p24, ER retention; HET: CLT; 2.765A {Homo sapiens}
+WP_010939229.1	77	3ON0_D	76	0.4288	0.3221	3.828	17.1%	| TraM/DNA complex; DNA binding protein, DNA Protein-DNA; 2.874A {Escherichia coli}
+WP_010939792.1	200	1KZG_A	200	0.4286	0.2985	4.289	8.0%	| GUANINE NUCLEOTIDE EXCHANGE FACTOR DBS/CDC42; guanine nucleotide exchange factor, small; 2.6A {Mus musculus} SCOP: b.55.1.1, a.87.1.1
+WP_010939166.1	213	2X9Q_B	211	0.4274	0.3517	4.671	12.3%	| CYCLODIPEPTIDE SYNTHETASE; LIGASE; HET: MSE; 2.02A {MYCOBACTERIUM TUBERCULOSIS}
+WP_010938665.1	290	6XBW_G	256	0.4267	0.3557	5.551	6.6%	| V-type proton ATPase catalytic subunit; PROTON TRANSPORT; HET: ADP, POV, OLA, NAG; 3.37A {Bos taurus}
+WP_010938517.1	81	4F14_A	62	0.4260	0.4847	5.400	8.1%	| Nebulette, Xin actin-binding repeat-containing protein; SH3 domain, heart muscle, ACTIN-BINDING; 1.2A {Homo sapiens}
+WP_010939875.1	99	5OS9_B	94	0.4251	0.3716	3.320	6.4%	| B3 domain-containing transcription factor NGA1; Transcription factor B3 DNA binding; HET: CME; 1.8A {Arabidopsis thaliana}
+WP_010939016.1	138	4KT3_A	104	0.4242	0.3576	3.638	7.7%	| Uncharacterized protein, Putative lipoprotein; Glycoside hydrolase, Hydrolase, PFL_3036; 1.4362A {Pseudomonas protegens}
+WP_010938815.1	342	3LMM_D	327	0.4229	0.2966	3.563	8.6%	| Uncharacterized protein; multi-domained alpha-beta protein, Structural Genomics; 3.0A {Corynebacterium diphtheriae}
+WP_014524293.1	82	6NY2_Y	81	0.4228	0.0609	4.471	13.6%	| CasX/DNA/RNA Complex; CasX, sgRNA, target DNA, CRISPR; 3.2A {Deltaproteobacteria bacterium}
+WP_010938800.1	135	2ZBK_B	113	0.4215	0.1473	3.411	13.3%	| Type II DNA topoisomerase VI; DNA topoisomerase, DNA binding protein; HET: RDC; 3.56A {Sulfolobus shibatae}
+WP_014524680.1	124	6IWW_C	72	0.4211	0.1391	4.130	31.9%	| Oxaloacetate decarboxylase beta chain (E.C.7.2.4.2); membrane protein, sodium pump, decarboxylase; HET: LMT; 3.9A {Salmonella enterica subsp. enterica serovar Typhimurium}
+WP_010939407.1	220	4XXX_A	217	0.4211	0.3673	4.737	7.4%	| EspB; ESX-1, type VII secretion system; HET: GOL; 1.5A {Mycobacterium tuberculosis}
+WP_010938417.1	316	6U5Z_B	286	0.4201	0.2225	5.628	9.8%	| Lon protease (E.C.3.4.21.53); Lon protease, hexamer, HYDROLASE;{Escherichia coli}
+WP_014524569.1	173	3NKU_A	164	0.4197	0.3692	4.643	9.8%	| DrrA; POSTTRANSLATIONAL MODIFICATION, AMPYLATION, ADENYLYLATION, RAB1B; HET: PGE, MSE; 2.1A {Legionella pneumophila subsp. pneumophila}
+WP_150103627.1	214	5ZWN_X	204	0.4191	0.2075	4.707	9.3%	| U1 small nuclear ribonucleoprotein 70; spliceosme, assemply, pre-B complex, U1; 3.3A {Saccharomyces cerevisiae S288c}
+WP_014524319.1	162	6PPS_B	160	0.4147	0.2936	4.239	4.4%	| Blue-light-activated histidine kinase (E.C.2.7.13.3); Brucella abortus, LOV domain, sensor; HET: FMN; 2.8A {Brucella abortus (strain 2308)}
+WP_014524482.1	159	5KL4_A	85	0.4146	0.6349	4.376	15.3%	| Wilms tumor protein/DNA Complex; Wilms Tumor Protein, WT1, zinc; HET: 5CM, EDO, 5FC; 1.783A {Homo sapiens}
+WP_014524220.1	301	4MKM_A	291	0.4138	0.3734	4.693	8.9%	| Putative surface anchored protein; IgG-like fold, internal ester crosslink; 1.75A {Clostridium perfringens B}
+WP_010938030.1	151	4OPX_F	146	0.4137	0.1785	3.552	8.9%	| Poly [ADP-ribose] polymerase 1; zinc finger, DNA binding, PARP; HET: 2UR; 3.314A {Homo sapiens}
+WP_041722649.1	61	1Y71_B	61	0.4128	0.2505	4.211	16.4%	| Kinase-associated protein B; structural genomics, kinase-associated protein B; 1.95A {Bacillus cereus} SCOP: b.34.16.1
+WP_010938834.1	75	3UUL_A	73	0.4107	0.3369	3.764	6.8%	| utrophin; spectrin repeat, structural protein, utrophin; 1.95A {Rattus norvegicus}
+WP_010940198.1	390	4BKW_A	364	0.4084	0.3382	5.002	8.5%	| ZINC FINGER FYVE DOMAIN-CONTAINING PROTEIN; RECEPTOR, PROTEIN INTERACTION DOMAIN, TGF-BETA; HET: EDO, PG4; 2.53A {HOMO SAPIENS}
+WP_010938206.1	979	6ELZ_w	830	0.4076	0.4521	4.725	8.6%	| 60S ribosomal protein L13-A, 60S; Large Subunit Biogenesis Nucleolus, RIBOSOME; 3.3A {Saccharomyces cerevisiae}
+WP_014524625.1	42	6GMA_E	42	0.4051	0.1895	2.733	19.0%	| RB1-inducible coiled-coil protein 1; autophagy, cold-shock domain, claw domain; 3.2A {Homo sapiens}
+WP_010940659.1	419	4OOJ_A	404	0.4047	0.3193	4.498	9.9%	| SidC, interaptin; novel fold, Legionella effector, Legionella; HET: PEG; 2.4A {Legionella pneumophila}
+WP_011176581.1	1131	6V8I_AF	1064	0.4020	0.3975	6.020	7.3%	| Distal Tail Protein, gp58, Tail-Associated; phage tail, tail tip, tape; 3.7A {Staphylococcus virus 80alpha}
+WP_010940662.1	121	2GS4_A	108	0.4017	0.3283	3.712	10.2%	| Protein yciF; STRESS PROTEINS, RUBRERYTHRIN, Metal Binding; 2.0A {Escherichia coli} SCOP: a.25.1.4
+WP_011792423.1	149	2V0P_B	145	0.3990	0.2996	4.295	5.5%	| TYPE 2A PHOSPHATASE-ASSOCIATED PROTEIN 42; PHOSPHORYLATION, SIGNAL TRANSDUCTION INHIBITOR, HYDROLASE; HET: MSE; 1.8A {SACCHAROMYCES CEREVISIAE}
+WP_010940303.1	293	4QN4_A	263	0.3982	0.3336	4.671	11.8%	| Neuraminidase; 6-BLADED BETA-PROPELLER, HYDROLASE, CALCIUM BINDING; HET: MPD, BMA, MAN, GOL, NAG; 1.8A {Influenza A virus (A/chicken/Nanchang/7-010/2000(H3N6))}
+WP_010938411.1	126	2CBL_A	126	0.3981	0.2193	4.373	7.1%	| PROTO-ONCOGENE CBL, ZAP-70; PROTO-ONCOGENE, SIGNAL TRANSDUCTION, PHOSPHOTYROSINE BINDING; HET: PTR; 2.1A {Homo sapiens} SCOP: a.39.1.7, d.93.1.1, a.48.1.1
+WP_010940100.1	112	2ZDI_C	111	0.3944	0.3442	4.354	13.5%	| Prefoldin subunit beta, Prefoldin subunit; CHAPERONE, PREFOLDIN; HET: SO4; 3.0A {Pyrococcus horikoshii}
+WP_014524179.1	284	6TUT_O	256	0.3942	0.2263	4.764	9.4%	| DNA-directed RNA polymerase III subunit; Transcription, RNA Polymerase III, Pol; 3.25A {Saccharomyces cerevisiae S288C}
+WP_010940531.1	130	2XV9_A	99	0.3937	0.3868	3.573	16.2%	| ABA-1A1 REPEAT UNIT; LIPID BINDING PROTEIN, FATTY ACID; NMR {ASCARIS SUUM}
+WP_014524348.1	161	5FLV_M	156	0.3931	0.2649	4.155	4.5%	| HOMEOBOX PROTEIN NKX-2.5, T-BOX TRANSCRIPTION; TRANSCRIPTION; HET: PG4; 3.005A {MUS MUSCULUS}
+WP_010940233.1	59	7K6B_A	57	0.3921	0.2530	3.221	15.8%	| Isoform 15 of Dysferlin; membrane repair, calcium-binding, beta-sandwich, MEMBRANE; NMR {Homo sapiens}
+WP_010938426.1	137	2B9C_A	133	0.3897	0.3783	4.768	11.3%	| striated-muscle alpha tropomyosin; alpha-helix, coiled coil, alanine, axial; 2.3A {Rattus norvegicus} SCOP: h.1.5.1
+WP_010940178.1	78	5B7J_A	78	0.3894	0.3221	4.211	7.7%	| Switch-activating protein 1/DNA Complex; protein, DNA, interaction, complex, DNA; NMR {Schizosaccharomyces pombe (strain 972 / ATCC 24843)}
+WP_010938472.1	145	4JLE_B	137	0.3883	0.3562	5.422	2.2%	| PHIST; 3-helix bundle, Protein interaction module; 2.35A {Plasmodium falciparum}
+WP_010939024.1	64	2LPE_A	64	0.3878	0.2235	5.738	1.6%	| Kinase suppressor of Ras 1; SAM DOMAIN, CC-SAM, COILED-COIL, SIGNALING; NMR {Mus musculus}
+WP_010937803.1	82	2FM8_A	76	0.3875	0.2984	4.020	9.2%	| Surface presentation of antigens protein; type III secretion, chaperone, translocation; 2.2A {Salmonella typhimurium} SCOP: d.198.1.1
+WP_010939409.1	85	1AJ3_A	76	0.3872	0.3486	3.767	5.3%	| ALPHA SPECTRIN; ELASTICITY, MEMBRANE SKELETON, SPECTRIN, COILED-COIL; NMR {Gallus gallus} SCOP: a.7.1.1
+WP_014524624.1	671	6D04_E	606	0.3862	0.3421	6.798	6.4%	| Transferrin receptor protein 1, Serotransferrin; malaria, Plasmodium vivax, reticulocyte, invasion; HET: NAG, CO3; 3.74A {Homo sapiens}
+WP_010940484.1	109	6TUN_A	109	0.3851	0.2729	3.019	5.5%	| General transcription and DNA repair; Helicase, DNA-repair, Transcription, Cell Cylcle; 2.07A {Homo sapiens}
+WP_014524686.1	271	3A5X_A	271	0.3848	0.2638	4.506	12.2%	| Flagellin; FLAGELLIN, FLAGELLAR FILAMENT, HELICAL RECONSTRUCTION; 4.0A {Salmonella typhimurium}
+WP_010938484.1	73	3O70_A	65	0.3819	0.3941	5.060	10.8%	| PHD finger protein 13; PHF13, Structural Genomics Consortium, SGC; HET: GOL; 1.85A {Homo sapiens}
+WP_010938791.1	89	6OLE_S	88	0.3811	0.2491	4.792	15.9%	| ribosome/tRNA; selective stalling, drug-like molecule, human; HET: 4AC, 5MU, A2M, E3C, M7A, B8N, OMU, MG, B8Q, OMG, OMC, 6MZ, UR3, PSU, 5MC, MVM, MA6; 3.1A {Homo sapiens}
+WP_010939325.1	60	1TAF_A	57	0.3808	0.3568	3.896	5.3%	| TFIID TBP ASSOCIATED FACTOR 42; TRANSCRIPTION INITIATION, HISTONE FOLD, COMPLEX; 2.0A {Drosophila melanogaster} SCOP: a.22.1.3
+WP_010939462.1	176	5IFM_B	154	0.3804	0.2983	4.719	12.3%	| Non-POU domain-containing octamer-binding protein; DBHS protein RNA binding, RNA; HET: GOL, CL, PRO; 2.6A {Homo sapiens}
+WP_164561638.1	48	5HUZ_B	48	0.3801	0.3801	4.334	4.2%	| Protein phosphatase 1 regulatory subunit; VASCULAR SMOOTH MUSCLE CELL, SIGNALING; NMR {Homo sapiens}
+WP_010939435.1	116	1PN5_A	114	0.3770	0.3131	3.948	7.0%	| NACHT-, LRR- and PYD-containing protein; 5 ALPHA-HELIX BUNDLE, APOPTOSIS; NMR {Homo sapiens} SCOP: a.77.1.5
+WP_010939335.1	487	6Y50_q	481	0.3770	0.2869	3.342	8.1%	| Splicing factor 3A subunit 3; 17S U2 snRNP, SPLICING; 4.1A {Homo sapiens}
+WP_010937378.1	102	1KWA_A	87	0.3766	0.4157	3.658	6.9%	| HCASK/LIN-2 PROTEIN; PDZ DOMAIN, NEUREXIN, SYNDECAN, RECEPTOR; HET: SO4; 1.93A {Homo sapiens} SCOP: b.36.1.1
+WP_010939461.1	337	6IAN_C	327	0.3761	0.3144	4.657	6.7%	| Intraflagellar transport protein 22; Intraflagellar transport protein 22, IFT74; HET: GTP, MSE; 3.2A {Trypanosoma brucei brucei (strain 927/4 GUTat10.1)}
+WP_010937937.1	188	6FSF_A	188	0.3760	0.3073	5.747	4.8%	| GTPase-activating protein BEM3; Bem3, PX domain, PH domain; 2.2A {Saccharomyces cerevisiae S288C}
+WP_010939969.1	139	5WLQ_A	135	0.3755	0.3363	5.178	9.6%	| Capsid assembly scaffolding protein,Myosin-7; Myosin, Gp7, Coiled-Coil, Eb1, MOTOR; HET: TMO; 3.104A {Bacillus phage phi29}
+WP_010937545.1	187	1FLK_B	184	0.3749	0.3361	5.559	10.3%	| TNF RECEPTOR ASSOCIATED FACTOR 3; TNF SIGNALING, TRAF3, CD40-BINDING PROTEIN; 2.8A {Homo sapiens} SCOP: b.8.1.1, h.1.2.1
+WP_010939082.1	67	6GQN_B	62	0.3747	0.3854	4.204	3.2%	| Cell cycle protein GpsB, PBP1A; Bacterial cell division regulator, peptidoglycan; HET: SO4; 1.8A {Streptococcus pneumoniae R6}
+WP_010939029.1	323	6IG5_D	308	0.3744	0.2991	5.002	8.8%	| Argininosuccinate lyase (E.C.4.3.2.1); argininosuccinate lyase, fumarate, tetrameric structure; 2.078A {Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)}
+WP_014524282.1	426	4YFK_L	420	0.3716	0.2983	3.828	7.6%	| Escherichia coli RNA polymerase alpha; switch region, squaramide, transcription-inhibitor complex; HET: 4C6; 3.571A {Escherichia coli O139:H28 (strain E24377A / ETEC)}
+WP_010940557.1	97	1NKP_B	83	0.3682	0.3872	5.068	3.6%	| Myc proto-oncogene protein/Max protein/DNA; TRANSCRIPTION, DNA, bHLHZ, oncogene, heterodimer; 1.8A {Homo sapiens} SCOP: a.38.1.1
+WP_010939007.1	279	5YIX_A	271	0.3660	0.3127	4.367	9.6%	| RNA polymerase sigma factor RpoD; Caulobacter crescentus, GcrA, sigma-interacting domain; HET: BU3; 2.302A {Caulobacter crescentus (strain NA1000 / CB15N)}
+WP_010939898.1	183	6HXO_G	177	0.3653	0.2858	3.759	7.9%	| ATP-citrate lyase alpha-subunit; ATP citrate lyase, central metabolism; HET: FLC, MES; 1.5A {Chlorobium limicola}
+WP_010939890.1	270	4B7J_A	267	0.3626	0.2614	4.267	11.2%	| NEURAMINIDASE; HYDROLASE, NEURAMINIDASE INHIBITOR, NAI, NAIS; HET: G39, NAG; 2.417A {INFLUENZA A VIRUS}
+WP_010937839.1	47	2YY0_D	46	0.3614	0.3551	3.568	10.9%	| C-Myc-binding protein; conserved hypothetical protein, Structural Genomics; 2.4A {Homo sapiens}
+WP_014524534.1	250	4BM5_A	233	0.3563	0.2891	4.325	6.0%	| SIMILAR TO CHLOROPLAST INNER MEMBRANE; PROTEIN TRANSPORT; 4.2A {CYANIDIOSCHYZON MEROLAE}
+WP_010938685.1	155	6DK7_F	152	0.3555	0.2888	4.460	9.9%	| RetS (Regulator of Exopolysaccharide and; Histidine kinase, Inhibitor, Signaling protein; HET: CO; 2.6A {Pseudomonas aeruginosa}
+WP_010940525.1	203	5B3H_E	182	0.3524	0.2314	4.170	8.2%	| Protein SCARECROW, Protein SHORT-ROOT, Zinc; Transcription factor, TRANSCRIPTION; 2.7A {Arabidopsis thaliana}
+WP_014524365.1	83	1NLW_A	78	0.3510	0.3564	4.182	12.8%	| MAD PROTEIN/MAX PROTEIN/DNA; transcription factor, DNA, bHLHZ, TRANSCRIPTION-DNA; 2.0A {Homo sapiens} SCOP: a.38.1.1
+WP_010938804.1	86	3V9R_A	80	0.3509	0.3455	6.192	3.8%	| Uncharacterized protein YOL086W-A, Uncharacterized protein; MHF1, MHF2, histone fold, Fanconi; 2.4A {Saccharomyces cerevisiae}
+WP_010939744.1	160	1YPY_A	157	0.3454	0.3190	5.040	8.3%	| Virion membrane protein; Vaccinia virus, Orthopox, Variola virus; 1.51A {Vaccinia virus}
+WP_010938459.1	63	3EBC_B	61	0.3437	0.1130	3.548	19.7%	| Type-2 restriction enzyme HincII (E.C.3.1.21.4); intermediate, mutant, dimerization, R-loop, Endonuclease; 2.55A {Haemophilus influenzae}
+WP_150103631.1	77	2FTC_I	77	0.3433	0.2722	4.503	14.3%	| MITOCHONDRIAL RIBOSOME, LARGE SUBUNIT; MITOCHONDRIAL RIBOSOME, LARGE RIBOSOMAL SUBUNIT; 12.1A {Bos taurus}
+WP_010939869.1	147	1I6Z_A	128	0.3277	0.3410	6.917	6.2%	| BAG-FAMILY MOLECULAR CHAPERONE REGULATOR-1; triple helix bundle, CHAPERONE; NMR {Mus musculus} SCOP: a.7.7.1
+WP_010940510.1	83	3E6Z_X	73	0.3269	0.3321	4.749	4.1%	| Cation efflux system protein cusF; copper-binding, beta-barrel, OB-fold, metalloprotein, metal; 1.0A {Escherichia coli}
+WP_010939618.1	106	6LCB_A	93	0.3234	0.3277	4.963	11.8%	| Segment polarity protein dishevelled homolog; Wnt signaling pathway, Signaling protein; HET: E83; 1.4A {Homo sapiens}
+WP_014524284.1	62	4OGR_H	57	0.3206	0.3297	5.118	10.5%	| Cyclin-dependent kinase 9 (E.C.2.7.11.22, 2.7.11.23); P-TEFb, cyclin-dependent kinase 9, cyclin; HET: TPO, ADN, ACE; 3.0A {Homo sapiens}
+WP_014524445.1	142	5NJ8_C	128	0.3190	0.2321	3.554	6.2%	| Aryl hydrocarbon receptor, Aryl hydrocarbon; basic helix loop helix PAS; HET: ER3; 3.3A {Homo sapiens}
+WP_010937889.1	74	2KX2_A	73	0.3187	0.2837	5.060	11.0%	| Putative uncharacterized protein; methanobacterium thermoautotrophicum, structural genomics, UNKNOWN; NMR {Methanobacterium thermoautotrophicum}
+WP_010939004.1	114	5K39_A	114	0.3165	0.2607	4.977	9.6%	| Cellulosome anchoring protein cohesin region; S-LAYER, SECRETED, CELL WALL, MEMBRANE; 1.98A {Ruminiclostridium thermocellum 27405}
+WP_010938818.1	72	2YUN_A	66	0.3135	0.3013	5.029	6.1%	| Nostrin; Nitric oxide synthase trafficker, Structural; NMR {Homo sapiens}
+WP_164928137.1	63	2LKZ_A	63	0.3114	0.2742	5.738	14.3%	| RNA-binding protein 5; RRM, RNA BINDING PROTEIN; NMR {Homo sapiens}
+WP_014524200.1	217	6TNY_A	204	0.3066	0.1020	5.101	7.8%	| DNA polymerase delta catalytic subunit; Protein, REPLICATION; HET: DOC, TTP; 3.08A {Homo sapiens}
+WP_010939397.1	134	6X66_HK	103	0.3040	0.2465	3.129	10.7%	| DotC, DotD, Type IV secretion; Secretion, T4SS, Dot, PROTEIN TRANSPORT;{Legionella pneumophila}
+WP_150103622.1	88	4Z7A_A	81	0.3032	0.1162	7.269	6.2%	| Mycobacterium tuberculosis (3,3)L,D-Transpeptidase type 5; peptidoglycan, cell wall biosynthesis, carbapenems; HET: PEG, PGE; 1.98A {Mycobacterium tuberculosis (strain ATCC 25177 / H37Ra)}
+WP_010939010.1	117	1RZ2_A	115	0.2949	0.1985	3.010	8.7%	| conserved hypothetical protein; Sortase B protein, B. anthracis; 1.6A {Bacillus anthracis} SCOP: b.100.1.1
+WP_041722671.1	226	3W6Q_B	224	0.2884	0.1557	3.551	8.0%	| tyrosinase; Four helix bundle, METAL BINDING; 2.052A {Aspergillus oryzae}
+WP_014524486.1	46	5LF8_A	46	0.2883	0.0949	5.253	13.0%	| Nucleoside diphosphate-linked moiety X motif; Hydrolase, Structural Genomics, Structural Genomics; 2.56A {Homo sapiens}
+WP_010940357.1	67	7JZZ_K	67	0.2854	0.2212	4.385	10.4%	| CRISPR-associated protein Csy1, Type I-F; CRISPR, HYDROLASE-RNA complex;{Pseudomonas aeruginosa}
+WP_010939843.1	51	6S0K_k	51	0.2832	0.2782	4.575	5.9%	| 50S ribosomal protein L2, 50S; Ribosome nascent chain in complex; HET: MG; 3.1A {Escherichia coli}
+WP_164561858.1	49	4V9F_6	48	0.2676	0.2630	5.489	18.8%	| PROTEIN/RNA Complex; 50S ribosomal subunit, ribonucleoprotein, ribosomal; HET: OMU, UR3, 1MA, NA, MG, CL, OMG, PSU, ACY; 2.404A {Haloarcula marismortui}
+WP_164928147.1	51	6XYW_AC	51	0.2635	0.2580	5.674	11.8%	| 60S ribosomal protein L2, mitochondrial; Ribosome, Mitochondria, Plant; 3.86A {Arabidopsis thaliana}
+WP_011791744.1	72	5C3I_D	67	0.2581	0.2351	3.887	10.4%	| Histone chaperone ASF1A, Histone H3.1; replication, histone, chaperone, ASF1, MCM; 3.5A {Homo sapiens}
